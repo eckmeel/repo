@@ -4,23 +4,24 @@ title: "Lembar Kerja Bab 01"
 
 # Panduan Aktivitas Kelas: Peta Karakter Komunikasi Pribadi
 
-**Mata Kuliah: Komunikasi Interpersonal dan Publik** **Bahan Kajian: Bab 1 — Komunikasi Dimulai dari Manusia, Bukan dari Pesan**
+**Mata Kuliah:** Komunikasi Interpersonal dan Publik  
+**Bahan Kajian:** Bab 1 — Komunikasi Dimulai dari Manusia, Bukan dari Pesan
 
 ------------------------------------------------------------------------
 
 ## 1. Pengantar dan Landasan Teoritis
 
-Selamat datang di langkah awal perjalanan komunikasi Anda! Di era kecerdasan buatan (AI) yang sangat mahir memanipulasi dan menyusun kata-kata, kompetensi komunikasi yang sejati tetap berakar pada kapasitas kemanusiaan kita untuk merawat kepercayaan dan membangun relasi nyata \[56, 115\].
+Selamat datang di langkah awal perjalanan komunikasi Anda! Di era kecerdasan buatan (AI) yang sangat mahir memanipulasi dan menyusun kata-kata, kompetensi komunikasi yang sejati tetap berakar pada kapasitas kemanusiaan kita untuk merawat kepercayaan dan membangun relasi nyata.
 
-Sebelum Anda mulai menyusun pesan, menulis draf presentasi, atau merancang strategi persuasi, Anda harus menjawab pertanyaan yang paling mendasar: **Siapa yang sebenarnya sedang berkomunikasi?** \[73, 115\]
+Sebelum Anda mulai menyusun pesan, menulis draf presentasi, atau merancang strategi persuasi, Anda harus menjawab pertanyaan yang paling mendasar: **Siapa yang sebenarnya sedang berkomunikasi?** 
 
-Untuk menjawabnya, buku *Komunikasi Interpersonal dan Publik* karya Armein Z. R. Langi menawarkan sebuah kerangka kerja tiga lapis untuk memahami diri sendiri dan orang lain \[94, 123\]:
+Untuk menjawabnya, buku *Komunikasi Interpersonal dan Publik* karya Armein Z. R. Langi menawarkan sebuah kerangka kerja tiga lapis untuk memahami diri sendiri dan orang lain:
 
-1.  **Pribadi (*Person*):** Manusia utuh yang nyata, memiliki martabat, sejarah hidup, nilai-nilai, kebutuhan, emosi, dan kebebasan memilih \[94, 123\]. Anda tidak boleh mereduksi seseorang menjadi sekadar kategori atau label seperti "mahasiswa," "dosen," "pelanggan," atau "Gen Z" \[94, 121\].
-2.  **Kepribadian (*Personality*):** Kecenderungan seseorang dalam berpikir, merasa, dan bertindak (misalnya: reflektif atau ekspresif, spontan atau terencana) \[95, 124\]. Kepribadian adalah *hipotesis kerja* yang membantu kita memperkirakan kebutuhan komunikasi, tetapi ia **bukan takdir atau penjara batin** \[95, 124, 351\]. Anda selalu memiliki kebebasan untuk memilih respons yang lebih tepat \[125\].
-3.  **Peran Naratif (*Narrative Character*):** Identitas dan tanggung jawab komunikatif yang Anda jalankan dalam situasi tertentu \[125\]. Menjadi autentik bukan berarti berbicara dengan gaya yang kaku dan sama kepada semua orang \[127\]. Keaslian berarti **nilai-nilai inti Anda tetap utuh, sementara cara Anda hadir menyesuaikan dengan tuntutan tanggung jawab peran Anda** \[127\].
+1.  **Pribadi (*Person*):** Manusia utuh yang nyata, memiliki martabat, sejarah hidup, nilai-nilai, kebutuhan, emosi, dan kebebasan memilih. Anda tidak boleh mereduksi seseorang menjadi sekadar kategori atau label seperti "mahasiswa," "dosen," "pelanggan," atau "Gen Z".
+2.  **Kepribadian (*Personality*):** Kecenderungan seseorang dalam berpikir, merasa, dan bertindak (misalnya: reflektif atau ekspresif, spontan atau terencana). Kepribadian adalah *hipotesis kerja* yang membantu kita memperkirakan kebutuhan komunikasi, tetapi ia **bukan takdir atau penjara batin**. Anda selalu memiliki kebebasan untuk memilih respons yang lebih tepat.
+3.  **Peran Naratif (*Narrative Character*):** Identitas dan tanggung jawab komunikatif yang Anda jalankan dalam situasi tertentu. Menjadi autentik bukan berarti berbicara dengan gaya yang kaku dan sama kepada semua orang. Keaslian berarti **nilai-nilai inti Anda tetap utuh, sementara cara Anda hadir menyesuaikan dengan tuntutan tanggung jawab peran Anda**.
 
-Melalui aktivitas ini, Anda akan menyusun **Peta Karakter Komunikasi Pribadi** \[116\]. Peta ini akan menjadi profil awal sekaligus **artefak pertama dalam Portofolio Komunikasi** Anda di semester ini \[139, 350\].
+Melalui aktivitas ini, Anda akan menyusun **Peta Karakter Komunikasi Pribadi**. Peta ini akan menjadi profil awal sekaligus **artefak pertama dalam Portofolio Komunikasi** Anda di semester ini.
 
 ------------------------------------------------------------------------
 
@@ -30,17 +31,34 @@ Aktivitas ini dirancang dalam tiga tahapan mandiri yang sistematis:
 
 ### Langkah 1: Memetakan Peran dalam 5 Domain Kehidupan
 
-Manusia menjalankan peran komunikasinya dalam lima lingkar (domain) kehidupan yang bergerak dari dalam ke luar \[70, 98\]: \* **Diri:** Hubungan dengan diri sendiri (mengatur batin, motivasi, regulasi emosi) \[98, 132\]. \* **Keluarga & Sahabat:** Hubungan dekat yang menuntut kehadiran emosional dan pendengaran aktif \[98, 132\]. \* **Profesional:** Hubungan di dunia kerja/akademik untuk menciptakan nilai bersama \[98, 132\]. \* **Komunitas:** Hubungan bertetangga dan kelompok sosial untuk bertindak di tengah perbedaan \[99, 133\]. \* **Dunia/Publik:** Hubungan dengan publik luas demi memberikan kontribusi gagasan secara bertanggung jawab \[99, 133\].
+Manusia menjalankan peran komunikasinya dalam lima lingkar (domain) kehidupan yang bergerak dari dalam ke luar:
 
-*Tugas Anda:* Pilih satu peran yang paling dominan atau ingin Anda kembangkan di masing-masing dari lima domain tersebut \[135\].
+- **Diri:** Hubungan dengan diri sendiri, termasuk mengelola batin, motivasi, dan emosi.
+- **Keluarga & Sahabat:** Hubungan dekat yang menuntut kehadiran emosional dan pendengaran aktif.
+- **Profesional:** Hubungan di dunia kerja atau akademik untuk menciptakan nilai bersama.
+- **Komunitas:** Hubungan dalam kelompok sosial untuk bertindak di tengah perbedaan.
+- **Dunia/Publik:** Hubungan dengan publik luas untuk menyampaikan gagasan secara bertanggung jawab.
+
+*Tugas Anda:* Pilih satu peran yang paling dominan atau ingin Anda kembangkan di masing-masing dari lima domain tersebut.
 
 ### Langkah 2: Menguraikan Kontras Komunikasi (Analisis Dua Peran Utama)
 
-Pilihlah **dua peran** dari Langkah 1 yang paling penting atau paling menantang bagi Anda saat ini \[135, 136\]. Anda akan menguraikan perbedaan tuntutan komunikasi keduanya berdasarkan enam unsur \[136\]: \* **Tujuan:** Perubahan pengetahuan, kesepakatan, tindakan, atau relasi apa yang ingin dicapai? \[128, 136\] \* **Repertoar:** Tindakan komunikasi apa yang paling dibutuhkan (mendengarkan, bertanya, bercerita, menyajikan fakta, bernegosiasi)? \[129, 136\] \* **Bahasa:** Nada, pilihan kata, tingkat kerumitan, atau medium apa yang sesuai? \[130, 136\] \* **Respons:** Isyarat verbal atau nonverbal apa yang krusial untuk Anda baca dan perhatikan? \[131, 136\] \* **Tindakan yang Diharapkan:** Hasil konkret apa yang menandakan peran tersebut berhasil dijalankan? \[131, 136\] \* **Relasi yang Ingin Dipelihara:** Bagaimana kualitas hubungan jangka panjang yang ingin Anda bangun? \[131, 136\]
+Pilihlah **dua peran** dari Langkah 1 yang paling penting atau paling menantang bagi Anda saat ini. Uraikan perbedaan tuntutan komunikasi keduanya berdasarkan enam unsur berikut:
+
+- **Tujuan:** Perubahan pengetahuan, kesepakatan, tindakan, atau relasi yang ingin dicapai.
+- **Repertoar:** Tindakan komunikasi yang dibutuhkan, seperti mendengarkan, bertanya, bercerita, menyajikan fakta, atau bernegosiasi.
+- **Bahasa:** Nada, pilihan kata, tingkat kerumitan, dan medium yang sesuai.
+- **Respons:** Isyarat verbal atau nonverbal yang perlu dibaca dan diperhatikan.
+- **Tindakan yang Diharapkan:** Hasil konkret yang menandakan peran berhasil dijalankan.
+- **Relasi yang Ingin Dipelihara:** Kualitas hubungan jangka panjang yang ingin dibangun.
 
 ### Langkah 3: Menemukan Ketegangan & Sasaran Pertumbuhan
 
-Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, tuntutan peran ini bergesekan (mengalami ketegangan) dengan kecenderungan kepribadian otomatis Anda \[136\]. \* *Contoh:* Anda memiliki kepribadian yang cenderung menghindari konflik, tetapi peran Anda sebagai Ketua Kelompok menuntut Anda melakukan ketegasan asertif saat ada rekan tim yang melanggar kesepakatan \[136\]. \* *Tugas Anda:* Identifikasi ketegangan tersebut, lalu rumuskan **satu sasaran pertumbuhan perilaku yang spesifik, realistis, dan terukur** \[136, 351\].
+Setiap peran menuntut repertoire komunikasi tertentu. Tuntutan tersebut dapat bergesekan dengan kecenderungan personality yang muncul secara otomatis.
+
+*Contoh:* Seseorang mungkin cenderung menghindari konflik, sementara perannya sebagai ketua kelompok menuntut komunikasi asertif ketika anggota tim tidak memenuhi kesepakatan.
+
+*Tugas Anda:* Identifikasi satu ketegangan seperti ini, lalu rumuskan **sasaran pertumbuhan perilaku yang spesifik, realistis, dan terukur**.
 
 ------------------------------------------------------------------------
 
@@ -48,62 +66,54 @@ Setiap peran menuntut repertoar komunikasi tertentu \[116, 129\]. Sering kali, t
 
 *Silakan salin bagian ini ke dalam lembar pengerjaan tugas atau dokumen portofolio Anda.*
 
-**Nama Mahasiswa:** \[Nama Anda / Gunakan Samaran untuk Privasi\] \[350\] **Tanggal Pengerjaan:** \[Tanggal\]
+**Nama Mahasiswa:** Akmal Nararya Hasan  
+**Tanggal Pengerjaan:** [Tanggal]
 
-### Bagian A: Peta 5 Domain Kehidupan \[135\]
+### Bagian A: Peta 5 Domain Kehidupan 
 
 Lengkapi tabel berikut untuk memetakan peran komunikasi Anda saat ini:
 
 | Domain Kehidupan | Peran yang Saya Ambil | Siapa yang Saya Jumpai | Tanggung Jawab Utama Komunikasi |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| **1. Diri Sendiri** |  |  |  |
-| **2. Keluarga / Sahabat** |  |  |  |
-| **3. Profesional / Akademik** |  |  |  |
-| **4. Komunitas / Kelompok** |  |  |  |
-| **5. Dunia / Publik** |  |  |  |
+| **1. Diri Sendiri** | Reflective learner | Diri sendiri saat mengevaluasi tugas, keputusan, pengalaman organisasi, dan feedback | Memisahkan fakta dari asumsi, mengevaluasi diri secara objektif, dan menentukan perbaikan tanpa menyalahkan diri sendiri |
+| **2. Keluarga / Sahabat** | Supportive friend | Teman dekat yang ingin bercerita atau berdiskusi | Mendengarkan, memahami kebutuhan teman, dan tidak langsung memberi solusi sebelum diminta |
+| **3. Profesional / Akademik** | Project team member / team coordinator | Rekan dalam tugas kuliah dan proyek akademik | Menyelaraskan pekerjaan, mengklarifikasi tugas, menjaga deadline, dan memastikan tanggung jawab dipahami |
+| **4. Komunitas / Kelompok** | Committee / event team member | Anggota organisasi, panitia, dan sub-divisi acara | Berkoordinasi, membagi pekerjaan, menjaga komunikasi antar-sub-divisi, dan membantu tim mencapai tujuan bersama |
+| **5. Dunia / Publik** | Presenter / idea communicator | Audiens presentasi, kompetisi, atau kegiatan publik | Menyampaikan gagasan dengan jelas, menyesuaikan language dengan audiens, dan membantu audiens memahami pesan utama |
 
-### Bagian B: Analisis Kontras Dua Peran Utama \[136\]
+### Bagian B: Analisis Kontras Dua Peran Utama 
 
-Pilih dua peran dari tabel di atas yang paling kontras atau menantang (misalnya: Peran A = Anggota Tim Proyek, Peran B = Sahabat Pendengar), lalu uraikan perbedaannya:
+Peran A adalah **Penanggung Jawab Tim Acara** dan Peran B adalah **Sahabat**. Keduanya menuntut cara komunikasi yang berbeda:
 
-| Unsur Komunikasi | Peran A: \[Tulis Nama Peran A\] | Peran B: \[Tulis Nama Peran B\] |
+| Unsur Komunikasi | Peran A: Penanggung Jawab Tim Acara | Peran B: Sahabat |
 |:-----------------------|:-----------------------|:-----------------------|
-| **1. Tujuan Tugas & Relasi** \[128\] |  |  |
-| **2. Repertoar Utama** \[129\] |  |  |
-| **3. Pilihan Bahasa & Nada** \[130\] |  |  |
-| **4. Respons yang Harus Dibaca** \[131\] |  |  |
-| **5. Tindakan yang Diharapkan** \[131\] |  |  |
-| **6. Relasi yang Harus Dirawat** \[131\] |  |  |
+| **1. Tujuan Tugas & Relasi** | Menjaga tujuan acara tercapai melalui koordinasi, progress, deadline, dan pembagian tanggung jawab sambil mempertahankan trust dan respect | Memahami kebutuhan serta kondisi teman; rasa aman dalam hubungan lebih penting daripada langsung menghasilkan action |
+| **2. Repertoar Utama** | Mengklarifikasi status pekerjaan, memeriksa hambatan, menyepakati prioritas, dan merangkum action | Mendengarkan, mengajukan pertanyaan terbuka, dan memastikan apakah teman ingin didengarkan atau mencari solusi |
+| **3. Pilihan Bahasa & Nada** | Jelas, langsung, dan terstruktur; tetap terbuka serta menghargai anggota | Personal dan suportif, tanpa memaksakan solusi |
+| **4. Respons yang Harus Dibaca** | Kesesuaian laporan dengan kondisi aktual, pekerjaan tertinggal, workload, dan kebutuhan bantuan | Kesediaan bercerita, kebutuhan emosional, dan apakah teman meminta saran |
+| **5. Tindakan yang Diharapkan** | Ada pemahaman yang sama tentang prioritas, tanggung jawab, deadline, dan pekerjaan berikutnya | Teman merasa didengar dan dapat menentukan sendiri apakah ingin mengambil tindakan |
+| **6. Relasi yang Harus Dirawat** | Trust, respect, keterbukaan, dan akuntabilitas antaranggota tim | Kedekatan, rasa aman, dan penghargaan terhadap pengalaman teman |
 
-### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan \[351\]
+### Bagian C: Eksplorasi Kepribadian dan Sasaran Pertumbuhan 
 
-Jawablah pertanyaan reflektif berikut dengan jujur berdasarkan Template Lampiran B.2 \[351\]:
-
-1.  **Nilai Utama:** Nilai-nilai kemanusiaan apa saja yang paling ingin Anda tampakkan dalam komunikasi Anda sehari-hari? (Contoh: ketulusan, kejujuran, penghargaan, atau keadilan) \[351\]
-    - *Jawaban:*
-2.  **Kekuatan Komunikasi:** Kekuatan atau kecenderungan kepribadian apa yang sudah Anda miliki dan membantu komunikasi Anda selama ini? \[351\]
-    - *Jawaban:*
-3.  **Pola Hambatan Otomatis:** Pola atau kebiasaan komunikatif apa yang paling sering menghambat Anda saat berada di bawah tekanan atau situasi tidak nyaman? \[351\]
-    - *Jawaban:*
-4.  **Ketegangan Peran & Kepribadian:** Tuliskan satu situasi spesifik di mana kecenderungan kepribadian otomatis Anda bergesekan dengan tuntutan tanggung jawab peran Anda \[136\] (gunakan pola: *"Saya cenderung \[kepribadian\], tetapi peran saya sebagai \[nama peran\] menuntut saya untuk \[perilaku komunikasi\]"*).
-    - *Jawaban:*
-5.  **Sasaran Pertumbuhan Perilaku Terukur:** Berdasarkan ketegangan di atas, susun satu pernyataan sasaran pertumbuhan perilaku yang spesifik untuk 4-6 minggu ke depan \[109, 351\].
-    - *Aturan perumusan:* Jangan menulis sasaran abstrak (seperti "Saya ingin menjadi komunikator hebat") \[109\]. Tulislah sasaran mikro yang nyata, misalnya: *"Ketika seorang teman sedang bercerita, saya akan menahan diri untuk tidak langsung memotong atau memberi solusi selama 3 menit pertama. Saya akan merangkum maknanya dan memvalidasi perasaannya terlebih dahulu."* \[109\]
-    - *Sasaran Saya:*
-6.  **Umpan Balik Jujur:** Siapa nama (atau inisial) orang terdekat di sekitar Anda yang dapat Anda mintai umpan balik jujur untuk memantau pertumbuhan perilaku ini? \[351\]
-    - *Jawaban:*
+1. **Nilai Utama:** Nilai utama saya adalah tanggung jawab, keterbukaan, dan penghargaan terhadap orang lain. Saya menunjukkannya dengan menetapkan target dan boundaries secara jelas, terbuka terhadap kondisi serta hambatan tim, dan memberi ruang kepada sub-divisi untuk memilih cara kerja mereka.
+2. **Kekuatan Komunikasi:** Saya terstruktur dalam mengelola pekerjaan, cukup nyaman mengambil tanggung jawab dan berkoordinasi, serta berorientasi pada solusi. Saya juga memberi autonomy kepada anggota selama target dan boundaries tetap dipenuhi.
+3. **Pola Hambatan Otomatis:** Ketika melihat masalah, saya cenderung segera mencari solusi. Karena memberi trust kepada anggota, saya juga bisa terlalu cepat menganggap progress report sudah menggambarkan kondisi aktual. Saya perlu meningkatkan clarification dan verification tanpa membuat anggota merasa terlalu dikontrol.
+4. **Ketegangan Peran & Kepribadian:** Saya cenderung memberi trust dan autonomy kepada anggota, tetapi sebagai penanggung jawab tim saya tetap perlu melakukan monitoring dan clarification. Saat menangani sub-divisi Design, saya beberapa kali menyetujui weekly progress karena percaya pada laporan mereka. Pengecekan berikutnya menunjukkan sebagian laporan belum sesuai dengan kondisi aktual dan beberapa pekerjaan tertinggal. Saya sempat menganggap tim Design terlalu santai, tetapi itu asumsi; fakta yang saya amati adalah progress yang dilaporkan tidak sepenuhnya sesuai dan pekerjaan masih tertinggal.
+5. **Sasaran Pertumbuhan Perilaku Terukur:** Selama 4–6 minggu, setiap menerima progress report, saya akan mengajukan minimal satu pertanyaan klarifikasi tentang status pekerjaan, hambatan, atau kebutuhan bantuan sebelum menyimpulkan bahwa pekerjaan berjalan sesuai target. Saya akan mencatat penerapannya setelah rapat atau weekly update dan mengevaluasinya setiap akhir minggu.
+6. **Umpan Balik Jujur:** Saya akan meminta satu rekan yang pernah bekerja langsung dengan saya memberikan feedback tentang keseimbangan autonomy, trust, dan monitoring yang saya lakukan. Feedback tersebut belum dikumpulkan.
 
 ------------------------------------------------------------------------
 
 ## 4. Rubrik Penilaian & Evaluasi Mandiri
 
-Gunakan rubrik berikut (diadaptasi dari *Rubrik Kinerja Kriteria 1: Pengenalan Pribadi dan Karakter* \[360\] serta *Rubrik Laboratorium* \[138\]) untuk memeriksa apakah Peta Karakter Anda telah memenuhi standar kualitas akademik:
+Gunakan rubrik berikut (diadaptasi dari *Rubrik Kinerja Kriteria 1: Pengenalan Pribadi dan Karakter* serta *Rubrik Laboratorium*) untuk memeriksa apakah Peta Karakter Anda telah memenuhi standar kualitas akademik:
 
-- **Tingkat Unggul (Skor 4):** Berhasil memetakan kelima domain kehidupan secara realistis \[116\]. Mampu membedakan dengan sangat jernih antara Pribadi, Kepribadian, dan Peran Naratif \[116\]. Sasaran pertumbuhan dirumuskan secara sangat spesifik, terukur, berfokus pada perubahan perilaku komunikatif yang nyata, dan dilengkapi rencana umpan balik dari orang lain \[109, 351\].
-- **Tingkat Cakap (Skor 3):** Memetakan domain kehidupan dengan baik \[116\]. Mampu mengidentifikasi perbedaan peran komunikasi secara relevan dan menghindari stereotip \[360\]. Sasaran pertumbuhan sudah berorientasi pada perilaku komunikatif meskipun ukurannya masih bisa dipertegas lagi \[359\].
-- **Tingkat Berkembang (Skor 2):** Pemetaan domain kehidupan atau perbedaan peran masih terasa sangat umum, kaku, atau menggunakan asumsi/label sepihak \[360\]. Sasaran pertumbuhan dirumuskan secara abstrak atau berfokus pada hasil akhir saja, bukan perilaku komunikasinya \[359\].
-- **Tingkat Awal (Skor 1):** Belum memperlihatkan pemahaman tentang perbedaan peran naratif \[360\]. Kepribadian diperlakukan sebagai stempel batin yang kaku ("saya memang begini") tanpa adanya sasaran pertumbuhan perilaku yang jelas \[125, 360\].
+- **Tingkat Unggul (Skor 4):** Berhasil memetakan kelima domain kehidupan secara realistis. Mampu membedakan dengan sangat jernih antara Pribadi, Kepribadian, dan Peran Naratif. Sasaran pertumbuhan dirumuskan secara sangat spesifik, terukur, berfokus pada perubahan perilaku komunikatif yang nyata, dan dilengkapi rencana umpan balik dari orang lain.
+- **Tingkat Cakap (Skor 3):** Memetakan domain kehidupan dengan baik. Mampu mengidentifikasi perbedaan peran komunikasi secara relevan dan menghindari stereotip. Sasaran pertumbuhan sudah berorientasi pada perilaku komunikatif meskipun ukurannya masih bisa dipertegas lagi.
+- **Tingkat Berkembang (Skor 2):** Pemetaan domain kehidupan atau perbedaan peran masih terasa sangat umum, kaku, atau menggunakan asumsi/label sepihak. Sasaran pertumbuhan dirumuskan secara abstrak atau berfokus pada hasil akhir saja, bukan perilaku komunikasinya.
+- **Tingkat Awal (Skor 1):** Belum memperlihatkan pemahaman tentang perbedaan peran naratif. Kepribadian diperlakukan sebagai stempel batin yang kaku ("saya memang begini") tanpa adanya sasaran pertumbuhan perilaku yang jelas.
 
 ------------------------------------------------------------------------
 
-> **Pesan Etika & Privasi:** Peta karakter komunikasi ini berisi refleksi personal Anda \[339\]. Jika Anda membagikan lembar kerja ini di kelas untuk sesi diskusi kelompok atau penilaian rekan, **samarkan nama-nama orang lain** (misalnya: ganti nama keluarga atau sahabat menjadi inisial atau "Mitra A") demi melindungi privasi relasi Anda \[66, 342, 350\]. Simpan dokumen ini dengan nama berkas yang rapi dan konsisten (contoh: `M01-peta-karakter-nama.md`) untuk mempermudah penyusunan Portofolio Akhir Anda nanti \[350\].
+> **Pesan Etika & Privasi:** Peta karakter komunikasi ini berisi refleksi personal Anda. Jika Anda membagikan lembar kerja ini di kelas untuk sesi diskusi kelompok atau penilaian rekan, **samarkan nama-nama orang lain** (misalnya: ganti nama keluarga atau sahabat menjadi inisial atau "Mitra A") demi melindungi privasi relasi Anda. Simpan dokumen ini dengan nama berkas yang rapi dan konsisten (contoh: `M01-peta-karakter-nama.md`) untuk mempermudah penyusunan Portofolio Akhir Anda nanti.

@@ -1,25 +1,93 @@
 ---
-title: "Relationship Conversation"
+title: "Week 03 — Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
-description: "Evidence listening, boundary, request, atau repair."
+description: "Refleksi personal conversation dengan fokus pada listening, clarity, dan relationship awareness."
 categories: [Fondasi, Relationship]
 ---
 
+# Relationship Conversation
+
+Evidence listening, clarity, dan relationship awareness melalui percakapan dengan teman dekat.
+
 ## Kompetensi target
 
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+Melakukan personal conversation dengan listening, clarity, dan awareness terhadap relationship serta kebutuhan mitra.
 
 ## Evidence wajib
 
-- Transcript atau catatan percakapan.
+- Catatan percakapan dengan mitra.
 - Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+- Analisis relationship state sebelum dan sesudah percakapan.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Konteks performance
+
+**Tanggal dan setting:** 26 September 2026, percakapan tatap muka di kos.
+
+**Persons dan relationship:** Saya dan Emir, seorang teman dekat. Hubungan kami cukup dekat dan terbuka sehingga kami dapat saling bercerita dan memberi masukan.
+
+**Objective dan initial state:** Tujuan saya adalah membantu Emir memperoleh kejelasan mengenai pilihan kuliahnya tanpa mengambil keputusan untuknya. Emir sedang bingung mengenai keinginannya untuk pindah dari Universitas Padjadjaran ke Institut Teknologi Bandung pada jurusan yang sama dan mempertimbangkan beberapa konsekuensi.
+
+## Episode percakapan
+
+Emir bercerita bahwa ia mempertimbangkan pindah dari Universitas Padjadjaran ke Institut Teknologi Bandung pada jurusan yang sama. Ia merasa tidak memiliki cukup waktu untuk mempersiapkan SNBT dan mempertimbangkan jalur mandiri, tetapi biaya jalur tersebut menjadi perhatian karena sebelumnya ia sudah masuk Universitas Padjadjaran melalui jalur mandiri dengan biaya cukup besar. Ia juga merasa lelah menjalani osjur yang berlangsung lama bersamaan dengan perkuliahan.
+
+Saya mencoba memahami alasan di balik keinginannya pindah, bukan hanya menanggapi pilihan kampusnya. Saya menyampaikan parafrasa berikut untuk mengecek pemahaman:
+
+> “Mungkin yang membuat kamu ingin pindah bukan hanya soal kampusnya, tetapi juga karena kamu sedang kelelahan dengan osjur dan belum menemukan teman yang benar-benar cocok. Apakah saya menangkapnya dengan benar?”
+
+Emir mengakui bahwa ia memang belum menemukan teman yang cocok. Saya juga bertanya apakah ia siap mengulang proses dari awal dan apakah ia yakin dapat membagi waktu untuk belajar masuk ITB. Jawaban Emir terhadap dua pertanyaan tersebut tidak tercatat dalam bahan yang tersedia, sehingga tidak saya simpulkan di sini.
+
+Setelah itu saya menanyakan apakah ia ingin didengarkan, dibantu memikirkan pilihan, atau membutuhkan saran. Emir memilih mendapatkan saran dan bantuan untuk memikirkan pilihan tindakan. Saya tidak mengambil keputusan untuknya; tujuan saya adalah membantunya mempertimbangkan pilihannya.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Saya mengenali kebiasaan saya untuk cepat masuk ke mode *problem-solving*. Dalam percakapan ini saya berusaha hadir sebagai teman yang mendengarkan dan menghormati otonomi Emir. |
+| Objective & state | Tujuan saya adalah membantu Emir memperoleh kejelasan tanpa menentukan pilihannya. Pada awal percakapan, ia bingung mengenai rencana pindah dan mempertimbangkan waktu, biaya, osjur, kuliah, serta lingkungan pertemanan. |
+| Repertoire & language | Saya menggunakan parafrasa untuk memeriksa makna cerita, menyampaikan dugaan tentang rasa lelah dan kebutuhan akan lingkungan pertemanan secara tentatif, serta menanyakan bentuk bantuan yang ia inginkan. |
+| Response & adaptation | Saya memberi Emir kesempatan menyelesaikan cerita dan tidak langsung menilai keinginannya pindah. Setelah mengetahui ia menginginkan saran dan bantuan memikirkan pilihan, saya dapat menyesuaikan bentuk respons dengan permintaannya. |
+| Agreement/action | Emir memilih mendapatkan saran dan bantuan memikirkan pilihan. Kesepakatan atau keputusan akhir terkait rencana kuliahnya tidak disebutkan dalam catatan yang tersedia. |
+| Relationship outcome | Emir menyampaikan bahwa ia merasa paling didengarkan ketika saya tidak langsung menilai dan membiarkannya menyelesaikan cerita. Perubahan keadaan hubungan setelah percakapan tidak diukur atau dicatat. |
+
+## Evidence
+
+Catatan latihan dan refleksi tertulis menjadi dasar analisis ini. Transcript lengkap atau bukti terpisah seperti catatan observer tidak dilampirkan. Kutipan parafrasa di atas digunakan untuk menggambarkan kalimat yang disampaikan; bila bukan kata-kata persis, kutipan tersebut perlu dipahami sebagai parafrasa.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Emir merasa paling didengarkan ketika saya tidak langsung menilai keinginannya untuk pindah dan membiarkannya menyelesaikan cerita. Ia juga memberi catatan bahwa saya dapat terlalu cepat mencari penyelesaian ketika masalah terasa membutuhkan solusi segera.
+
+**Adaptation/replay:** Jika mengulang percakapan, saya akan terus memberi ruang bagi Emir untuk menyelesaikan ceritanya dan mengecek kebutuhannya sebelum memberikan saran. Saya juga akan memastikan pertanyaan membantu memahami, bukan mengarahkan pada pilihan yang menurut saya paling masuk akal.
+
+**Next practice:** Dalam 14 hari ke depan, minimal tiga kali saya akan membiarkan keluarga atau sahabat menyelesaikan cerita sebelum merespons. Setelah itu saya akan menanyakan apakah mereka ingin didengarkan, dibantu memikirkan pilihan, atau membutuhkan saran.
+
+## Penggunaan AI
+
+AI digunakan untuk membantu menyusun dan merapikan refleksi ini berdasarkan catatan yang saya berikan. Pengalaman, isi percakapan, dan feedback berasal dari catatan saya; AI tidak digunakan sebagai sumber fakta atau sebagai pengganti konfirmasi dari Emir. Kutipan yang tidak dipastikan verbatim diperlakukan sebagai parafrasa.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Saya mengenali kecenderungan untuk cepat menyelesaikan masalah dan berusaha hadir sebagai pendengar. |
+| Objective & State | 3 | Tujuan percakapan dan kebingungan Emir mengenai pilihan kuliah dijelaskan. |
+| Repertoire, Language & AI | 3 | Saya menggunakan parafrasa, dugaan tentatif, pertanyaan kebutuhan, dan AI sebagai alat bantu penulisan yang diperiksa kembali. |
+| Response & Adaptation | 3 | Saya menahan penilaian awal dan bertanya bentuk bantuan yang diinginkan sebelum memberi saran. |
+| Agreement, Action & Relationship | 3 | Pilihan bantuan Emir dan latihan berikutnya yang terukur dicatat; keputusan akhir serta perubahan relationship state belum diketahui. |
+
+**Total:** 15 / 20
+
+**Refleksi:** Saya cenderung cepat masuk ke mode *problem-solving* ketika seseorang bercerita. Latihan ini membantu saya melihat bahwa mendengarkan tidak selalu berarti langsung menawarkan penyelesaian. Saya dapat memahami alasan Emir tanpa harus mengambil keputusan untuknya. Ke depan, saya ingin memastikan bentuk bantuan sesuai dengan kebutuhannya dan tetap menghargai otonominya.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
-
-{{< include ../includes/evidence-template.md >}}

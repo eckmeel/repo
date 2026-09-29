@@ -2,118 +2,94 @@
 title: "Lembar Kerja Bab 05"
 ---
 
-# LEMBAR KERJA PRAKTIS: WAWANCARA PENEMUAN KEBUTUHAN & FORMULA PERNYATAAN MASALAH PELANGGAN
+# Lembar Kerja Praktis: Wawancara Penemuan Kebutuhan dan Formula Pernyataan Masalah Pelanggan
+
 *Materi Pendamping Penugasan Bab 5: Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama*
 
----
+## B. Identitas Mahasiswa
 
-> **“Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.”**
-> — *Komunikasi Interpersonal dan Publik*, Bab 5
+- **Nama lengkap:** Akmal
+- **NIM:** Belum dicantumkan
+- **Program studi:** Sistem dan Teknologi Informasi
+- **Tanggal pengisian:** Belum dicantumkan
 
----
+## Fase 2: Lembar Pengerjaan Mahasiswa
 
-## 📌 PENGANTAR: NILAI ADA DALAM PENGALAMAN PENERIMA
-Sebagai calon profesional, kesalahan terbesar yang sering kita lakukan adalah **terlalu cepat menyodorkan solusi atau membuat fitur sebelum benar-benar memahami masalahnya**. Permintaan awal dari rekan kerja atau pelanggan (seperti meminta dibuatkan "aplikasi baru", "pemberitahuan SMS", atau "sistem pencatatan otomatis") sering kali bukanlah solusi terbaik. Kebutuhan nyata mereka mungkin hanyalah akses informasi yang lebih cepat, kejelasan pembagian tugas, atau pengurangan waktu tunggu.
+### 1. Profil narasumber
 
-Lembar kerja ini dirancang untuk menuntun Anda melakukan **Wawancara Penemuan Kebutuhan** yang berempati, mendengarkan secara mendalam sebelum menjelaskan, serta merumuskan **Pernyataan Masalah Pelanggan** (*Customer Problem Statement*) secara presisi.
+- **Nama samaran:** A
+- **Peran/pekerjaan:** Mahasiswa
+- **Domain hubungan:** Rekan mahasiswa dan teman
+- **Konteks:** Percakapan tatap muka mengenai kebiasaan belajar dan persiapan ujian.
+- **Tanggal wawancara:** 28 September 2026
+- **Persetujuan narasumber:** Belum dicantumkan; isi sesuai kondisi sebenarnya.
 
----
+### 2. Log catatan wawancara
 
-## 🛠️ FASE 1: PERSIAPAN & WAWANCARA (5 PERTANYAAN PENEMUAN)
-Sebelum melakukan wawancara selama 15–20 menit dengan narasumber (rekan kerja, mahasiswa, staf kampus, atau pemilik usaha mikro di sekitar Anda), pelajari **5 Pertanyaan Penemuan** berikut yang berfungsi sebagai kompas penelusuran Anda:
+#### Pertanyaan 1: Kejadian nyata dan contoh konkret
 
-1. **Apa yang sedang terjadi?** (Minta contoh peristiwa secara konkret, bukan penjelasan umum).
-2. **Mengapa hal itu menjadi masalah?** (Temukan dampak nyata, beban, kerugian, atau hambatan emosionalnya).
-3. **Siapa yang terdampak?** (Kenali pribadi dan peran spesifik mereka dalam sistem tersebut).
-4. **Keadaan yang lebih baik seperti apa?** (Rumuskan hasil akhir yang diharapkan, bukan berupa fitur atau teknologi tertentu).
-5. **Apa kendalanya?** (Periksa batas-batas nyata seperti waktu, biaya, kebijakan, kemampuan teknis, dan risiko).
+**Pertanyaan yang saya ajukan:**
 
-### 💡 Repertoar Pertanyaan Profesional Tambahan:
-Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan berikut secara proporsional:
-*   **Pertanyaan Tertutup (Memastikan fakta):** *"Apakah laporan ini dikirimkan setiap hari Senin?"*
-*   **Pertanyaan Klarifikasi (Memeriksa istilah):** *"Apa yang Ibu maksud dengan sistem yang 'siap digunakan'?"*
-*   **Pertanyaan Dampak (Memahami akibat):** *"Siapa saja yang akan terhambat jika data ini terlambat Anda terima?"*
-*   **Pertanyaan Masa Depan (Merumuskan hasil):** *"Jika masalah ini selesai, seperti apa alur kerja ideal yang Anda bayangkan?"*
+> “Sudah mencoba membaca ulang materi belum? Sudah mencoba latihan soal selain yang diberikan di kelas belum?”
 
-*⚠️ **Pemberitahuan Etis & Privasi:** Pastikan Anda mendapatkan persetujuan lisan/tertulis dari narasumber, jelaskan bahwa data sensitif mereka akan dilindungi/disamarkan, dan wawancara bersifat sukarela.*
+**Cerita narasumber:** A menjelaskan bahwa ia pernah membaca ulang materi, tetapi biasanya hanya membaca dengan cepat karena merasa sudah memahami materi tersebut saat di kelas. Ia juga belum banyak mengerjakan latihan soal selain soal yang diberikan dosen.
 
----
+#### Pertanyaan 2: Dampak nyata dan beban masalah
 
-## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
+**Pertanyaan yang saya ajukan:**
 
-### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+> “Apa yang sebenarnya membuat kamu belum mulai belajar lebih rutin?”
 
----
+A menjelaskan bahwa karena merasa sudah memahami materi, ia cenderung menunda belajar sampai mendekati ujian atau kuis. Akibatnya, ia menjadi keteteran karena masih ada materi yang belum benar-benar dipahami dan latihan soal yang dikerjakan masih terbatas.
 
-### 📓 2. Log Catatan Wawancara (Gunakan 5 Pertanyaan Penemuan)
+#### Pertanyaan 3: Pihak terdampak
 
-#### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
-*   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+Pihak yang paling terdampak adalah A sendiri. Kebiasaan tersebut membuat persiapannya menghadapi ujian lebih berat dan terburu-buru.
 
-#### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
-*   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+#### Pertanyaan 4: Keadaan yang lebih baik
 
-#### **Pertanyaan 3: Pemetaan Pihak Terdampak**
-*   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+A ingin lebih rajin mengulang materi dan memperbanyak latihan soal, sehingga ia tidak perlu menunggu sampai mendekati ujian untuk mulai belajar.
 
-#### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
-*   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+#### Pertanyaan 5: Batasan dan kendala
 
-#### **Pertanyaan 5: Batasan & Kendala Lapangan**
-*   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+Tidak ada kendala eksternal yang secara spesifik disebutkan. Hambatan utama yang disampaikan A adalah kesulitan untuk memulai belajar dan membangun semangat agar dapat belajar secara konsisten.
 
----
+## Fase 3: Formulasi Pernyataan Masalah Pelanggan
 
-## ✒️ FASE 3: FORMULASI PERNYATAAN MASALAH PELANGGAN
+### Draft 1: Pernyataan masalah awal
 
-Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasumber Anda. **Aturan utama: Pernyataan ini TIDAK BOLEH menyebutkan solusi teknis (seperti aplikasi, website, database, dll.)!**
+A mengalami kesulitan mempersiapkan ujian karena belum konsisten mengulang materi dan mengerjakan latihan soal, sehingga menjadi keteteran ketika ujian semakin dekat. Ia membutuhkan kebiasaan belajar yang lebih konsisten dalam mengulang materi dan mengerjakan latihan soal, dengan mempertimbangkan hambatan dalam memulai dan menjaga motivasi belajar.
 
-### 📐 Formula Standar:
-> **`[Pribadi/Peran]` mengalami `[keadaan yang dapat diamati]` ketika `[konteks]`, sehingga `[dampak]`. Ia membutuhkan `[hasil/kemampuan]`, dengan mempertimbangkan `[kendala]`.**
+### Draft 2: Pernyataan masalah terkonfirmasi
 
-#### 💡 Contoh Model Buku (Kasus Kantin Kampus):
-*Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.*
+A mengalami kesulitan mempersiapkan ujian karena belum konsisten mengulang materi dan mengerjakan latihan soal, sehingga ia menjadi keteteran ketika ujian semakin dekat. Ia membutuhkan kebiasaan belajar yang lebih konsisten agar dapat memahami materi dan mempersiapkan ujian lebih awal, dengan mempertimbangkan bahwa hambatan utamanya adalah memulai dan menjaga semangat belajar.
 
----
+**Koreksi dan konfirmasi:** A menyetujui rumusan tersebut dan mengakui bahwa masalahnya bukan semata-mata tidak memahami materi, tetapi juga kurang konsisten mengulang materi dan mengerjakan latihan soal.
 
-### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
-*Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+## Fase 4: Refleksi intrapribadi
 
-### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
-*Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+Dalam wawancara ini, saya cukup mampu menahan keinginan untuk langsung menawarkan solusi dan mencoba memahami kondisi A terlebih dahulu. Asumsi awal saya adalah A tidak memahami materi yang diajarkan dosen. Namun, setelah mendengarkan penjelasannya, saya menyadari bahwa masalah utamanya lebih berkaitan dengan kebiasaan belajar yang belum konsisten. A merasa memahami materi saat di kelas, tetapi jarang mengulang materi dan mengerjakan latihan soal sehingga kesulitan baru terasa ketika ujian sudah dekat. Saya belajar bahwa proses discovery membantu saya membedakan asumsi awal dengan kondisi yang sebenarnya dialami narasumber. Ke depan, saya perlu mempertahankan kebiasaan bertanya sebelum memberikan solusi. Langkah kecil yang akan saya lakukan adalah menindaklanjuti A setelah ia mencoba mengubah kebiasaan belajarnya dan mengevaluasi apakah perubahan tersebut benar-benar membantu.
 
----
+## Fase 5: Rubrik penilaian mandiri
 
-## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
-Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
-1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
-2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
-3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
+| Kriteria evaluasi | Skor mandiri |
+|---|---:|
+| Kualitas mendengarkan | 90 |
+| Ketepatan rumusan masalah | 90 |
+| Etika dan penjagaan privasi | 85 |
+| Keandalan dan hubungan | 90 |
+| **Rata-rata** | **88,75 / 100** |
 
-> **Jurnal Refleksi:**
-> 
+### Alasan penilaian
 
----
+**Kualitas mendengarkan — 90:** Saya menggali kondisi belajar A dan menemukan bahwa asumsi awal saya tidak sepenuhnya sesuai dengan masalah sebenarnya.
 
-## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
-Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
+**Ketepatan rumusan masalah — 90:** Rumusan berfokus pada kondisi dan dampak yang dialami A, tidak menawarkan solusi teknis, dan telah dikonfirmasi oleh narasumber.
 
-| Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
+**Etika dan penjagaan privasi — 85:** Identitas narasumber disamarkan menjadi A dan informasi yang dicatat hanya berkaitan dengan tujuan wawancara. Status persetujuan narasumber belum dicantumkan dan perlu dilengkapi sesuai kondisi sebenarnya.
 
-*Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
+**Keandalan dan hubungan — 90:** Saya tidak memberikan janji berlebihan dan memilih tindak lanjut yang realistis, yaitu mengevaluasi kembali perkembangan A setelah ia mencoba mengubah kebiasaan belajarnya.
+
+## Tindak lanjut
+
+A akan mencoba mulai mengulang materi dan memperbanyak latihan soal. Setelah itu, saya dan A akan membicarakan kembali perkembangannya untuk melihat apakah cara tersebut membantu atau perlu dicari pendekatan lain.

@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+status: "Dalam pengerjaan"
+self_score: "14/20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -22,4 +22,97 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Cara mengisi cepat
+
+1. Pilih satu kejadian komunikasi nyata yang masih Anda ingat.
+2. Catat fakta yang bisa diamati; pisahkan dari dugaan atau penilaian.
+3. Isi tabel dan episode dengan kata kunci lebih dahulu, lalu lengkapi dialog atau tindakan yang benar-benar terjadi.
+4. Tautkan evidence yang tersedia. Jika belum ada, tulis rencana mengumpulkannya; jangan membuat-buat bukti atau feedback.
+
+## Lima character
+
+Tabel berikut adalah draf pemetaan peran komunikasi saya. Nama orang lain disamarkan untuk menjaga privasi.
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self — Reflective learner | Diri sendiri saat mengevaluasi tugas, keputusan, pengalaman organisasi, dan feedback | Memisahkan fakta dari asumsi, mengevaluasi diri secara objektif, dan menentukan perbaikan tanpa menyalahkan diri sendiri | Refleksi tertulis; memeriksa fakta sebelum menarik kesimpulan | Terlalu cepat menilai diri; catat fakta dan asumsi secara terpisah |
+| Family / Friends — Supportive friend | Teman dekat yang ingin bercerita atau berdiskusi | Memahami kebutuhan teman dan memberi dukungan tanpa mengambil alih keputusannya | Mendengarkan dan bertanya terbuka; “Lo mau gue dengerin dulu atau kita cari solusi bareng?” | Terlalu cepat masuk ke mode solusi; tanyakan dulu bentuk dukungan yang diinginkan |
+| Professional / Academic — Project team member / team coordinator | Rekan dalam tugas kuliah dan proyek akademik | Menyelaraskan pekerjaan, mengklarifikasi tugas, menjaga deadline, dan memastikan tanggung jawab dipahami | Check-in, klarifikasi, rangkuman tugas, dan konfirmasi tertulis | Terlalu mengandalkan asumsi bahwa semua anggota sudah memahami tugas; minta konfirmasi pemahaman |
+| Community — Committee / event team member | Anggota organisasi, panitia, dan sub-divisi acara | Mengkoordinasikan pekerjaan dan komunikasi antar-sub-divisi untuk mencapai tujuan acara | Menetapkan target dan boundaries, memberi autonomy, meminta weekly progress, dan mengklarifikasi hambatan | Monitoring bisa kurang ketika terlalu percaya pada laporan; verifikasi status tanpa mengambil alih cara kerja |
+| Public — Presenter / idea communicator | Audiens presentasi, kompetisi, atau kegiatan publik | Menyampaikan gagasan dengan jelas dan membantu audiens memahami pesan utama | Menyusun pesan utama dan menyesuaikan language dengan audiens | Terlalu fokus pada isi; periksa pemahaman audiens dan respons mereka |
+
+## Episode yang dianalisis
+
+**Konteks:** Saya menjadi penanggung jawab tim acara untuk sebuah lomba dan konser. Saya membawahi sub-divisi EO, Lapangan, dan Design, memberi tiap sub-divisi autonomy dalam memilih cara kerja dengan boundaries yang saya tetapkan, serta meminta target dan weekly progress.
+
+**Person dan relationship:** Saya berperan sebagai penanggung jawab tim acara, sedangkan anggota Design adalah rekan satu tim yang bertanggung jawab atas pekerjaan desain. Hubungan kerja kami memerlukan trust, keterbukaan, koordinasi, dan kejelasan tanggung jawab.
+
+**Initial state:** Saya beberapa kali menyetujui weekly progress Design berdasarkan laporan yang diberikan. Setelah kondisi pekerjaan diperiksa lebih detail, terlihat bahwa sebagian progress belum sesuai dengan kondisi aktual dan beberapa pekerjaan masih tertinggal.
+
+**Fakta yang saya amati:** Progress yang dilaporkan tidak sepenuhnya sesuai dengan kondisi aktual dan beberapa pekerjaan masih tertinggal. Tim Design mulai keteteran. Saya tidak menyimpulkan penyebabnya sebelum meminta penjelasan mengenai workload.
+
+**Story atau asumsi yang muncul:** Saya sempat berpikir bahwa tim Design terlalu santai. Itu adalah asumsi saya, bukan fakta yang membuktikan penyebab pekerjaan tertinggal.
+
+**Objective:** Saya ingin memperoleh pemahaman yang lebih akurat tentang status dan workload, lalu menyepakati prioritas, deadline, serta pekerjaan yang perlu diselesaikan tanpa menghilangkan autonomy dan trust dalam tim.
+
+**Tanggung jawab character saya:** Sebagai penanggung jawab, saya perlu menetapkan target dan boundaries, memantau progress secukupnya, mengklarifikasi hambatan, membantu tim menyusun prioritas, dan menjaga komunikasi yang saling menghargai.
+
+**Percakapan atau tindakan penting:** *Parafrasa dari kejadian, bukan kutipan kata per kata.* Saya mengecek kondisi pekerjaan lebih detail dan meminta penjelasan mengenai bagian yang tertinggal. Tim Design menjelaskan kondisi workload. Saya lalu membahas kembali prioritas, deadline, dan pekerjaan yang perlu segera diselesaikan. Kalimat persis dan detail percakapan tidak dicatat di sini.
+
+**Response yang saya baca:** Tim Design menjelaskan kondisi workload setelah saya meminta klarifikasi. Saya tidak menambahkan dugaan tentang perasaan atau niat anggota di luar informasi tersebut.
+
+**Adaptation:** Saya mengubah pendekatan dari mempercayai weekly progress sebagai indikator utama menjadi melakukan clarification dan verification atas status pekerjaan, hambatan, dan kebutuhan tim. Monitoring ini saya maksudkan untuk menjaga kesesuaian target, bukan mengambil alih cara kerja sub-divisi.
+
+**Hasil atau agreement:** Saya dan tim Design membahas kembali prioritas, deadline, dan pekerjaan yang perlu segera diselesaikan. Detail owner, tenggat spesifik, dan hasil akhir belum dicatat di evidence ini, sehingga perlu dilengkapi jika tersedia.
+
+## Perubahan language
+
+Sebagai **penanggung jawab tim acara**, saya menggunakan language yang jelas, langsung, dan berorientasi action:
+
+> “Progress bagian ini seperti apa sekarang? Ada hambatan yang perlu kita selesaikan sebelum deadline?”
+
+Sebagai **sahabat**, saya menggunakan language yang lebih personal dan suportif:
+
+> “Lo mau gue dengerin dulu atau kita cari solusi bareng?”
+
+Perubahan pilihan kata dan nada tersebut mengikuti:
+
+- **Objective:** Sebagai penanggung jawab, saya perlu memahami progress dan menjaga target acara; sebagai sahabat, saya perlu memahami kebutuhan teman.
+- **Responsibility:** Dalam tim saya bertanggung jawab pada koordinasi dan kejelasan pekerjaan; sebagai sahabat saya bertanggung jawab untuk hadir dan mendengarkan tanpa mengambil alih keputusan.
+- **Relationship:** Hubungan kerja membutuhkan trust dan respect sekaligus akuntabilitas; persahabatan membutuhkan rasa aman dan perhatian personal.
+- **Action:** Dalam tim saya mengharapkan klarifikasi dan kesepakatan pekerjaan; dengan sahabat saya tidak mengharuskan action sebelum ia siap.
+
+Nilai yang tetap saya pertahankan pada kedua character adalah tanggung jawab, keterbukaan, dan penghargaan terhadap orang lain. Nilai inti tetap sama, sementara repertoire dan language menyesuaikan character, objective, responsibility, dan relationship.
+
+## Evidence, AI, dan feedback
+
+**Evidence yang saya gunakan:**
+
+- [ ] Screenshot weekly progress atau percakapan tim, jika tersedia. **Belum dikumpulkan.**
+- [ ] Riwayat revisi dokumen/desain, jika tersedia. **Belum dikumpulkan.**
+- [ ] Catatan pribadi mengenai kondisi progress dan hasil diskusi. **Belum dikumpulkan.**
+- [ ] Feedback dari rekan satu tim, jika sudah diminta. **Belum dikumpulkan.**
+
+**Kontribusi saya dalam evidence:** Evidence perlu membedakan tindakan pribadi saya sebagai penanggung jawab—menetapkan target dan boundaries, meminta weekly progress, melakukan pengecekan dan klarifikasi, serta membahas prioritas—dari hasil kerja kolektif sub-divisi dan tim acara.
+
+**Penggunaan AI:** AI dapat membantu saya memisahkan fakta dan asumsi, menemukan pola komunikasi, dan merefleksikan cara saya melakukan monitoring. AI bukan sumber fakta dan tidak digunakan untuk membuat evidence atau feedback. Saya tidak memasukkan nama asli atau data pribadi, dan setiap refleksi tetap saya cocokkan dengan evidence aktual.
+
+**Feedback yang diterima:** Belum dikumpulkan.
+
+**Perubahan berdasarkan feedback:** Menunggu feedback aktual untuk menentukan satu perubahan perilaku yang paling perlu dilatih.
+
+**Next practice:** Selama 4–6 minggu, ketika menerima progress report dari anggota tim, saya akan mengajukan minimal satu pertanyaan klarifikasi mengenai status pekerjaan, hambatan, atau kebutuhan bantuan sebelum menyimpulkan bahwa pekerjaan berjalan sesuai target. Saya akan mencatat penerapannya setelah rapat atau weekly update dan mengevaluasinya setiap akhir minggu.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan berbasis evidence |
+|---|---:|---|
+| Person & Character | 3 | Saya sudah memetakan lima domain dan membedakan character berdasarkan konteks, tetapi pemahaman tersebut masih perlu diperkuat melalui pengalaman dan evidence yang lebih banyak. |
+| Objective & State | 3 | Objective dan perubahan dari state awal menuju state yang diinginkan sudah cukup jelas, tetapi sebagian evidence aktual masih perlu dilengkapi. |
+| Repertoire, Language & AI | 3 | Saya sudah dapat membedakan language dan repertoire berdasarkan character serta memahami batas penggunaan AI. |
+| Response & Adaptation | 2 | Saya menyadari perlunya membaca response dan melakukan adaptation, tetapi evidence mengenai perubahan respons secara nyata masih terbatas. |
+| Agreement, Action & Relationship | 3 | Saya sudah memahami pentingnya action, agreement, dan relationship, tetapi detail owner, deadline, dan hasil aktual perlu dilengkapi dengan evidence. |
+
+**Total:** 14 / 20
+
+**Refleksi singkat:** Saya menyadari bahwa memberikan trust dan autonomy kepada anggota merupakan bagian dari cara saya mengelola tim, tetapi hal tersebut tetap perlu disertai monitoring yang cukup. Pengalaman dengan tim Design membuat saya melihat bahwa weekly progress tidak selalu cukup untuk menggambarkan kondisi aktual. Prioritas perkembangan saya adalah meningkatkan kemampuan clarification dan verification tanpa berubah menjadi micromanagement.

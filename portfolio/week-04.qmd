@@ -1,12 +1,16 @@
 ---
-title: "Five-Language Translation Portfolio"
+title: "Week 04 — Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
-description: "Satu meaning untuk lima person atau character."
+description: "Adaptasi satu meaning ke lima person atau character dengan mempertahankan makna inti."
 categories: [Fondasi, Language]
 ---
+
+# Five-Language Translation Portfolio
+
+Satu gagasan tentang weekly progress diterjemahkan untuk lima target komunikasi dengan mempertahankan makna utamanya.
 
 ## Kompetensi target
 
@@ -18,8 +22,94 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Gagasan dan lima versi
 
-{{< include ../includes/evidence-template.md >}}
+**Gagasan / meaning inti:** System weekly progress dalam management tim. Weekly progress membantu leader mengetahui kondisi pekerjaan tim sebelum masalah menjadi lebih besar.
+
+**Friend:** “Bro, nanti gue minta weekly progress ya. Ini bisa ngebantu kita, gue sebagai leader dan lo sebagai anggota, buat tahu progress mana yang bisa langsung diselesaikan dan mana yang masih punya hambatan.”
+
+**Technical peer:** “Nanti kerjain weekly progress karena bakal kepakai buat progress tim. Dari update ini kita bisa lihat task mana yang sudah selesai dan task mana yang masih terhambat.”
+
+**Manager:** “Saya menyarankan penggunaan weekly progress secara rutin karena dapat mempermudah monitoring project dan membantu tim mengidentifikasi pekerjaan yang sudah selesai maupun yang masih terhambat. Trade-off-nya adalah anggota tim perlu konsisten meluangkan waktu untuk mengisi update setiap minggu.”
+
+**Customer:** “Dengan adanya weekly progress, tim bisa memberikan update pekerjaan secara lebih jelas. Bapak/Ibu juga bisa mengetahui bagian mana yang sudah selesai dan bagian mana yang masih mengalami hambatan.”
+
+**Public:** “Weekly progress adalah cara sederhana untuk memperbarui perkembangan pekerjaan secara rutin. Dengan update tersebut, tim dapat mengetahui pekerjaan mana yang sudah selesai dan mana yang masih memiliki kendala sehingga masalah dapat diketahui lebih awal.”
+
+## Perubahan repertoire dan language
+
+Meaning utama tetap sama: weekly progress membantu leader mengetahui kondisi pekerjaan tim sebelum masalah menjadi lebih besar. Yang berubah adalah cara penyampaian dan fokusnya. Kepada friend, bahasa lebih santai dan menekankan kerja bersama. Kepada technical peer, bahasa lebih langsung dan menggunakan istilah seperti task dan progress. Kepada manager, saya menekankan dampak dan trade-off. Kepada customer, saya menjelaskan manfaat yang mereka dapatkan. Kepada public, saya menggunakan bahasa yang lebih sederhana dan mudah dipahami. Saya sengaja tidak mengubah core meaning dari gagasan.
+
+## Konteks performance
+
+**Tanggal dan setting:** Konsep ini saya gunakan dalam pengalaman mengelola tim lomba pada semester 1. Weekly progress digunakan sebagai bagian dari proses monitoring pekerjaan tim secara rutin.
+
+**Persons dan relationship:** Saya berperan sebagai leader atau penanggung jawab tim, sementara anggota tim mengerjakan pekerjaan dan memberikan update progress.
+
+**Objective dan initial state:** Tujuan saya adalah memastikan saya sebagai leader memiliki gambaran yang jelas mengenai kondisi pekerjaan tanpa harus mengontrol seluruh proses kerja anggota. Leader membutuhkan informasi mengenai progress masing-masing pekerjaan agar hambatan dapat diketahui sebelum memengaruhi pekerjaan lain dalam tim.
+
+## Evidence
+
+Evidence yang saya miliki berupa pengalaman menggunakan weekly progress ketika mengelola progress tim lomba pada semester 1. Saya menjadikan weekly progress bagian dari cara monitoring tim dan menjelaskan kepada anggota alasan penggunaan update tersebut.
+
+Kontribusi saya adalah menyampaikan alasan penggunaan update dan menggunakannya sebagai bagian dari monitoring. Weekly progress merupakan contoh praktik monitoring; saya tidak menyamakannya dengan definisi ERP atau sistem ERP.
+
+## Tes pemahaman dan feedback
+
+Saya pernah menjelaskan konsep weekly progress kepada tim yang saya kelola pada semester 1 untuk membantu mengatur progress sebuah lomba. Namun, saya belum mengumpulkan feedback formal mengenai apakah lima bentuk penyampaian dalam tugas ini dipahami secara berbeda oleh masing-masing target.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Gagasan yang sama saya bawa sebagai leader, tetapi cara menyampaikannya berubah sesuai character dan kebutuhan target. Saya tidak menggunakan satu gaya komunikasi untuk semua orang. |
+| Objective & state | Tujuannya tetap membuat kondisi pekerjaan lebih terlihat melalui update rutin. State yang ingin dicapai pada setiap target dapat berbeda, misalnya pemahaman manfaat, keputusan, atau kejelasan tindakan. |
+| Repertoire & language | Saya mengubah pilihan kata, tingkat detail, dan fokus pesan. Friend membutuhkan bahasa akrab, technical peer membutuhkan informasi lebih presisi, manager membutuhkan dampak dan trade-off, customer membutuhkan manfaat, sedangkan public membutuhkan penjelasan sederhana. |
+| Response & adaptation | Saya menyesuaikan cara menjelaskan berdasarkan konteks penerima. Satu konsep yang sama tidak harus dijelaskan dengan kalimat yang sama. |
+| Agreement/action | Tindakan yang diharapkan tetap melakukan weekly progress secara rutin. Perbedaannya adalah alasan yang digunakan agar penerima memahami pentingnya tindakan tersebut. |
+| Relationship outcome | Adaptasi bahasa membantu saya menjaga komunikasi sesuai hubungan dan kebutuhan penerima tanpa mengubah pesan inti. Dampak pemahaman tiap versi belum diuji secara formal. |
+
+## Penggunaan AI
+
+Saya menggunakan AI sebagai alat bantu untuk mengadaptasi satu gagasan yang sama ke beberapa target komunikasi.
+
+- **Alat dan peran AI:** AI membantu menyusun variasi language berdasarkan perbedaan target komunikasi.
+- **Prompt atau instruksi penting:** AI diarahkan untuk mempertahankan meaning inti tetapi mengubah tingkat formalitas, fokus, dan pilihan kata sesuai friend, technical peer, manager, customer, dan public.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan bantuan AI pada struktur dan perumusan bahasa, lalu menyesuaikannya agar sesuai dengan cara saya berkomunikasi dan pengalaman penggunaan weekly progress.
+- **Pemeriksaan accuracy, privacy, dan authority:** Saya memeriksa kembali agar meaning tidak berubah dan tidak memasukkan informasi pribadi atau fakta yang tidak saya alami. AI digunakan sebagai alat bantu bahasa, bukan sebagai sumber evidence.
+- **Apa yang tetap saya pelajari sebagai manusia:** Saya tetap menentukan siapa target komunikasi, apa kebutuhan mereka, dan bagian mana dari pesan yang perlu ditekankan.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Saya pernah menjelaskan penggunaan weekly progress kepada tim yang saya kelola pada semester 1 dalam konteks monitoring progress lomba. Saya belum memiliki feedback formal yang secara spesifik mengukur pemahaman penerima terhadap kelima versi bahasa.
+
+**Adaptation/replay:** Jika menjelaskan kembali konsep yang sama, saya akan lebih memperhatikan kebutuhan penerima sebelum memilih bahasa. Saya tidak hanya akan mengubah tingkat formalitas, tetapi juga menyesuaikan aspek yang relevan, seperti manfaat, dampak, risiko, atau tindakan yang perlu dilakukan.
+
+**Next practice:** Pada komunikasi berikutnya, saya akan menyampaikan satu gagasan kepada minimal tiga target berbeda dengan mengubah pilihan kata dan fokus sesuai kebutuhan masing-masing. Saya akan meminta satu pertanyaan atau feedback untuk mengecek apakah meaning yang saya maksud benar-benar dipahami.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Saya membedakan kebutuhan komunikasi dari lima target berdasarkan hubungan dan konteks. |
+| Objective & State | 3 | Meaning inti dan tujuan komunikasi tetap konsisten meskipun state yang ingin dicapai pada tiap target berbeda. |
+| Repertoire, Language & AI | 3 | Saya mengubah tingkat formalitas, istilah, detail, dan fokus pesan serta menggunakan AI sebagai alat bantu language adaptation. |
+| Response & Adaptation | 3 | Saya menyesuaikan cara menyampaikan satu gagasan berdasarkan target penerima. |
+| Agreement, Action & Relationship | 3 | Tindakan yang diharapkan tetap sama, tetapi alasan dan cara penyampaiannya disesuaikan dengan target komunikasi. |
+
+**Total:** 15 / 20
+
+## Refleksi
+
+Saya menyadari bahwa menyampaikan satu gagasan kepada orang yang berbeda tidak berarti saya harus mengubah makna yang ingin disampaikan. Yang perlu saya ubah adalah cara membawa makna tersebut agar sesuai dengan kebutuhan dan konteks penerima.
+
+Pengalaman mengelola tim membuat saya terbiasa menggunakan weekly progress sebagai alat monitoring. Melalui latihan ini saya memahami bahwa bahkan konsep sederhana perlu diterjemahkan secara berbeda ketika disampaikan kepada teman, rekan teknis, manager, customer, maupun publik. Ke depan, saya ingin lebih memperhatikan siapa yang menerima pesan sebelum menentukan pilihan kata dan fokus komunikasi.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20
+**Evidence yang mendukung:** —
+**Prioritas perbaikan:** —
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
