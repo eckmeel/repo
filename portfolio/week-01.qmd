@@ -47,21 +47,21 @@ Tabel berikut adalah draf pemetaan peran komunikasi saya. Nama orang lain disama
 
 **Person dan relationship:** Saya berperan sebagai penanggung jawab tim acara, sedangkan anggota Design adalah rekan satu tim yang bertanggung jawab atas pekerjaan desain. Hubungan kerja kami memerlukan trust, keterbukaan, koordinasi, dan kejelasan tanggung jawab.
 
-**Initial state:** Saya beberapa kali menyetujui weekly progress Design berdasarkan laporan yang diberikan. Setelah kondisi pekerjaan diperiksa lebih detail, terlihat bahwa sebagian progress belum sesuai dengan kondisi aktual dan beberapa pekerjaan masih tertinggal.
+**Initial state:** Saya beberapa kali menyetujui weekly progress Design berdasarkan laporan yang diberikan. Setelah kondisi pekerjaan diperiksa lebih detail, terlihat bahwa sebagian progress belum sesuai dengan kondisi aktual dan beberapa pekerjaan masih tertinggal. Saat itu saya belum memahami bahwa kendala utama yang menghambat tim adalah software desain yang bermasalah.
 
-**Fakta yang saya amati:** Progress yang dilaporkan tidak sepenuhnya sesuai dengan kondisi aktual dan beberapa pekerjaan masih tertinggal. Tim Design mulai keteteran. Saya tidak menyimpulkan penyebabnya sebelum meminta penjelasan mengenai workload.
+**Fakta yang saya amati:** Progress yang dilaporkan tidak sepenuhnya sesuai dengan kondisi aktual dan beberapa pekerjaan masih tertinggal. Dalam percakapan tim, anggota Design menyampaikan bahwa Adobe Illustrator—software utama untuk pekerjaan desain—sedang error dan ada anggota yang benar-benar tidak bisa membukanya. Gangguan ini berlangsung sekitar seminggu berdasarkan penjelasan tim dan menjadi hambatan utama pekerjaan. Workload yang padat juga menjadi faktor tambahan.
 
-**Story atau asumsi yang muncul:** Saya sempat berpikir bahwa tim Design terlalu santai. Itu adalah asumsi saya, bukan fakta yang membuktikan penyebab pekerjaan tertinggal.
+**Story atau asumsi yang muncul:** Sebelum memahami kendala software, saya sempat berpikir bahwa tim Design terlalu santai. Itu adalah asumsi awal, bukan fakta. Setelah membaca penjelasan tim tentang Adobe Illustrator yang error dan mengetahui workload mereka juga padat, saya memahami bahwa hambatan alat kerja merupakan penyebab utama yang perlu diperhitungkan, bukan langsung menyimpulkan bahwa tim kurang berusaha.
 
-**Objective:** Saya ingin memperoleh pemahaman yang lebih akurat tentang status dan workload, lalu menyepakati prioritas, deadline, serta pekerjaan yang perlu diselesaikan tanpa menghilangkan autonomy dan trust dalam tim.
+**Objective:** Saya ingin memahami dampak gangguan Adobe Illustrator terhadap pekerjaan, sekaligus mengetahui status dan workload tim, lalu menyepakati prioritas serta langkah tindak lanjut tanpa menghilangkan autonomy dan trust.
 
 **Tanggung jawab character saya:** Sebagai penanggung jawab, saya perlu menetapkan target dan boundaries, memantau progress secukupnya, mengklarifikasi hambatan, membantu tim menyusun prioritas, dan menjaga komunikasi yang saling menghargai.
 
-**Percakapan atau tindakan penting:** *Parafrasa dari kejadian, bukan kutipan kata per kata.* Saya mengecek kondisi pekerjaan lebih detail dan meminta penjelasan mengenai bagian yang tertinggal. Tim Design menjelaskan kondisi workload. Saya lalu membahas kembali prioritas, deadline, dan pekerjaan yang perlu segera diselesaikan. Kalimat persis dan detail percakapan tidak dicatat di sini.
+**Percakapan atau tindakan penting:** *Parafrasa dari kejadian, bukan kutipan kata per kata.* Setelah saya mengecek pekerjaan yang tertinggal, tim menyampaikan di grup bahwa Adobe Illustrator sedang error dan beberapa anggota tidak bisa membukanya. Gangguan tersebut berlangsung sekitar seminggu dan menjadi hambatan utama, sementara workload yang padat turut menambah tekanan. Setelah memahami kendalanya, saya berdiskusi dengan tim untuk membahas kembali prioritas, deadline, dan pekerjaan yang perlu segera diselesaikan.
 
-**Response yang saya baca:** Tim Design menjelaskan kondisi workload setelah saya meminta klarifikasi. Saya tidak menambahkan dugaan tentang perasaan atau niat anggota di luar informasi tersebut.
+**Response yang saya baca:** Pesan tim mengonfirmasi bahwa Adobe Illustrator mengalami error dan sebagian anggota tidak bisa membuka software tersebut. Informasi ini memberi konteks konkret tentang hambatan pekerjaan; workload padat merupakan faktor tambahan yang dijelaskan tim.
 
-**Adaptation:** Saya mengubah pendekatan dari mempercayai weekly progress sebagai indikator utama menjadi melakukan clarification dan verification atas status pekerjaan, hambatan, dan kebutuhan tim. Monitoring ini saya maksudkan untuk menjaga kesesuaian target, bukan mengambil alih cara kerja sub-divisi.
+**Adaptation:** Saya mengubah pendekatan dari hanya mengandalkan weekly progress menjadi mengklarifikasi hambatan spesifik, terutama kondisi software utama yang digunakan tim, serta memeriksa status pekerjaan dan kebutuhan bantuan. Dengan memahami gangguan Adobe Illustrator lebih awal, saya dapat mendiskusikan prioritas dan deadline secara lebih realistis sambil tetap memberi autonomy kepada sub-divisi.
 
 **Hasil atau agreement:** Saya dan tim Design membahas kembali prioritas, deadline, dan pekerjaan yang perlu segera diselesaikan. Detail owner, tenggat spesifik, dan hasil akhir belum dicatat di evidence ini, sehingga perlu dilengkapi jika tersedia.
 
@@ -88,10 +88,9 @@ Nilai yang tetap saya pertahankan pada kedua character adalah tanggung jawab, ke
 
 **Evidence yang saya gunakan:**
 
-- [ ] Screenshot weekly progress atau percakapan tim, jika tersedia. **Belum dikumpulkan.**
-- [ ] Riwayat revisi dokumen/desain, jika tersedia. **Belum dikumpulkan.**
-- [ ] Catatan pribadi mengenai kondisi progress dan hasil diskusi. **Belum dikumpulkan.**
-- [ ] Feedback dari rekan satu tim, jika sudah diminta. **Belum dikumpulkan.**
+Foto percakapan grup tim menjadi evidence untuk konteks kendala software. Pesan tersebut menyebut Adobe Illustrator mengalami error dan beberapa anggota tidak bisa membukanya. Foto ini mendukung informasi tentang gangguan software, tetapi tidak dengan sendirinya menunjukkan durasi sekitar seminggu atau workload; durasi dan workload merupakan konteks yang disampaikan tim.
+
+![Percakapan tim tentang Adobe Illustrator yang mengalami error](../Software-Bermasalah.jpeg)
 
 **Kontribusi saya dalam evidence:** Evidence perlu membedakan tindakan pribadi saya sebagai penanggung jawab—menetapkan target dan boundaries, meminta weekly progress, melakukan pengecekan dan klarifikasi, serta membahas prioritas—dari hasil kerja kolektif sub-divisi dan tim acara.
 

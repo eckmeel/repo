@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Dalam pengerjaan"
-self_score: "—"
+self_score: "13/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -28,9 +28,9 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 ## Episode komunikasi dengan diri sendiri
 
-**Event dan fakta teramati:** Saya memberi setiap sub-divisi autonomy untuk menentukan cara kerja dalam batasan yang disepakati dan meminta weekly progress. Saya beberapa kali menerima dan menyetujui laporan dari Design. Setelah mengecek lebih lanjut, saya menemukan beberapa pekerjaan masih tertinggal dan kondisi tim Design lebih tertinggal daripada yang saya pahami dari laporan sebelumnya.
+**Event dan fakta teramati:** Saya memberi setiap sub-divisi autonomy untuk menentukan cara kerja dalam batasan yang disepakati dan meminta weekly progress. Saya beberapa kali menerima dan menyetujui laporan dari Design. Setelah mengecek lebih lanjut, saya menemukan beberapa pekerjaan masih tertinggal dan kondisi tim Design lebih tertinggal daripada yang saya pahami dari laporan sebelumnya. Saat meminta klarifikasi, saya mendapat penjelasan bahwa selain workload yang padat, Software sempat mengalami gangguan sekitar seminggu sehingga tim tidak bisa mengerjakan pekerjaan desain seperti biasa. Rincian waktu dan dampaknya perlu dicocokkan dengan catatan atau percakapan yang tersedia.
 
-**Story otomatis:** Reaksi awal saya adalah berpikir bahwa tim Design terlalu santai dan saya terlalu memberikan kepercayaan kepada mereka. Saya juga sempat menilai keadaan tersebut sebagai kegagalan saya dalam melakukan management. Penilaian tentang sikap tim dan diri saya itu merupakan interpretasi awal, bukan fakta yang sudah saya pastikan.
+**Story otomatis:** Sebelum memahami kendala tim, reaksi awal saya adalah berpikir bahwa tim Design terlalu santai dan saya terlalu memberikan kepercayaan kepada mereka. Saya juga sempat menilai keadaan tersebut sebagai kegagalan saya dalam melakukan management. Penilaian tentang sikap tim dan diri saya itu merupakan interpretasi awal, bukan fakta yang sudah saya pastikan.
 
 **Emosi dan intensitas:** Marah dan kesal, dengan intensitas 8 dari 10.
 
@@ -38,22 +38,21 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 **Narasi korban:** Saya sudah memberikan kebebasan dan kepercayaan kepada tim Design, tetapi mereka tidak menggunakan kesempatan tersebut dengan baik. Akhirnya, masalah tim menjadi tanggung jawab saya. Dalam narasi ini, saya menyalahkan tim dan merasa baru bisa memperbaiki keadaan setelah masalah terjadi.
 
-**Narasi analitis:** Fakta yang saya ketahui adalah beberapa pekerjaan Design tertinggal dan laporan weekly progress tidak sepenuhnya menggambarkan kondisi aktual. Saya belum mengetahui seluruh alasan keterlambatan. Workload Design mungkin lebih berat daripada yang terlihat, dan sistem weekly progress saya mungkin belum cukup terperinci. Saya dapat mengendalikan pertanyaan yang saya ajukan, kejelasan ekspektasi, frekuensi monitoring, dan tindakan setelah mendapat informasi baru.
+**Narasi analitis:** Fakta yang saya ketahui adalah beberapa pekerjaan Design tertinggal dan laporan weekly progress tidak sepenuhnya menggambarkan kondisi aktual. Dari klarifikasi tim, keterlambatan juga berkaitan dengan workload yang padat dan gangguan Software sekitar seminggu. Sistem weekly progress saya mungkin belum cukup terperinci untuk menangkap kendala tersebut lebih awal. Saya dapat mengendalikan pertanyaan yang saya ajukan, kejelasan ekspektasi, frekuensi monitoring, dan tindakan setelah mendapat informasi baru.
 
-**Narasi pertumbuhan:** Saya tetap ingin menjadi leader yang memberikan trust dan autonomy, tetapi saya belajar bahwa trust tidak berarti menghilangkan monitoring. Saya perlu membuat komunikasi progress lebih transparan tanpa berubah menjadi micromanagement.
+**Narasi pertumbuhan:** Saya tetap ingin menjadi leader yang memberikan trust dan autonomy, tetapi saya belajar bahwa trust tidak berarti menghilangkan monitoring. Saya perlu membuat komunikasi progress lebih transparan, termasuk menanyakan kendala workload dan alat kerja, tanpa berubah menjadi micromanagement.
 
 **Internal character dan pilihan:** Saya ingin bertindak sebagai reflective leader dan koordinator tim. Pilihan saya adalah menahan penilaian awal, memisahkan fakta dari asumsi, mencari informasi lebih lengkap, lalu memperbaiki monitoring tanpa menghilangkan autonomy tim.
 
-**Internal agreement:** Pada weekly progress berikutnya, saya akan meminta rincian pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan, dan bantuan yang dibutuhkan. Saya akan memeriksa hasilnya dengan membandingkan update tersebut dengan perubahan kondisi pekerjaan pada laporan berikutnya.
+**Internal agreement:** Pada weekly progress berikutnya, saya akan meminta rincian pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan—termasuk kendala alat kerja—dan bantuan yang dibutuhkan. Saya akan memeriksa hasilnya dengan membandingkan update tersebut dengan perubahan kondisi pekerjaan pada laporan berikutnya.
 
 ## Evidence
 
-Evidence pendukung belum dilampirkan. Bukti yang dapat digunakan untuk mendukung refleksi ini:
+Evidence yang digunakan adalah foto laporan tim berikut. Foto ini menunjukkan laporan progress Tim Desain, termasuk pekerjaan yang telah diselesaikan dan beberapa pekerjaan yang masih menunggu atau perlu ditindaklanjuti.
 
-- Screenshot weekly progress atau percakapan tim yang menunjukkan laporan progress.
-- Riwayat revisi atau file pekerjaan Design yang menunjukkan kondisi pekerjaan pada saat pengecekan.
-- Catatan refleksi setelah saya mengetahui adanya perbedaan progress.
-- Catatan weekly progress berikutnya sebagai bukti tindak lanjut monitoring.
+![Foto laporan progress Tim Desain di grup acara](../Laporan-Tim.jpeg)
+
+Foto ini menunjukkan update progress yang semakin membaik setelah kami berdiskusi. Sejumlah pekerjaan Tim Desain sudah ditandai selesai, sementara beberapa pekerjaan lainnya masih menunggu tindak lanjut.
 
 Kontribusi yang saya refleksikan adalah komunikasi dan pengambilan keputusan saya sebagai penanggung jawab tim. Hasil kerja Design tidak saya klaim sebagai kontribusi pribadi.
 
@@ -64,8 +63,8 @@ Kontribusi yang saya refleksikan adalah komunikasi dan pengambilan keputusan say
 | Person & character | Saya cenderung memberi trust dan autonomy kepada anggota. Dalam episode ini, saya ingin bertindak sebagai reflective leader yang mengevaluasi situasi sebelum bereaksi. |
 | Objective & state | State awal saya adalah percaya bahwa weekly progress cukup menggambarkan kondisi tim. Saya ingin mencapai pemahaman yang lebih objektif sebelum menentukan tindakan. |
 | Repertoire & language | Saya menggunakan reflection, fact-checking, dan reframing. Pertanyaan internal saya: “Apa fakta yang benar-benar saya ketahui?” dan “Apa penjelasan lain selain asumsi awal saya?” |
-| Response & adaptation | Reaction awal saya adalah kecewa dan menganggap tim terlalu santai. Saya mengubah response dengan memisahkan fakta dari story dan mempertimbangkan kemungkinan bahwa workload atau sistem monitoring juga berperan. |
-| Agreement/action | Saya bersepakat untuk melakukan monitoring lebih terstruktur sambil mempertahankan autonomy. Pada update berikutnya, saya akan menanyakan status pekerjaan, hambatan, dan kebutuhan bantuan. |
+| Response & adaptation | Reaction awal saya adalah kecewa dan menganggap tim terlalu santai. Saya mengubah response dengan memisahkan fakta dari story dan mempertimbangkan penjelasan tim tentang workload padat, gangguan Adobe, serta kemungkinan sistem monitoring saya belum menangkap hambatan tersebut lebih awal. |
+| Agreement/action | Saya bersepakat untuk melakukan monitoring lebih terstruktur sambil mempertahankan autonomy. Pada update berikutnya, saya akan menanyakan status pekerjaan, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan. |
 | Relationship outcome | Hasil tindak lanjut belum diketahui. Saya berharap response yang lebih reflektif dapat menghindari keputusan berdasarkan asumsi dan menjaga kepercayaan sambil memperbaiki monitoring. |
 
 ## Penggunaan AI
@@ -82,23 +81,23 @@ Saya menggunakan AI sebagai alat bantu refleksi untuk membantu memisahkan event,
 
 **Feedback yang diterima:** Belum dikumpulkan.
 
-**Adaptation/replay:** Jika mengulang situasi ini, saya tidak akan langsung menyimpulkan bahwa tim Design terlalu santai. Saya akan memeriksa kondisi pekerjaan terlebih dahulu, memahami hambatan, dan mengevaluasi apakah sistem monitoring yang saya gunakan sudah cukup.
+**Adaptation/replay:** Jika mengulang situasi ini, saya tidak akan langsung menyimpulkan bahwa tim Design terlalu santai. Saya akan memeriksa kondisi pekerjaan terlebih dahulu, menanyakan workload dan kendala alat kerja seperti gangguan Adobe, serta mengevaluasi apakah sistem monitoring yang saya gunakan sudah cukup.
 
-**Next practice:** Pada weekly progress berikutnya, saya akan memastikan empat hal dibahas: pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan, dan kebutuhan bantuan. Setelah itu, saya akan membandingkan laporan dengan kondisi pekerjaan aktual.
+**Next practice:** Pada weekly progress berikutnya, saya akan memastikan empat hal dibahas: pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan. Setelah itu, saya akan membandingkan laporan dengan kondisi pekerjaan aktual.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | — | — |
-| Objective & State | — | — |
-| Repertoire, Language & AI | — | — |
-| Response & Adaptation | — | — |
-| Agreement, Action & Relationship | — | — |
+| Person & Character | 3 | Saya mengenali diri sebagai reflective leader dan membedakan keinginan untuk menjaga trust dari asumsi awal bahwa tim terlalu santai. Saya masih perlu membuktikan konsistensi character ini dalam tindakan nyata. |
+| Objective & State | 3 | Tujuan memahami kondisi pekerjaan sebelum bertindak dan state awal yang percaya pada weekly progress sudah dijelaskan. Bukti pendukung episode belum dilampirkan. |
+| Repertoire, Language & AI | 3 | Saya menggunakan pemisahan fakta dan story, tiga alternative narratives, serta AI untuk membantu menyusun refleksi. Klarifikasi tentang workload dan gangguan Adobe memberi konteks tambahan, tetapi catatan percakapan pendukung belum dilampirkan. |
+| Response & Adaptation | 2 | Saya menyadari reaction awal, menahannya, dan mempertimbangkan workload serta kendala Adobe sebelum menyimpulkan. Perubahan response dalam komunikasi dengan tim belum didukung catatan tindak lanjut. |
+| Agreement, Action & Relationship | 2 | Saya telah merumuskan agreement untuk meminta status, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan pada weekly progress berikutnya. Tindakan tersebut dan dampaknya terhadap relationship belum terverifikasi. |
 
-**Total:** — / 20
+**Total:** 13 / 20
 
-**Refleksi:** Pengalaman ini membuat saya sadar bahwa reaction pertama saya tidak selalu menggambarkan keseluruhan situasi. Ketika menemukan progress yang tidak sesuai dengan laporan, saya cenderung langsung menghubungkannya dengan sikap tim dan cara saya memimpin. Dengan memisahkan fakta dari story, saya dapat melihat bahwa masalah tersebut juga mungkin berkaitan dengan workload dan sistem monitoring yang saya gunakan. Ke depan, saya ingin mempertahankan trust dan autonomy tanpa kehilangan fungsi monitoring.
+**Refleksi:** Penilaian ini menunjukkan bahwa saya sudah mampu mengenali reaction awal dan mempertimbangkan penjelasan lain, tetapi belum cukup membuktikan adaptation melalui tindakan dan hasil. Ketika menemukan progress yang tidak sesuai dengan laporan, saya cenderung langsung menghubungkannya dengan sikap tim dan cara saya memimpin. Memisahkan fakta dari story membantu saya melihat bahwa workload padat dan gangguan Adobe sekitar seminggu juga ikut memengaruhi pekerjaan, sementara sistem monitoring saya mungkin belum menangkap kendala itu lebih awal. Prioritas saya berikutnya adalah menjalankan agreement pada weekly progress berikutnya, mencatat hambatan dan kebutuhan bantuan, lalu membandingkan laporan dengan kondisi pekerjaan aktual. Saya juga perlu melampirkan evidence yang tersedia sebelum menilai dampak tindakan terhadap tim.
 
 ::: {.assessor-only}
 ### Assessment dosen

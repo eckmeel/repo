@@ -15,9 +15,9 @@ Melalui konsep ini, saya menghubungkan ERP dengan pengalaman menggunakan weekly 
 ## B. Identitas Mahasiswa
 
 - **Nama lengkap:** Akmal
-- **NIM:** Belum dicantumkan
+- **NIM:** 18225035
 - **Program studi:** Sistem dan Teknologi Informasi
-- **Tanggal pengisian:** Belum dicantumkan
+- **Tanggal pengisian:** 25 September 2026
 
 ## C. Tahap 1: Detoks Jargon
 

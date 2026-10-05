@@ -9,9 +9,9 @@ title: "Lembar Kerja Bab 05"
 ## B. Identitas Mahasiswa
 
 - **Nama lengkap:** Akmal
-- **NIM:** Belum dicantumkan
+- **NIM:** 18225035
 - **Program studi:** Sistem dan Teknologi Informasi
-- **Tanggal pengisian:** Belum dicantumkan
+- **Tanggal pengisian:** 28 September 2026
 
 ## Fase 2: Lembar Pengerjaan Mahasiswa
 
@@ -22,7 +22,7 @@ title: "Lembar Kerja Bab 05"
 - **Domain hubungan:** Rekan mahasiswa dan teman
 - **Konteks:** Percakapan tatap muka mengenai kebiasaan belajar dan persiapan ujian.
 - **Tanggal wawancara:** 28 September 2026
-- **Persetujuan narasumber:** Belum dicantumkan; isi sesuai kondisi sebenarnya.
+- **Persetujuan narasumber:** Setuju namun nama asli dan kontak tidak dicantumkan.
 
 ### 2. Log catatan wawancara
 

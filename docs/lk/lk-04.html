@@ -76,35 +76,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -185,23 +156,34 @@ window.Quarto = {
   <ul>
   <li><a href="#lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa" id="toc-lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa" class="nav-link active" data-scroll-target="#lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa">Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa</a>
   <ul class="collapse">
-  <li><a href="#template-isi-cepat" id="toc-template-isi-cepat" class="nav-link" data-scroll-target="#template-isi-cepat">Template Isi Cepat</a></li>
-  <li><a href="#a.-deskripsi-tugas" id="toc-a.-deskripsi-tugas" class="nav-link" data-scroll-target="#a.-deskripsi-tugas"><strong>A. Deskripsi Tugas</strong></a></li>
-  <li><a href="#b.-identitas-mahasiswa" id="toc-b.-identitas-mahasiswa" class="nav-link" data-scroll-target="#b.-identitas-mahasiswa"><strong>B. Identitas Mahasiswa</strong></a></li>
-  <li><a href="#c.-tahap-1-detoks-jargon-dekonstruksi-konsep" id="toc-c.-tahap-1-detoks-jargon-dekonstruksi-konsep" class="nav-link" data-scroll-target="#c.-tahap-1-detoks-jargon-dekonstruksi-konsep"><strong>C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</strong></a></li>
-  <li><a href="#d.-tahap-2-matriks-terjemahan-lima-bahasa" id="toc-d.-tahap-2-matriks-terjemahan-lima-bahasa" class="nav-link" data-scroll-target="#d.-tahap-2-matriks-terjemahan-lima-bahasa"><strong>D. Tahap 2: Matriks Terjemahan Lima Bahasa</strong></a>
+  <li><a href="#a.-deskripsi-tugas" id="toc-a.-deskripsi-tugas" class="nav-link" data-scroll-target="#a.-deskripsi-tugas">A. Deskripsi Tugas</a></li>
+  <li><a href="#b.-identitas-mahasiswa" id="toc-b.-identitas-mahasiswa" class="nav-link" data-scroll-target="#b.-identitas-mahasiswa">B. Identitas Mahasiswa</a></li>
+  <li><a href="#c.-tahap-1-detoks-jargon" id="toc-c.-tahap-1-detoks-jargon" class="nav-link" data-scroll-target="#c.-tahap-1-detoks-jargon">C. Tahap 1: Detoks Jargon</a>
   <ul class="collapse">
-  <li><a href="#ragam-bahasa-anak-anak-usia-10-tahun" id="toc-ragam-bahasa-anak-anak-usia-10-tahun" class="nav-link" data-scroll-target="#ragam-bahasa-anak-anak-usia-10-tahun"><strong>1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)</strong></a></li>
-  <li><a href="#ragam-bahasa-sahabat-beda-bidang-program-studi" id="toc-ragam-bahasa-sahabat-beda-bidang-program-studi" class="nav-link" data-scroll-target="#ragam-bahasa-sahabat-beda-bidang-program-studi"><strong>2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)</strong></a></li>
-  <li><a href="#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" id="toc-ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" class="nav-link" data-scroll-target="#ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan"><strong>3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)</strong></a></li>
-  <li><a href="#ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis" id="toc-ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis" class="nav-link" data-scroll-target="#ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis"><strong>4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)</strong></a></li>
-  <li><a href="#ragam-bahasa-publik-umum-masyarakat-luas" id="toc-ragam-bahasa-publik-umum-masyarakat-luas" class="nav-link" data-scroll-target="#ragam-bahasa-publik-umum-masyarakat-luas"><strong>5. Ragam Bahasa: Publik Umum (Masyarakat Luas)</strong></a></li>
+  <li><a href="#konsep-teknis-yang-dipilih" id="toc-konsep-teknis-yang-dipilih" class="nav-link" data-scroll-target="#konsep-teknis-yang-dipilih">1. Konsep teknis yang dipilih</a></li>
+  <li><a href="#definisi-teknis" id="toc-definisi-teknis" class="nav-link" data-scroll-target="#definisi-teknis">2. Definisi teknis</a></li>
+  <li><a href="#jargon-teknis-dan-artinya" id="toc-jargon-teknis-dan-artinya" class="nav-link" data-scroll-target="#jargon-teknis-dan-artinya">3. Jargon teknis dan artinya</a></li>
+  <li><a href="#kebenaran-inti" id="toc-kebenaran-inti" class="nav-link" data-scroll-target="#kebenaran-inti">4. Kebenaran inti</a></li>
   </ul></li>
-  <li><a href="#e.-tahap-3-refleksi-pembelajaran-intrapribadi" id="toc-e.-tahap-3-refleksi-pembelajaran-intrapribadi" class="nav-link" data-scroll-target="#e.-tahap-3-refleksi-pembelajaran-intrapribadi"><strong>E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)</strong></a></li>
-  <li><a href="#f.-rubrik-evaluasi-mandiri-penilaian-portofolio" id="toc-f.-rubrik-evaluasi-mandiri-penilaian-portofolio" class="nav-link" data-scroll-target="#f.-rubrik-evaluasi-mandiri-penilaian-portofolio"><strong>F. Rubrik Evaluasi Mandiri &amp; Penilaian Portofolio</strong></a>
+  <li><a href="#d.-tahap-2-matriks-terjemahan-lima-bahasa" id="toc-d.-tahap-2-matriks-terjemahan-lima-bahasa" class="nav-link" data-scroll-target="#d.-tahap-2-matriks-terjemahan-lima-bahasa">D. Tahap 2: Matriks Terjemahan Lima Bahasa</a>
   <ul class="collapse">
-  <li><a href="#g.-contoh-pengisian-singkat-sebagai-inspirasi" id="toc-g.-contoh-pengisian-singkat-sebagai-inspirasi" class="nav-link" data-scroll-target="#g.-contoh-pengisian-singkat-sebagai-inspirasi"><strong>G. Contoh Pengisian Singkat (Sebagai Inspirasi)</strong></a></li>
+  <li><a href="#ragam-bahasa-anak-anak-usia-sekitar-10-tahun" id="toc-ragam-bahasa-anak-anak-usia-sekitar-10-tahun" class="nav-link" data-scroll-target="#ragam-bahasa-anak-anak-usia-sekitar-10-tahun">1. Ragam bahasa: Anak-anak (usia sekitar 10 tahun)</a></li>
+  <li><a href="#ragam-bahasa-sahabat-beda-bidang-atau-program-studi" id="toc-ragam-bahasa-sahabat-beda-bidang-atau-program-studi" class="nav-link" data-scroll-target="#ragam-bahasa-sahabat-beda-bidang-atau-program-studi">2. Ragam bahasa: Sahabat (beda bidang atau program studi)</a></li>
+  <li><a href="#ragam-bahasa-rekan-teknis" id="toc-ragam-bahasa-rekan-teknis" class="nav-link" data-scroll-target="#ragam-bahasa-rekan-teknis">3. Ragam bahasa: Rekan teknis</a></li>
+  <li><a href="#ragam-bahasa-manajer-atau-pengambil-keputusan" id="toc-ragam-bahasa-manajer-atau-pengambil-keputusan" class="nav-link" data-scroll-target="#ragam-bahasa-manajer-atau-pengambil-keputusan">4. Ragam bahasa: Manajer atau pengambil keputusan</a></li>
+  <li><a href="#ragam-bahasa-publik-umum" id="toc-ragam-bahasa-publik-umum" class="nav-link" data-scroll-target="#ragam-bahasa-publik-umum">5. Ragam bahasa: Publik umum</a></li>
   </ul></li>
+  <li><a href="#e.-tahap-3-refleksi-pembelajaran" id="toc-e.-tahap-3-refleksi-pembelajaran" class="nav-link" data-scroll-target="#e.-tahap-3-refleksi-pembelajaran">E. Tahap 3: Refleksi Pembelajaran</a>
+  <ul class="collapse">
+  <li><a href="#ragam-bahasa-yang-paling-sulit" id="toc-ragam-bahasa-yang-paling-sulit" class="nav-link" data-scroll-target="#ragam-bahasa-yang-paling-sulit">1. Ragam bahasa yang paling sulit</a></li>
+  <li><a href="#perubahan-cara-memandang-bidang-keilmuan" id="toc-perubahan-cara-memandang-bidang-keilmuan" class="nav-link" data-scroll-target="#perubahan-cara-memandang-bidang-keilmuan">2. Perubahan cara memandang bidang keilmuan</a></li>
+  <li><a href="#catatan-penggunaan-ai" id="toc-catatan-penggunaan-ai" class="nav-link" data-scroll-target="#catatan-penggunaan-ai">3. Catatan penggunaan AI</a></li>
+  </ul></li>
+  <li><a href="#f.-rubrik-evaluasi-mandiri" id="toc-f.-rubrik-evaluasi-mandiri" class="nav-link" data-scroll-target="#f.-rubrik-evaluasi-mandiri">F. Rubrik Evaluasi Mandiri</a>
+  <ul class="collapse">
+  <li><a href="#alasan-evaluasi" id="toc-alasan-evaluasi" class="nav-link" data-scroll-target="#alasan-evaluasi">Alasan evaluasi</a></li>
+  </ul></li>
+  <li><a href="#g.-catatan-penggunaan-sumber" id="toc-g.-catatan-penggunaan-sumber" class="nav-link" data-scroll-target="#g.-catatan-penggunaan-sumber">G. Catatan penggunaan sumber</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -231,192 +213,133 @@ window.Quarto = {
 <section id="lembar-kerja-tugas-portofolio-terjemahan-lima-bahasa" class="level1">
 <h1>Lembar Kerja Tugas: Portofolio Terjemahan Lima Bahasa</h1>
 <p><em>Kuliah 4: Bahasa yang Menjembatani Makna</em></p>
-<section id="template-isi-cepat" class="level2">
-<h2 class="anchored" data-anchor-id="template-isi-cepat">Template Isi Cepat</h2>
-<p>Pilih satu konsep yang Anda pahami dan tuliskan sumber definisinya. Pastikan inti makna tetap sama di semua versi.</p>
-<ul>
-<li><strong>Konsep dan sumber:</strong> [Nama konsep]; [buku/artikel/sumber tepercaya].</li>
-<li><strong>Definisi teknis:</strong> [Satu atau dua kalimat].</li>
-<li><strong>Istilah yang perlu dijelaskan:</strong> [Istilah 1 = arti sederhana]; [istilah 2 = arti sederhana]; [istilah 3 = arti sederhana].</li>
-<li><strong>Meaning inti:</strong> [Satu kalimat tanpa jargon].</li>
-<li><strong>Versi untuk anak:</strong> [Analogi konkret yang tetap akurat].</li>
-<li><strong>Versi untuk sahabat:</strong> [Bahasa santai tanpa menggurui].</li>
-<li><strong>Versi untuk rekan teknis:</strong> [Istilah presisi dan detail yang dibutuhkan].</li>
-<li><strong>Versi untuk manager:</strong> [Manfaat, biaya/risiko, dan keputusan].</li>
-<li><strong>Versi untuk publik:</strong> [Dampak dalam kehidupan sehari-hari].</li>
-<li><strong>Uji pemahaman:</strong> [Target audiens dan feedback aktual]; jika belum diuji, tulis “belum diuji”.</li>
-<li><strong>Refleksi:</strong> [Versi tersulit dan satu hal yang Anda pelajari tentang pilihan bahasa].</li>
-</ul>
-<p>Lanjutkan ke matriks lengkap dan isi skor mandiri setelah semua versi selesai.</p>
-<blockquote class="blockquote">
-<p><strong>Prinsip Utama:</strong> <em>“Jangan pernah mengubah kebenaran agar mudah diterima, melainkan ubahlah cara membawa kebenaran agar dapat dipahami.”</em></p>
-</blockquote>
-<hr>
-</section>
 <section id="a.-deskripsi-tugas" class="level2">
-<h2 class="anchored" data-anchor-id="a.-deskripsi-tugas"><strong>A. Deskripsi Tugas</strong></h2>
-<p>Salah satu rintangan komunikasi terbesar bagi seorang calon profesional adalah <strong>“Kutukan Pengetahuan” (<em>Curse of Knowledge</em>)</strong>—situasi di mana Anda sangat memahami sebuah konsep rumit, hingga Anda lupa rasanya menjadi orang yang belum mengetahuinya. Akibatnya, Anda cenderung menggunakan istilah teknis (jargon) kaku yang justru menjauhkan gagasan Anda dari pendengar.</p>
-<p>Dalam tugas ini, Anda ditantang untuk melatih <strong>kelenturan register dan alih ragam bahasa (<em>code-switching</em>)</strong>. Anda akan memilih satu konsep teknis dari bidang keilmuan atau program studi Anda, meruntuhkan jargon di dalamnya, lalu menerjemahkan makna inti konsep tersebut ke dalam <strong>lima versi bahasa komunikasi</strong> yang berbeda tanpa mengubah esensi kebenarannya.</p>
-<hr>
+<h2 class="anchored" data-anchor-id="a.-deskripsi-tugas">A. Deskripsi Tugas</h2>
+<p>Konsep yang saya pilih adalah Enterprise Resource Planning (ERP). Saya memilih konsep ini karena ERP berkaitan dengan bidang Sistem dan Teknologi Informasi yang saya pelajari dan merupakan konsep yang sedang saya pelajari lebih lanjut.</p>
+<p>Melalui konsep ini, saya menghubungkan ERP dengan pengalaman menggunakan weekly progress sebagai alat monitoring dalam management tim. Weekly progress bukan definisi ERP, tetapi contoh sederhana tentang bagaimana informasi progress dapat membantu pihak yang bertanggung jawab mengetahui kondisi pekerjaan dan menentukan tindakan.</p>
 </section>
 <section id="b.-identitas-mahasiswa" class="level2">
-<h2 class="anchored" data-anchor-id="b.-identitas-mahasiswa"><strong>B. Identitas Mahasiswa</strong></h2>
+<h2 class="anchored" data-anchor-id="b.-identitas-mahasiswa">B. Identitas Mahasiswa</h2>
 <ul>
-<li><strong>Nama Lengkap:</strong> ______________________________________</li>
-<li><strong>NIM:</strong> ______________________________________</li>
-<li><strong>Program Studi:</strong> ______________________________________</li>
-<li><strong>Tanggal Pengisian:</strong> ______________________________________</li>
+<li><strong>Nama lengkap:</strong> Akmal</li>
+<li><strong>NIM:</strong> 18225035</li>
+<li><strong>Program studi:</strong> Sistem dan Teknologi Informasi</li>
+<li><strong>Tanggal pengisian:</strong> 25 September 2026</li>
 </ul>
-<hr>
 </section>
-<section id="c.-tahap-1-detoks-jargon-dekonstruksi-konsep" class="level2">
-<h2 class="anchored" data-anchor-id="c.-tahap-1-detoks-jargon-dekonstruksi-konsep"><strong>C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</strong></h2>
-<p>Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan “sumsum” atau kebenaran inti dari pesan Anda.</p>
-<ol type="1">
-<li><p><strong>Konsep Teknis yang Dipilih:</strong> <em>(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)</em> <em>Jawab:</em></p></li>
-<li><p><strong>Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):</strong> <em>(Tuliskan definisi asli lengkap dengan jargon teknisnya)</em> <em>Jawab:</em></p></li>
-<li><p><strong>Daftar Jargon Teknis &amp; Artian Sederhananya:</strong> <em>Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.</em></p>
+<section id="c.-tahap-1-detoks-jargon" class="level2">
+<h2 class="anchored" data-anchor-id="c.-tahap-1-detoks-jargon">C. Tahap 1: Detoks Jargon</h2>
+<section id="konsep-teknis-yang-dipilih" class="level3">
+<h3 class="anchored" data-anchor-id="konsep-teknis-yang-dipilih">1. Konsep teknis yang dipilih</h3>
+<p>Enterprise Resource Planning (ERP).</p>
+</section>
+<section id="definisi-teknis" class="level3">
+<h3 class="anchored" data-anchor-id="definisi-teknis">2. Definisi teknis</h3>
+<p>Menurut SAP, ERP merupakan sistem perangkat lunak yang membantu organisasi mengelola dan mengintegrasikan proses bisnis inti, seperti finance, human resources, manufacturing, supply chain, sales, dan procurement. ERP menggunakan modul-modul yang saling terhubung dan berbagi common database sehingga organisasi dapat memperoleh unified view atas aktivitasnya.</p>
+</section>
+<section id="jargon-teknis-dan-artinya" class="level3">
+<h3 class="anchored" data-anchor-id="jargon-teknis-dan-artinya">3. Jargon teknis dan artinya</h3>
 <ul>
-<li><strong>Jargon 1:</strong> <code>_______________</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: ____________________</li>
-<li><strong>Jargon 2:</strong> <code>_______________</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: ____________________</li>
-<li><strong>Jargon 3:</strong> <code>_______________</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: ____________________</li>
-</ul></li>
-<li><p><strong>Kebenaran Inti (<em>Marrow of the Message</em>):</strong> <em>(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)</em> <em>Jawab:</em></p></li>
-</ol>
-<hr>
+<li><strong>Integrated business processes:</strong> Proses bisnis dari berbagai bagian saling terhubung sehingga informasi dari satu bagian dapat digunakan oleh bagian lainnya.</li>
+<li><strong>Common database:</strong> Basis data bersama yang digunakan oleh berbagai bagian atau modul sehingga informasi tidak tersimpan secara terpisah-pisah.</li>
+<li><strong>Unified view:</strong> Gambaran informasi yang lebih menyeluruh karena data dari berbagai bagian dapat dilihat dalam satu sistem.</li>
+</ul>
+</section>
+<section id="kebenaran-inti" class="level3">
+<h3 class="anchored" data-anchor-id="kebenaran-inti">4. Kebenaran inti</h3>
+<p>ERP membantu menghubungkan informasi dari berbagai aktivitas dan bagian organisasi sehingga kondisi pekerjaan dapat dipantau dengan lebih jelas dan membantu pengambilan keputusan.</p>
+</section>
 </section>
 <section id="d.-tahap-2-matriks-terjemahan-lima-bahasa" class="level2">
-<h2 class="anchored" data-anchor-id="d.-tahap-2-matriks-terjemahan-lima-bahasa"><strong>D. Tahap 2: Matriks Terjemahan Lima Bahasa</strong></h2>
-<p>Sekarang, bawa kebenaran inti di atas menggunakan “kendaraan” bahasa yang sesuai bagi masing-masing dari lima audiens berikut.</p>
-<section id="ragam-bahasa-anak-anak-usia-10-tahun" class="level3">
-<h3 class="anchored" data-anchor-id="ragam-bahasa-anak-anak-usia-10-tahun"><strong>1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.</li>
-<li><strong>Strategi:</strong> Gunakan <strong>analogi fisik atau cerita</strong> yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<h2 class="anchored" data-anchor-id="d.-tahap-2-matriks-terjemahan-lima-bahasa">D. Tahap 2: Matriks Terjemahan Lima Bahasa</h2>
+<section id="ragam-bahasa-anak-anak-usia-sekitar-10-tahun" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-anak-anak-usia-sekitar-10-tahun">1. Ragam bahasa: Anak-anak (usia sekitar 10 tahun)</h3>
+<p>Bayangkan kamu punya satu buku besar untuk satu sekolah. Di buku itu ada catatan tentang uang sekolah, jadwal, tugas, dan kegiatan. Semua orang yang membutuhkan bisa melihat catatan yang sama. Jadi, kalau ada tugas yang sudah selesai atau ada kegiatan yang bermasalah, kepala sekolah bisa mengetahuinya dengan lebih mudah.</p>
+<p>ERP bekerja mirip seperti itu untuk perusahaan: berbagai informasi dari banyak bagian disatukan agar kondisi perusahaan lebih mudah dilihat.</p>
 </section>
-<section id="ragam-bahasa-sahabat-beda-bidang-program-studi" class="level3">
-<h3 class="anchored" data-anchor-id="ragam-bahasa-sahabat-beda-bidang-program-studi"><strong>2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.</li>
-<li><strong>Strategi:</strong> Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<section id="ragam-bahasa-sahabat-beda-bidang-atau-program-studi" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-sahabat-beda-bidang-atau-program-studi">2. Ragam bahasa: Sahabat (beda bidang atau program studi)</h3>
+<p>“ERP itu sebenarnya satu sistem yang nyambungin berbagai bagian perusahaan. Jadi keuangan, pembelian, stok, penjualan, dan bagian lain nggak punya informasi yang berdiri sendiri-sendiri. Semuanya lebih terhubung, jadi orang yang mengelola perusahaan bisa lebih gampang tahu kondisi yang sebenarnya. Mirip weekly progress di tim, kita bisa lihat mana pekerjaan yang sudah selesai dan mana yang masih bermasalah.”</p>
 </section>
-<section id="ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" class="level3">
-<h3 class="anchored" data-anchor-id="ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan"><strong>3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.</li>
-<li><strong>Strategi:</strong> Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<section id="ragam-bahasa-rekan-teknis" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-rekan-teknis">3. Ragam bahasa: Rekan teknis</h3>
+<p>ERP mengintegrasikan berbagai business processes melalui functional modules yang menggunakan common data sehingga organisasi memperoleh unified view terhadap operasional. Integrasi ini mengurangi keterpisahan informasi antar-fungsi dan mendukung monitoring serta decision making. Dalam konteks weekly progress, informasi aktivitas dan status pekerjaan dapat digunakan sebagai salah satu input untuk melihat kondisi operasional secara lebih terstruktur. ERP modern juga dapat terintegrasi dengan aplikasi atau sumber data lain menggunakan API maupun mekanisme integrasi lainnya.</p>
 </section>
-<section id="ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis" class="level3">
-<h3 class="anchored" data-anchor-id="ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis"><strong>4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.</li>
-<li><strong>Strategi:</strong> Tekankan <strong>nilai tambah (<em>value proposition</em>)</strong>, biaya (<em>cost</em>), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<section id="ragam-bahasa-manajer-atau-pengambil-keputusan" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-manajer-atau-pengambil-keputusan">4. Ragam bahasa: Manajer atau pengambil keputusan</h3>
+<p>ERP dapat membantu organisasi memiliki informasi yang lebih terintegrasi antarbagian sehingga monitoring dan pengambilan keputusan dapat dilakukan berdasarkan gambaran operasional yang lebih menyeluruh. Salah satu manfaatnya adalah membantu mengidentifikasi bagian yang sudah berjalan dan bagian yang mengalami hambatan lebih cepat.</p>
+<p>Dari sisi trade-off, penerapan ERP membutuhkan investasi, pengelolaan data yang konsisten, dan kedisiplinan pengguna. Jika informasi tidak diperbarui dengan baik, kualitas informasi untuk monitoring juga berkurang. Karena itu, praktik seperti weekly progress tetap diperlukan untuk memastikan kondisi aktual pekerjaan terus diperbarui.</p>
 </section>
-<section id="ragam-bahasa-publik-umum-masyarakat-luas" class="level3">
-<h3 class="anchored" data-anchor-id="ragam-bahasa-publik-umum-masyarakat-luas"><strong>5. Ragam Bahasa: Publik Umum (Masyarakat Luas)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.</li>
-<li><strong>Strategi:</strong> Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
-<hr>
+<section id="ragam-bahasa-publik-umum" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-publik-umum">5. Ragam bahasa: Publik umum</h3>
+<p>ERP membantu perusahaan menyatukan informasi dari berbagai bagian agar mereka tidak bekerja dengan informasi yang berbeda-beda. Dengan informasi yang lebih terhubung, perusahaan bisa lebih mudah mengetahui apa yang sudah selesai, apa yang masih mengalami masalah, dan apa yang perlu segera ditangani.</p>
+<p>Contohnya, seperti sebuah tim yang rutin membuat weekly progress. Dengan melihat perkembangan secara berkala, masalah dapat diketahui lebih awal sebelum berdampak lebih besar pada pekerjaan lainnya.</p>
 </section>
 </section>
-<section id="e.-tahap-3-refleksi-pembelajaran-intrapribadi" class="level2">
-<h2 class="anchored" data-anchor-id="e.-tahap-3-refleksi-pembelajaran-intrapribadi"><strong>E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)</strong></h2>
-<p><em>Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.</em></p>
-<ol type="1">
-<li><p><strong>Ragam bahasa mana yang paling sulit Anda buat? Mengapa?</strong> <em>Jawab:</em></p></li>
-<li><p><strong>Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?</strong> <em>Jawab:</em></p></li>
-<li><p><strong>Catatan Penggunaan AI Kopilot (Jika Ada):</strong> <em>Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.</em> <em>Jawab:</em></p></li>
-</ol>
-<hr>
+<section id="e.-tahap-3-refleksi-pembelajaran" class="level2">
+<h2 class="anchored" data-anchor-id="e.-tahap-3-refleksi-pembelajaran">E. Tahap 3: Refleksi Pembelajaran</h2>
+<section id="ragam-bahasa-yang-paling-sulit" class="level3">
+<h3 class="anchored" data-anchor-id="ragam-bahasa-yang-paling-sulit">1. Ragam bahasa yang paling sulit</h3>
+<p>Versi untuk anak-anak merupakan bagian yang paling sulit bagi saya. Saya terbiasa menggunakan istilah yang langsung menjelaskan konsep ketika membicarakan teknologi, sehingga saya perlu berpikir ulang bagaimana menyederhanakan ERP tanpa menghilangkan konsep bahwa ERP menghubungkan informasi dari berbagai bagian.</p>
+<p>Saya juga harus memastikan analogi yang digunakan tidak membuat ERP terlihat hanya sebagai tempat menyimpan data. Karena itu, saya menggunakan analogi buku besar sekolah untuk menggambarkan keterhubungan informasi dalam satu sistem.</p>
 </section>
-<section id="f.-rubrik-evaluasi-mandiri-penilaian-portofolio" class="level2">
-<h2 class="anchored" data-anchor-id="f.-rubrik-evaluasi-mandiri-penilaian-portofolio"><strong>F. Rubrik Evaluasi Mandiri &amp; Penilaian Portofolio</strong></h2>
-<p>Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.</p>
+<section id="perubahan-cara-memandang-bidang-keilmuan" class="level3">
+<h3 class="anchored" data-anchor-id="perubahan-cara-memandang-bidang-keilmuan">2. Perubahan cara memandang bidang keilmuan</h3>
+<p>Proses ini membuat saya menyadari bahwa memahami suatu konsep secara teknis belum tentu berarti saya mampu menjelaskannya kepada semua orang. Ketika istilah seperti integrated business processes, common database, dan unified view saya ubah menjadi bahasa sederhana, saya menjadi lebih memahami fungsi utama ERP di balik istilah-istilah tersebut.</p>
+<p>Saya juga belajar bahwa dalam bidang Sistem dan Teknologi Informasi, kemampuan menjelaskan konsep kepada orang nonteknis sama pentingnya dengan memahami aspek teknisnya. Sebagai orang yang tertarik pada sisi teknologi sekaligus bisnis, saya perlu mampu mengubah cara penyampaian tanpa mengubah makna konsep.</p>
+</section>
+<section id="catatan-penggunaan-ai" class="level3">
+<h3 class="anchored" data-anchor-id="catatan-penggunaan-ai">3. Catatan penggunaan AI</h3>
+<p>Saya menggunakan AI sebagai alat bantu untuk menguji apakah konsep ERP yang saya pahami dapat dijelaskan dengan lima tingkat bahasa yang berbeda.</p>
+<p><strong>Instruksi yang digunakan:</strong> “Sederhanakan konsep ERP untuk lima target audiens: anak usia 10 tahun, sahabat dari bidang berbeda, mahasiswa IT/SI, manager, dan publik. Pertahankan meaning utama bahwa ERP menghubungkan informasi dari berbagai bagian organisasi agar kondisi pekerjaan dapat dipantau dan keputusan dapat dibuat dengan lebih baik.”</p>
+<p>AI membantu saya melihat bahwa setiap audiens membutuhkan tingkat detail, istilah, dan fokus yang berbeda. Namun, saya tetap memeriksa kembali setiap versi agar tidak mengubah ERP menjadi sekadar sistem weekly progress. Weekly progress saya gunakan sebagai contoh penerapan monitoring, sedangkan ERP tetap dijelaskan sebagai sistem yang mengintegrasikan proses dan informasi organisasi.</p>
+</section>
+</section>
+<section id="f.-rubrik-evaluasi-mandiri" class="level2">
+<h2 class="anchored" data-anchor-id="f.-rubrik-evaluasi-mandiri">F. Rubrik Evaluasi Mandiri</h2>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 20%">
-</colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Kriteria</th>
-<th style="text-align: left;">Skor 4 (Sangat Baik)</th>
-<th style="text-align: left;">Skor 3 (Baik)</th>
-<th style="text-align: left;">Skor 2 (Cukup)</th>
-<th style="text-align: left;">Skor 1 (Kurang)</th>
-<th style="text-align: center;">Skor Mandiri</th>
+<th>Kriteria</th>
+<th style="text-align: right;">Skor mandiri</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><strong>Keutuhan Makna</strong> <em>(Fidelity)</em></td>
-<td style="text-align: left;">Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa.</td>
-<td style="text-align: left;">Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak.</td>
-<td style="text-align: left;">Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa.</td>
-<td style="text-align: left;">Makna inti rusak atau berubah total di berbagai ragam bahasa.</td>
-<td style="text-align: center;"></td>
+<td>Keutuhan makna (<em>fidelity</em>)</td>
+<td style="text-align: right;">4</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Kelenturan Register</strong> <em>(Code-switching)</em></td>
-<td style="text-align: left;">Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing.</td>
-<td style="text-align: left;">Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens.</td>
-<td style="text-align: left;">Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan).</td>
-<td style="text-align: left;">Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama.</td>
-<td style="text-align: center;"></td>
+<td>Kelenturan register (<em>code-switching</em>)</td>
+<td style="text-align: right;">4</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><strong>Kualitas Analogi &amp; Penjelasan</strong></td>
-<td style="text-align: left;">Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika.</td>
-<td style="text-align: left;">Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya.</td>
-<td style="text-align: left;">Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens.</td>
-<td style="text-align: left;">Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik).</td>
-<td style="text-align: center;"></td>
+<td>Kualitas analogi dan penjelasan</td>
+<td style="text-align: right;">3</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Kedalaman Refleksi</strong></td>
-<td style="text-align: left;">Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas.</td>
-<td style="text-align: left;">Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut.</td>
-<td style="text-align: left;">Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda.</td>
-<td style="text-align: left;">Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat).</td>
-<td style="text-align: center;"></td>
+<td>Kedalaman refleksi</td>
+<td style="text-align: right;">4</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><strong>Total Skor (Maksimal 16)</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: center;"><strong>___ / 16</strong></td>
+<td><strong>Total skor</strong></td>
+<td style="text-align: right;"><strong>15 / 16</strong></td>
 </tr>
 </tbody>
 </table>
-<hr>
-<section id="g.-contoh-pengisian-singkat-sebagai-inspirasi" class="level3">
-<h3 class="anchored" data-anchor-id="g.-contoh-pengisian-singkat-sebagai-inspirasi"><strong>G. Contoh Pengisian Singkat (Sebagai Inspirasi)</strong></h3>
-<ul>
-<li><strong>Konsep:</strong> <em>Database Replication (Replikasi Basis Data)</em></li>
-<li><strong>Kebenaran Inti:</strong> Menyalin dan menyimpan data yang sama di beberapa komputer berbeda secara otomatis agar jika satu komputer rusak, data kita tetap aman dan aplikasi tidak mati.</li>
-<li><strong>Terjemahan Ragam Anak-Anak:</strong> <em>“Bayangkan kamu punya buku gambar kesayangan. Karena takut bukunya hilang atau ketumpahan air, kamu meminta mesin ajaib untuk menyalin gambar yang sama ke buku gambar teman-temanmu secara otomatis. Jadi, kalau buku gambarmu basah, kamu tinggal pinjam buku milik temanmu dan bisa lanjut mewarnai tanpa sedih!”</em></li>
-<li><strong>Terjemahan Ragam Manajer:</strong> <em>“Untuk menjamin kelangsungan operasional bisnis dan meminimalkan risiko downtime akibat kegagalan server tunggal, kita menerapkan replikasi data ke wilayah sekunder. Hal ini memastikan pemulihan bencana (disaster recovery) berjalan instan dengan toleransi kehilangan data mendekati nol, sehingga transaksi pelanggan tidak terganggu.”</em></li>
-</ul>
-
-
+<section id="alasan-evaluasi" class="level3">
+<h3 class="anchored" data-anchor-id="alasan-evaluasi">Alasan evaluasi</h3>
+<p><strong>Keutuhan makna — 4:</strong> Meaning utama mengenai integrasi informasi dan kemudahan monitoring tetap dipertahankan pada kelima versi.</p>
+<p><strong>Kelenturan register — 4:</strong> Bahasa dan fokus dibedakan sesuai target. Anak-anak menggunakan analogi, sahabat menggunakan bahasa informal, rekan teknis menggunakan istilah teknis, manajer menekankan manfaat dan trade-off, sedangkan publik mendapat penjelasan lebih sederhana.</p>
+<p><strong>Kualitas analogi dan penjelasan — 3:</strong> Analogi buku sekolah cukup membantu menjelaskan konsep, tetapi masih dapat dibuat lebih sederhana dan lebih kuat agar anak dapat langsung memahami konsep ERP.</p>
+<p><strong>Kedalaman refleksi — 4:</strong> Refleksi menghubungkan kesulitan menerjemahkan jargon dengan cara saya memahami bidang Sistem dan Teknologi Informasi serta kebutuhan untuk mampu berkomunikasi dengan audiens teknis maupun nonteknis.</p>
 </section>
+</section>
+<section id="g.-catatan-penggunaan-sumber" class="level2">
+<h2 class="anchored" data-anchor-id="g.-catatan-penggunaan-sumber">G. Catatan penggunaan sumber</h2>
+<p>Sumber definisi utama: SAP, <em>What is ERP? The Essential Guide</em>. SAP menjelaskan ERP sebagai sistem yang mengintegrasikan proses bisnis inti dan modul yang berbagi common database untuk menghasilkan pandangan informasi yang terpadu.</p>
+
+
 </section>
 </section>
 
