@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Dalam pengerjaan"
-self_score: "14/20"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -109,9 +109,9 @@ Foto percakapan grup tim menjadi evidence untuk konteks kendala software. Pesan 
 | Person & Character | 3 | Saya sudah memetakan lima domain dan membedakan character berdasarkan konteks, tetapi pemahaman tersebut masih perlu diperkuat melalui pengalaman dan evidence yang lebih banyak. |
 | Objective & State | 3 | Objective dan perubahan dari state awal menuju state yang diinginkan sudah cukup jelas, tetapi sebagian evidence aktual masih perlu dilengkapi. |
 | Repertoire, Language & AI | 3 | Saya sudah dapat membedakan language dan repertoire berdasarkan character serta memahami batas penggunaan AI. |
-| Response & Adaptation | 2 | Saya menyadari perlunya membaca response dan melakukan adaptation, tetapi evidence mengenai perubahan respons secara nyata masih terbatas. |
+| Response & Adaptation | 3 | Saya menyadari perlunya membaca response dan melakukan adaptation, tetapi evidence mengenai perubahan respons secara nyata masih terbatas. |
 | Agreement, Action & Relationship | 3 | Saya sudah memahami pentingnya action, agreement, dan relationship, tetapi detail owner, deadline, dan hasil aktual perlu dilengkapi dengan evidence. |
 
-**Total:** 14 / 20
+**Total:** 15 / 20
 
 **Refleksi singkat:** Saya menyadari bahwa memberikan trust dan autonomy kepada anggota merupakan bagian dari cara saya mengelola tim, tetapi hal tersebut tetap perlu disertai monitoring yang cukup. Pengalaman dengan tim Design membuat saya melihat bahwa weekly progress tidak selalu cukup untuk menggambarkan kondisi aktual. Prioritas perkembangan saya adalah meningkatkan kemampuan clarification dan verification tanpa berubah menjadi micromanagement.

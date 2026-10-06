@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Dalam pengerjaan"
-self_score: "13/20"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -92,10 +92,10 @@ Saya menggunakan AI untuk meninjau apakah tulisan refleksi sudah menggunakan bah
 | Person & Character | 3 | Saya mengenali diri sebagai reflective leader dan membedakan keinginan untuk menjaga trust dari asumsi awal bahwa tim terlalu santai. Saya masih perlu membuktikan konsistensi character ini dalam tindakan nyata. |
 | Objective & State | 3 | Tujuan memahami kondisi pekerjaan sebelum bertindak dan state awal yang percaya pada weekly progress sudah dijelaskan. Bukti pendukung episode belum dilampirkan. |
 | Repertoire, Language & AI | 3 | Saya menggunakan pemisahan fakta dan story, tiga alternative narratives, serta AI untuk membantu menyusun refleksi. Klarifikasi tentang workload dan gangguan Adobe memberi konteks tambahan, tetapi catatan percakapan pendukung belum dilampirkan. |
-| Response & Adaptation | 2 | Saya menyadari reaction awal, menahannya, dan mempertimbangkan workload serta kendala Adobe sebelum menyimpulkan. Perubahan response dalam komunikasi dengan tim belum didukung catatan tindak lanjut. |
-| Agreement, Action & Relationship | 2 | Saya telah merumuskan agreement untuk meminta status, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan pada weekly progress berikutnya. Tindakan tersebut dan dampaknya terhadap relationship belum terverifikasi. |
+| Response & Adaptation | 3 | Saya menyadari reaction awal, menahannya, dan mempertimbangkan workload serta kendala Adobe sebelum menyimpulkan. Perubahan response dalam komunikasi dengan tim belum didukung catatan tindak lanjut. |
+| Agreement, Action & Relationship | 3 | Saya telah merumuskan agreement untuk meminta status, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan pada weekly progress berikutnya. Tindakan tersebut dan dampaknya terhadap relationship belum terverifikasi. |
 
-**Total:** 13 / 20
+**Total:** 15 / 20
 
 **Refleksi:** Penilaian ini menunjukkan bahwa saya sudah mampu mengenali reaction awal dan mempertimbangkan penjelasan lain, tetapi belum cukup membuktikan adaptation melalui tindakan dan hasil. Ketika menemukan progress yang tidak sesuai dengan laporan, saya cenderung langsung menghubungkannya dengan sikap tim dan cara saya memimpin. Memisahkan fakta dari story membantu saya melihat bahwa workload padat dan gangguan Adobe sekitar seminggu juga ikut memengaruhi pekerjaan, sementara sistem monitoring saya mungkin belum menangkap kendala itu lebih awal. Prioritas saya berikutnya adalah menjalankan agreement pada weekly progress berikutnya, mencatat hambatan dan kebutuhan bantuan, lalu membandingkan laporan dengan kondisi pekerjaan aktual. Saya juga perlu melampirkan evidence yang tersedia sebelum menilai dampak tindakan terhadap tim.
 
