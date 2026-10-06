@@ -94,7 +94,7 @@ Foto percakapan grup tim menjadi evidence untuk konteks kendala software. Pesan 
 
 **Kontribusi saya dalam evidence:** Evidence perlu membedakan tindakan pribadi saya sebagai penanggung jawab—menetapkan target dan boundaries, meminta weekly progress, melakukan pengecekan dan klarifikasi, serta membahas prioritas—dari hasil kerja kolektif sub-divisi dan tim acara.
 
-**Penggunaan AI:** AI dapat membantu saya memisahkan fakta dan asumsi, menemukan pola komunikasi, dan merefleksikan cara saya melakukan monitoring. AI bukan sumber fakta dan tidak digunakan untuk membuat evidence atau feedback. Saya tidak memasukkan nama asli atau data pribadi, dan setiap refleksi tetap saya cocokkan dengan evidence aktual.
+**Penggunaan AI:** Saya menggunakan AI untuk meninjau apakah tulisan sudah menggunakan bahasa Indonesia yang baik dan benar. AI diarahkan untuk memperbaiki bahasa, seperti ejaan, tata bahasa, dan kejelasan kalimat, tanpa menambahkan fakta atau mengubah pengalaman dan maksud refleksi saya. Isi refleksi dan evidence tetap saya periksa sendiri.
 
 **Feedback yang diterima:** Belum dikumpulkan.
 

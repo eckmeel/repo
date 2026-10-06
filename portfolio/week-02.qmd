@@ -69,12 +69,12 @@ Kontribusi yang saya refleksikan adalah komunikasi dan pengambilan keputusan say
 
 ## Penggunaan AI
 
-Saya menggunakan AI sebagai alat bantu refleksi untuk membantu memisahkan event, fact, story, emotion, dan alternative narratives dari pengalaman yang saya alami.
+Saya menggunakan AI untuk meninjau apakah tulisan refleksi sudah menggunakan bahasa Indonesia yang baik dan benar.
 
-- **Alat dan peran AI:** AI membantu menyusun dan menguji struktur refleksi, bukan menentukan apa yang sebenarnya saya rasakan atau alami.
-- **Prompt atau instruksi penting:** Saya meminta AI membantu membedakan fakta dari asumsi dan merumuskan alternative narratives berdasarkan informasi yang saya berikan.
-- **Output yang digunakan, diubah, atau ditolak:** Struktur dan saran bahasa digunakan sebagai bantuan penulisan. Pengalaman, fakta, dan keputusan tetap berasal dari saya; pernyataan yang tidak sesuai dengan pengalaman saya akan ditolak.
-- **Accuracy, privacy, dan authority:** Saya memeriksa isi terhadap pengalaman dan evidence yang tersedia, tidak memasukkan data pribadi anggota tim, dan tidak menganggap output AI sebagai sumber fakta.
+- **Alat dan peran AI:** AI membantu meninjau dan memperbaiki bahasa tulisan, bukan menentukan isi refleksi atau apa yang saya rasakan.
+- **Prompt atau instruksi penting:** AI diarahkan untuk memperbaiki bahasa Indonesia, termasuk ejaan, tata bahasa, dan kejelasan kalimat, tanpa mengubah makna atau menambahkan informasi.
+- **Output yang digunakan, diubah, atau ditolak:** Saya menggunakan saran perbaikan bahasa setelah memeriksanya. Fakta, refleksi, dan keputusan tetap berasal dari saya.
+- **Accuracy, privacy, dan authority:** Saya mencocokkan hasil perbaikan dengan maksud tulisan saya, tidak memasukkan data pribadi anggota tim, dan tidak menganggap AI sebagai sumber fakta.
 - **Apa yang tetap saya pelajari sebagai manusia:** Saya tetap melakukan refleksi, menentukan apa yang saya rasakan, membedakan fakta dari story, dan memilih tindakan yang akan saya lakukan.
 
 ## Feedback dan tindak lanjut

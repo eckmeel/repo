@@ -52,7 +52,7 @@ Meaning utama tetap sama: weekly progress membantu leader mengetahui kondisi pek
 
 Evidence yang saya miliki berupa pengalaman menggunakan weekly progress ketika mengelola progress tim lomba pada semester 1. Saya menjadikan weekly progress bagian dari cara monitoring tim dan menjelaskan kepada anggota alasan penggunaan update tersebut.
 
-Kontribusi saya adalah menyampaikan alasan penggunaan update dan menggunakannya sebagai bagian dari monitoring. Weekly progress merupakan contoh praktik monitoring; saya tidak menyamakannya dengan definisi ERP atau sistem ERP.
+Kontribusi saya adalah menyampaikan alasan penggunaan update dan menggunakannya sebagai bagian dari monitoring. Weekly progress merupakan contoh praktik monitoring
 
 ## Tes pemahaman dan feedback
 
@@ -71,12 +71,12 @@ Saya pernah menjelaskan konsep weekly progress kepada tim yang saya kelola pada 
 
 ## Penggunaan AI
 
-Saya menggunakan AI sebagai alat bantu untuk mengadaptasi satu gagasan yang sama ke beberapa target komunikasi.
+Saya menggunakan AI untuk meninjau apakah tulisan sudah menggunakan bahasa Indonesia yang baik dan benar.
 
-- **Alat dan peran AI:** AI membantu menyusun variasi language berdasarkan perbedaan target komunikasi.
-- **Prompt atau instruksi penting:** AI diarahkan untuk mempertahankan meaning inti tetapi mengubah tingkat formalitas, fokus, dan pilihan kata sesuai friend, technical peer, manager, customer, dan public.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan bantuan AI pada struktur dan perumusan bahasa, lalu menyesuaikannya agar sesuai dengan cara saya berkomunikasi dan pengalaman penggunaan weekly progress.
-- **Pemeriksaan accuracy, privacy, dan authority:** Saya memeriksa kembali agar meaning tidak berubah dan tidak memasukkan informasi pribadi atau fakta yang tidak saya alami. AI digunakan sebagai alat bantu bahasa, bukan sebagai sumber evidence.
+- **Alat dan peran AI:** AI membantu meninjau dan memperbaiki bahasa tulisan, bukan memilih target komunikasi atau menentukan isi pesan.
+- **Prompt atau instruksi penting:** AI diarahkan untuk memperbaiki bahasa Indonesia, termasuk ejaan, tata bahasa, dan kejelasan kalimat, tanpa mengubah meaning inti atau menambahkan fakta.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan saran perbaikan bahasa setelah memeriksa kesesuaiannya dengan maksud tulisan. Adaptasi pesan untuk tiap target tetap saya tentukan sendiri.
+- **Pemeriksaan accuracy, privacy, dan authority:** Saya memastikan perbaikan bahasa tidak mengubah meaning dan tidak memasukkan informasi pribadi atau fakta yang tidak saya alami. AI digunakan sebagai alat bantu bahasa, bukan sebagai sumber evidence.
 - **Apa yang tetap saya pelajari sebagai manusia:** Saya tetap menentukan siapa target komunikasi, apa kebutuhan mereka, dan bagian mana dari pesan yang perlu ditekankan.
 
 ## Feedback dan tindak lanjut

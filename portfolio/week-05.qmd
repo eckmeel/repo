@@ -65,12 +65,12 @@ Evidence berupa catatan hasil wawancara dan ringkasan jawaban A selama percakapa
 
 ## Penggunaan AI
 
-Saya menggunakan AI sebagai alat bantu untuk merapikan hasil discovery interview dan menyusun problem statement berdasarkan catatan yang saya miliki.
+Saya menggunakan AI untuk meninjau apakah tulisan hasil discovery interview sudah menggunakan bahasa Indonesia yang baik dan benar.
 
-- **Alat dan peran AI:** Membantu menyusun hasil wawancara secara lebih terstruktur.
-- **Prompt atau instruksi penting:** AI diminta membantu membedakan asumsi awal, fakta yang disampaikan narasumber, dampak, kebutuhan, kendala, dan problem statement.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan bantuan struktur dan perumusan bahasa, tetapi isi faktual tetap berdasarkan jawaban A.
-- **Pemeriksaan accuracy, privacy, dan authority:** Saya memeriksa hasil terhadap catatan wawancara dan menggunakan samaran untuk menjaga privasi narasumber. Status persetujuan wawancara perlu dipastikan dan dicatat sesuai kondisi sebenarnya.
+- **Alat dan peran AI:** AI membantu meninjau dan memperbaiki bahasa tulisan, bukan menganalisis jawaban narasumber atau menyusun fakta baru.
+- **Prompt atau instruksi penting:** AI diarahkan untuk memperbaiki bahasa Indonesia, termasuk ejaan, tata bahasa, dan kejelasan kalimat, tanpa mengubah isi atau menambahkan informasi.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan saran perbaikan bahasa setelah memeriksa kesesuaiannya dengan catatan wawancara. Isi faktual tetap berdasarkan jawaban A.
+- **Pemeriksaan accuracy, privacy, dan authority:** Saya memastikan perbaikan bahasa tidak mengubah makna jawaban, menggunakan samaran untuk menjaga privasi narasumber, dan tidak menganggap AI sebagai sumber fakta. Status persetujuan wawancara perlu dipastikan dan dicatat sesuai kondisi sebenarnya.
 - **Apa yang tetap saya pelajari sebagai manusia:** Saya tetap melakukan discovery, mendengarkan narasumber, mengajukan pertanyaan, dan memastikan problem statement sesuai dengan yang dirasakan narasumber.
 
 ## Feedback dan tindak lanjut

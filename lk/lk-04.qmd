@@ -83,11 +83,11 @@ Saya juga belajar bahwa dalam bidang Sistem dan Teknologi Informasi, kemampuan m
 
 ### 3. Catatan penggunaan AI
 
-Saya menggunakan AI sebagai alat bantu untuk menguji apakah konsep ERP yang saya pahami dapat dijelaskan dengan lima tingkat bahasa yang berbeda.
+Saya menggunakan AI hanya untuk menguji pemahaman saya tentang ERP dan memeriksa apakah penjelasan yang saya buat sudah benar serta sesuai dengan konsep ERP.
 
-**Instruksi yang digunakan:** “Sederhanakan konsep ERP untuk lima target audiens: anak usia 10 tahun, sahabat dari bidang berbeda, mahasiswa IT/SI, manager, dan publik. Pertahankan meaning utama bahwa ERP menghubungkan informasi dari berbagai bagian organisasi agar kondisi pekerjaan dapat dipantau dan keputusan dapat dibuat dengan lebih baik.”
+**Instruksi yang digunakan:** “Tolong periksa pemahaman dan penjelasan saya tentang ERP. Apakah penjelasan ini sudah benar dan sesuai dengan konsep ERP? Tunjukkan jika ada bagian yang kurang tepat atau perlu saya pelajari kembali.”
 
-AI membantu saya melihat bahwa setiap audiens membutuhkan tingkat detail, istilah, dan fokus yang berbeda. Namun, saya tetap memeriksa kembali setiap versi agar tidak mengubah ERP menjadi sekadar sistem weekly progress. Weekly progress saya gunakan sebagai contoh penerapan monitoring, sedangkan ERP tetap dijelaskan sebagai sistem yang mengintegrasikan proses dan informasi organisasi.
+AI memberikan masukan sebagai bahan untuk mengecek pemahaman saya, bukan sebagai sumber kebenaran akhir. Saya meninjau kembali masukan tersebut dan tetap merujuk pada materi pembelajaran untuk memastikan penjelasan tentang ERP sesuai. Weekly progress saya gunakan sebagai contoh penerapan monitoring, bukan sebagai definisi ERP.
 
 ## F. Rubrik Evaluasi Mandiri
 
