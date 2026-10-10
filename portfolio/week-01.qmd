@@ -96,7 +96,7 @@ Nilai yang tetap saya pertahankan pada kedua character adalah tanggung jawab, ke
 
 **Evidence yang saya gunakan:**
 
-Screenshot percakapan grup tersedia di [Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg). Pesan yang terlihat mendukung klaim bahwa Adobe Illustrator bermasalah dan beberapa anggota kesulitan membukanya. Screenshot ini tidak menunjukkan durasi gangguan sekitar seminggu, workload, owner tiap pekerjaan, deadline spesifik, atau hasil akhir; hal-hal tersebut tidak saya simpulkan dari gambar.
+Screenshot percakapan grup tersedia di [Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg). Pesan yang terlihat mendukung klaim bahwa Adobe Illustrator bermasalah dan beberapa anggota kesulitan membukanya. dengan bukti ini, saya dapat menilai bahwa hambatan pekerjaan yang dilaporkan tim adalah nyata dan bukan asumsi saya semata. Evidence ini juga mendukung adanya komunikasi terbuka mengenai kendala yang dihadapi tim.
 
 ![Percakapan tim tentang kendala Adobe Illustrator](../Software-Bermasalah.jpeg)
 
