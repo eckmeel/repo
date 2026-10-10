@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Selesai"
+status: "Siap Dinilai"
 self_score: "15/20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -65,6 +65,14 @@ Tabel berikut adalah draf pemetaan peran komunikasi saya. Nama orang lain disama
 
 **Hasil atau agreement:** Saya dan tim Design membahas kembali prioritas, deadline, dan pekerjaan yang perlu segera diselesaikan. Detail owner, tenggat spesifik, dan hasil akhir belum dicatat di evidence ini, sehingga perlu dilengkapi jika tersedia.
 
+**Rincian outcome yang dapat diverifikasi:**
+
+| Pekerjaan yang disepakati | Owner | Deadline spesifik | Hasil akhir dan status | Evidence |
+|---|---|---|---|---|
+| Prioritas dan pekerjaan yang perlu segera diselesaikan | Belum tercatat | Belum tercatat | Belum tercatat | Belum tersedia di portofolio |
+
+Saya tidak menyimpulkan bahwa pekerjaan selesai atau bahwa tim menyepakati tenggat tertentu tanpa catatan yang mendukungnya. Jika catatan chat atau dokumen kerja ditemukan, tabel ini perlu diperbarui dengan nama atau identitas owner yang sesuai, tanggal, status aktual, dan tautan evidence yang dapat dibuka.
+
 ## Perubahan language
 
 Sebagai **penanggung jawab tim acara**, saya menggunakan language yang jelas, langsung, dan berorientasi action:
@@ -88,9 +96,9 @@ Nilai yang tetap saya pertahankan pada kedua character adalah tanggung jawab, ke
 
 **Evidence yang saya gunakan:**
 
-Foto percakapan grup tim menjadi evidence untuk konteks kendala software. Pesan tersebut menyebut Adobe Illustrator mengalami error dan beberapa anggota tidak bisa membukanya. Foto ini mendukung informasi tentang gangguan software, tetapi tidak dengan sendirinya menunjukkan durasi sekitar seminggu atau workload; durasi dan workload merupakan konteks yang disampaikan tim.
+Screenshot percakapan grup tersedia di [Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg). Pesan yang terlihat mendukung klaim bahwa Adobe Illustrator bermasalah dan beberapa anggota kesulitan membukanya. Screenshot ini tidak menunjukkan durasi gangguan sekitar seminggu, workload, owner tiap pekerjaan, deadline spesifik, atau hasil akhir; hal-hal tersebut tidak saya simpulkan dari gambar.
 
-![Percakapan tim tentang Adobe Illustrator yang mengalami error](../Software-Bermasalah.jpeg)
+![Percakapan tim tentang kendala Adobe Illustrator](../Software-Bermasalah.jpeg)
 
 **Kontribusi saya dalam evidence:** Evidence perlu membedakan tindakan pribadi saya sebagai penanggung jawab—menetapkan target dan boundaries, meminta weekly progress, melakukan pengecekan dan klarifikasi, serta membahas prioritas—dari hasil kerja kolektif sub-divisi dan tim acara.
 
@@ -100,7 +108,7 @@ Foto percakapan grup tim menjadi evidence untuk konteks kendala software. Pesan 
 
 **Perubahan berdasarkan feedback:** Menunggu feedback aktual untuk menentukan satu perubahan perilaku yang paling perlu dilatih.
 
-**Next practice:** Selama 4–6 minggu, ketika menerima progress report dari anggota tim, saya akan mengajukan minimal satu pertanyaan klarifikasi mengenai status pekerjaan, hambatan, atau kebutuhan bantuan sebelum menyimpulkan bahwa pekerjaan berjalan sesuai target. Saya akan mencatat penerapannya setelah rapat atau weekly update dan mengevaluasinya setiap akhir minggu.
+**Next practice:** Selama 4–6 minggu, ketika menerima progress report dari anggota tim, saya akan mengajukan minimal satu pertanyaan klarifikasi mengenai status pekerjaan, hambatan, atau kebutuhan bantuan sebelum menyimpulkan bahwa pekerjaan berjalan sesuai target. Sebelum menutup pembahasan sebagai agreement, saya akan mencatat siapa mengerjakan apa, tanggal dan waktu tenggat yang disepakati, hasil yang diharapkan, serta status aktualnya. Saya akan menyimpan atau menautkan catatan yang dapat diverifikasi, lalu mengevaluasi penerapannya setiap akhir minggu.
 
 ## Self-assessment
 

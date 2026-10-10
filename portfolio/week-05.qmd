@@ -1,7 +1,7 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Selesai"
+status: "Siap Dinilai"
 self_score: "15/20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
@@ -24,7 +24,7 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 
 **Persons dan relationship:** Saya berbicara dengan A, seorang teman dan sesama mahasiswa. Nama disamarkan untuk menjaga privasi.
 
-**Persetujuan narasumber:** Status persetujuan belum dicantumkan; perlu dipastikan sesuai kondisi sebenarnya.
+**Persetujuan narasumber (status artefak): Belum tercatat / belum terverifikasi.** Catatan yang tersedia tidak memuat konfirmasi bahwa A menyetujui dokumentasi wawancara atau penggunaan ringkasannya untuk tujuan pembelajaran. Karena itu, saya belum dapat menulis “Status persetujuan: Disetujui” atau menyatakan bahwa A menyetujui penggunaan data ini. Sebelum menggunakan atau membagikan artefak, saya perlu meminta persetujuan secara eksplisit dan mencatat cakupannya.
 
 **Objective dan initial state:** Tujuan saya adalah memahami masalah belajar A sebelum memberikan saran atau solusi. Sebelum wawancara, saya mengira masalah utamanya adalah A tidak memahami materi yang diajarkan dosen.
 
@@ -50,7 +50,11 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 
 ## Evidence
 
-Evidence berupa catatan hasil wawancara dan ringkasan jawaban A selama percakapan. Catatan ini merangkum informasi yang disampaikan, bukan transkrip verbatim. Kontribusi saya adalah mengajukan pertanyaan discovery, mendengarkan jawaban A, merangkum masalah yang saya pahami, dan memastikan rangkuman sesuai dengan kondisi yang A maksud.
+Evidence berupa catatan hasil wawancara dan ringkasan jawaban A selama percakapan. Catatan ini merangkum informasi yang disampaikan, bukan transkrip verbatim. Status persetujuan untuk dokumentasi dan penggunaan data pembelajaran belum tercatat, sehingga catatan ini belum dapat dijadikan bukti bahwa narasumber menyetujui penggunaannya. Sebelum artefak digunakan atau dibagikan, saya akan meminta izin secara eksplisit dan mencatat jawaban aktual A tanpa merekayasanya.
+
+**Konfirmasi yang akan diminta kepada narasumber:** “Apakah Anda menyetujui catatan/ringkasan wawancara ini didokumentasikan dan digunakan untuk tujuan pembelajaran? Saya tidak akan mencantumkan nama asli Anda.”
+
+**Status persetujuan setelah konfirmasi:** Belum diminta atau belum tercatat. Kolom ini hanya akan diperbarui menjadi **“Status persetujuan: Disetujui”** jika A benar-benar memberikan persetujuan untuk dokumentasi dan penggunaan data pembelajaran; jika tidak, status serta tindak lanjut akan dicatat sesuai jawaban aktual.
 
 ## Analisis komunikasi
 
@@ -61,7 +65,7 @@ Evidence berupa catatan hasil wawancara dan ringkasan jawaban A selama percakapa
 | Repertoire & language | Saya menggunakan pertanyaan mengenai kebiasaan belajar dan pertanyaan klarifikasi. Bahasa yang digunakan langsung dan sederhana agar A dapat menjelaskan kebiasaannya secara terbuka. |
 | Response & adaptation | Informasi dari A membuat saya mengubah asumsi awal. Saya memahami bahwa masalahnya bukan hanya pemahaman materi, tetapi juga kebiasaan menunda belajar dan terbatasnya latihan soal. |
 | Agreement & action | Setelah problem statement dikonfirmasi, A akan mencoba mulai mengulang materi dan memperbanyak latihan soal. Kami akan membicarakan kembali perkembangannya setelah ia mencoba. |
-| Relationship outcome | Percakapan memberi A kesempatan menjelaskan kebiasaan belajar dan kebutuhan yang menurutnya perlu diperbaiki. A menyetujui rangkuman masalah; dampak tindak lanjut belum diketahui. |
+| Relationship outcome | A menyetujui rangkuman masalah. Namun, status persetujuan untuk dokumentasi dan penggunaan data pembelajaran belum tercatat, dan dampak tindak lanjut belum diketahui. |
 
 ## Penggunaan AI
 
@@ -70,16 +74,16 @@ Saya menggunakan AI untuk meninjau apakah tulisan hasil discovery interview suda
 - **Alat dan peran AI:** AI membantu meninjau dan memperbaiki bahasa tulisan, bukan menganalisis jawaban narasumber atau menyusun fakta baru.
 - **Prompt atau instruksi penting:** AI diarahkan untuk memperbaiki bahasa Indonesia, termasuk ejaan, tata bahasa, dan kejelasan kalimat, tanpa mengubah isi atau menambahkan informasi.
 - **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan saran perbaikan bahasa setelah memeriksa kesesuaiannya dengan catatan wawancara. Isi faktual tetap berdasarkan jawaban A.
-- **Pemeriksaan accuracy, privacy, dan authority:** Saya memastikan perbaikan bahasa tidak mengubah makna jawaban, menggunakan samaran untuk menjaga privasi narasumber, dan tidak menganggap AI sebagai sumber fakta. Status persetujuan wawancara perlu dipastikan dan dicatat sesuai kondisi sebenarnya.
+- **Pemeriksaan accuracy, privacy, dan authority:** Saya memastikan perbaikan bahasa tidak mengubah makna jawaban, menggunakan samaran untuk menjaga privasi narasumber, dan tidak menganggap AI sebagai sumber fakta. Persetujuan untuk dokumentasi serta penggunaan data pembelajaran belum tercatat; penyamaran nama tidak menggantikan kebutuhan untuk meminta izin.
 - **Apa yang tetap saya pelajari sebagai manusia:** Saya tetap melakukan discovery, mendengarkan narasumber, mengajukan pertanyaan, dan memastikan problem statement sesuai dengan yang dirasakan narasumber.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** A menyetujui rangkuman saya bahwa masalah yang dihadapinya bukan hanya kurang memahami materi, tetapi juga kurang konsisten mengulang materi dan mengerjakan latihan soal.
+**Feedback yang diterima:** A menyetujui rangkuman saya bahwa masalah yang dihadapinya bukan hanya kurang memahami materi, tetapi juga kurang konsisten mengulang materi dan mengerjakan latihan soal. Persetujuan atas rangkuman masalah ini berbeda dari persetujuan untuk dokumentasi atau penggunaan data wawancara; status yang terakhir belum tercatat.
 
 **Adaptation/replay:** Pada percakapan berikutnya, saya akan mempertahankan kebiasaan untuk tidak langsung menggunakan asumsi awal sebagai dasar solusi. Saya akan terlebih dahulu menggali kebiasaan dan kondisi aktual narasumber sebelum menyimpulkan masalah.
 
-**Next practice:** Pada discovery conversation berikutnya, saya akan mengajukan minimal tiga pertanyaan yang berfokus pada kejadian, dampak, dan kebutuhan sebelum memberikan usulan solusi.
+**Next practice:** Sebelum menggunakan atau membagikan catatan discovery untuk pembelajaran, saya akan menjelaskan tujuan, bentuk dokumentasi, dan penggunaan data kepada narasumber, kemudian meminta persetujuan secara eksplisit. Saya akan mencatat status sesuai jawaban aktual. Hanya jika disetujui, artefak akan memuat kalimat “Status persetujuan: Disetujui — narasumber menyetujui dokumentasi ini untuk tujuan pembelajaran”; jika belum ada persetujuan, status tetap belum tercatat dan data tidak saya klaim telah mendapat izin. Dalam discovery conversation berikutnya, saya juga akan mengajukan minimal tiga pertanyaan tentang kejadian, dampak, dan kebutuhan sebelum memberi usulan solusi.
 
 **Tindak lanjut bersama A:** A akan mencoba mulai mengulang materi dan memperbanyak latihan soal. Setelah itu, kami akan membicarakan kembali perkembangannya untuk melihat apakah cara tersebut membantu atau perlu pendekatan lain.
 
@@ -91,11 +95,11 @@ Saya menggunakan AI untuk meninjau apakah tulisan hasil discovery interview suda
 | Objective & State | 3 | Saya memiliki asumsi awal yang berubah setelah memperoleh informasi baru dari A. |
 | Repertoire, Language & AI | 3 | Saya menggunakan pertanyaan discovery dan merangkum jawaban narasumber, serta memakai AI sebagai alat bantu penyusunan. |
 | Response & Adaptation | 3 | Saya menyesuaikan pemahaman setelah mengetahui bahwa masalah A bukan hanya kurang memahami materi. |
-| Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi A dan ada tindak lanjut untuk mencoba kebiasaan belajar yang lebih konsisten. |
+| Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi A dan ada tindak lanjut untuk mencoba kebiasaan belajar yang lebih konsisten. Persetujuan untuk dokumentasi dan penggunaan data pembelajaran belum tercatat. |
 
 **Total:** 15 / 20
 
-**Refleksi:** Wawancara ini membuat saya melihat bahwa asumsi awal saya—A tidak memahami materi—belum tentu menggambarkan masalah sebenarnya. Dengan bertanya dan mendengarkan, saya memahami bahwa A merasa cukup memahami materi di kelas, tetapi kurang konsisten mengulang dan berlatih sehingga kesulitan muncul menjelang ujian. Saya belajar untuk tidak terlalu cepat menawarkan solusi sebelum memahami kebiasaan, dampak, dan kendala narasumber. Berikutnya, saya ingin terus mengonfirmasi rumusan masalah dengan narasumber sebelum membahas tindak lanjut.
+**Refleksi:** Wawancara ini membuat saya melihat bahwa asumsi awal saya—A tidak memahami materi—belum tentu menggambarkan masalah sebenarnya. Dengan bertanya dan mendengarkan, saya memahami bahwa A merasa cukup memahami materi di kelas, tetapi kurang konsisten mengulang dan berlatih sehingga kesulitan muncul menjelang ujian. Saya belajar untuk tidak terlalu cepat menawarkan solusi sebelum memahami kebiasaan, dampak, dan kendala narasumber. Saya juga perlu membedakan persetujuan A terhadap rangkuman masalah dari persetujuan untuk mendokumentasikan dan menggunakan data wawancara. Karena status izin tersebut belum tercatat, saya akan meminta dan mencatat konfirmasi secara eksplisit sebelum menyatakan artefak ini disetujui untuk tujuan pembelajaran.
 
 ::: {.assessor-only}
 ### Assessment dosen

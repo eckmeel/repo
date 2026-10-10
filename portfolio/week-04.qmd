@@ -1,7 +1,7 @@
 ---
 title: "Week 04 — Five-Language Translation Portfolio"
 week: 4
-status: "Selesai"
+status: "Siap Dinilai"
 self_score: "15/20"
 assessor_score: "—"
 description: "Adaptasi satu meaning ke lima person atau character dengan mempertahankan makna inti."
@@ -50,13 +50,21 @@ Meaning utama tetap sama: weekly progress membantu leader mengetahui kondisi pek
 
 ## Evidence
 
-Evidence yang saya miliki berupa pengalaman menggunakan weekly progress ketika mengelola progress tim lomba pada semester 1. Saya menjadikan weekly progress bagian dari cara monitoring tim dan menjelaskan kepada anggota alasan penggunaan update tersebut.
+Saya memiliki pengalaman menggunakan weekly progress ketika mengelola progress tim lomba pada semester 1. Namun, artefak percakapan atau catatan feedback anggota belum dilampirkan, sehingga pengalaman tersebut belum memverifikasi apakah pesan dalam versi friend atau manager dipahami sesuai maksud.
 
-Kontribusi saya adalah menyampaikan alasan penggunaan update dan menggunakannya sebagai bagian dari monitoring. Weekly progress merupakan contoh praktik monitoring
+Kontribusi yang saya refleksikan adalah menyampaikan alasan penggunaan update dan menggunakannya sebagai bagian dari monitoring. Contoh lima versi pesan pada halaman ini adalah hasil latihan; contoh tersebut bukan bukti bahwa kelimanya sudah disampaikan atau diuji kepada target.
 
 ## Tes pemahaman dan feedback
 
-Saya pernah menjelaskan konsep weekly progress kepada tim yang saya kelola pada semester 1 untuk membantu mengatur progress sebuah lomba. Namun, saya belum mengumpulkan feedback formal mengenai apakah lima bentuk penyampaian dalam tugas ini dipahami secara berbeda oleh masing-masing target.
+Feedback pemahaman dari target belum dikumpulkan. Untuk menguji pesan tanpa mengandalkan penerimaan pasif, saya akan melakukan simulasi atau wawancara singkat dengan satu anggota tim lomba semester 1. Saya akan menyampaikan satu versi pesan—friend atau manager—lalu meminta target:
+
+1. Merangkum kembali pesan inti dengan kata-katanya sendiri.
+2. Menjelaskan tindakan atau manfaat yang dimaksud dari weekly progress.
+3. Menyebutkan alasan spesifik mengapa pesan disampaikan dengan gaya tersebut, misalnya bahasa akrab dan kerja bersama untuk friend, atau manfaat monitoring dan trade-off untuk manager.
+
+**Kriteria pemahaman:** Target dapat menyebutkan bahwa weekly progress membantu melihat pekerjaan yang selesai dan yang terhambat agar masalah diketahui lebih awal, serta mengaitkan gaya pesan dengan kebutuhan target. Jika rangkumannya berbeda dari maksud saya, saya akan mencatat bagian yang tidak dipahami, memperjelas pesan, lalu meminta target merangkum kembali.
+
+**Catatan hasil uji:** Belum dilakukan; nama/identitas target, tanggal, versi pesan yang diuji, rangkuman target, alasan gaya yang disebutkan, klarifikasi yang diberikan, dan hasil rangkuman ulang belum tersedia. Saya akan mengisi bagian ini setelah percakapan benar-benar dilakukan dan meminta izin sebelum menyimpan atau melampirkan catatan feedback.
 
 ## Analisis komunikasi
 
@@ -65,9 +73,9 @@ Saya pernah menjelaskan konsep weekly progress kepada tim yang saya kelola pada 
 | Person & character | Gagasan yang sama saya bawa sebagai leader, tetapi cara menyampaikannya berubah sesuai character dan kebutuhan target. Saya tidak menggunakan satu gaya komunikasi untuk semua orang. |
 | Objective & state | Tujuannya tetap membuat kondisi pekerjaan lebih terlihat melalui update rutin. State yang ingin dicapai pada setiap target dapat berbeda, misalnya pemahaman manfaat, keputusan, atau kejelasan tindakan. |
 | Repertoire & language | Saya mengubah pilihan kata, tingkat detail, dan fokus pesan. Friend membutuhkan bahasa akrab, technical peer membutuhkan informasi lebih presisi, manager membutuhkan dampak dan trade-off, customer membutuhkan manfaat, sedangkan public membutuhkan penjelasan sederhana. |
-| Response & adaptation | Saya menyesuaikan cara menjelaskan berdasarkan konteks penerima. Satu konsep yang sama tidak harus dijelaskan dengan kalimat yang sama. |
-| Agreement/action | Tindakan yang diharapkan tetap melakukan weekly progress secara rutin. Perbedaannya adalah alasan yang digunakan agar penerima memahami pentingnya tindakan tersebut. |
-| Relationship outcome | Adaptasi bahasa membantu saya menjaga komunikasi sesuai hubungan dan kebutuhan penerima tanpa mengubah pesan inti. Dampak pemahaman tiap versi belum diuji secara formal. |
+| Response & adaptation | Saya sudah menyusun versi pesan yang berbeda untuk target yang berbeda. Namun, belum ada feedback pemahaman dari target yang membuktikan apakah adaptasi tersebut bekerja sesuai maksud. |
+| Agreement/action | Pesan mengajak tim menggunakan weekly progress secara rutin. Saya perlu menguji pemahaman dengan meminta satu target merangkum inti pesan dan menyebut alasan spesifik pemilihan gayanya. |
+| Relationship outcome | Belum ada evidence langsung dari target tentang pemahaman atau penerimaan terhadap gaya komunikasi. Hasil simulasi/wawancara akan membantu saya mengecek kejelasan pesan tanpa menganggap diam atau persetujuan sebagai bukti paham. |
 
 ## Penggunaan AI
 
@@ -81,11 +89,11 @@ Saya menggunakan AI untuk meninjau apakah tulisan sudah menggunakan bahasa Indon
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Saya pernah menjelaskan penggunaan weekly progress kepada tim yang saya kelola pada semester 1 dalam konteks monitoring progress lomba. Saya belum memiliki feedback formal yang secara spesifik mengukur pemahaman penerima terhadap kelima versi bahasa.
+**Feedback yang diterima:** Saya pernah menjelaskan penggunaan weekly progress kepada tim yang saya kelola pada semester 1 dalam konteks monitoring progress lomba. Namun, feedback pemahaman yang dapat diverifikasi—rangkuman pesan inti dari target beserta alasan spesifik atas gaya yang digunakan—belum tersedia.
 
-**Adaptation/replay:** Jika menjelaskan kembali konsep yang sama, saya akan lebih memperhatikan kebutuhan penerima sebelum memilih bahasa. Saya tidak hanya akan mengubah tingkat formalitas, tetapi juga menyesuaikan aspek yang relevan, seperti manfaat, dampak, risiko, atau tindakan yang perlu dilakukan.
+**Adaptation/replay:** Saya akan melakukan simulasi atau wawancara singkat dengan satu anggota tim lomba semester 1. Saya akan memilih versi friend atau manager sesuai konteks, menyampaikan pesan weekly progress, lalu meminta orang tersebut merangkum inti pesannya dan menjelaskan alasan gaya bahasa tersebut. Saya akan membandingkan rangkumannya dengan maksud inti, bertanya bagian mana yang kurang jelas, dan mencoba ulang pesan bila diperlukan. Saya tidak akan mengisi hasil atau mengutip respons sebelum uji tersebut benar-benar dilakukan.
 
-**Next practice:** Pada komunikasi berikutnya, saya akan menyampaikan satu gagasan kepada minimal tiga target berbeda dengan mengubah pilihan kata dan fokus sesuai kebutuhan masing-masing. Saya akan meminta satu pertanyaan atau feedback untuk mengecek apakah meaning yang saya maksud benar-benar dipahami.
+**Next practice:** Setelah uji dilakukan, saya akan mencatat tanggal, konteks, versi pesan, rangkuman target dengan kata-katanya sendiri, alasan gaya yang ia pahami, bagian yang perlu diperjelas, dan hasil rangkuman ulang. Dengan izin target, saya akan menyimpan catatan atau tautan artefak dengan identitas yang diperlukan saja. Indikator keberhasilan adalah target dapat merangkum pesan inti tentang manfaat weekly progress dan menyebutkan alasan spesifik gaya friend atau manager yang digunakan; jika belum, saya akan revisi pesan dan menguji ulang.
 
 ## Self-assessment
 
@@ -94,8 +102,8 @@ Saya menggunakan AI untuk meninjau apakah tulisan sudah menggunakan bahasa Indon
 | Person & Character | 3 | Saya membedakan kebutuhan komunikasi dari lima target berdasarkan hubungan dan konteks. |
 | Objective & State | 3 | Meaning inti dan tujuan komunikasi tetap konsisten meskipun state yang ingin dicapai pada tiap target berbeda. |
 | Repertoire, Language & AI | 3 | Saya mengubah tingkat formalitas, istilah, detail, dan fokus pesan serta menggunakan AI sebagai alat bantu language adaptation. |
-| Response & Adaptation | 3 | Saya menyesuaikan cara menyampaikan satu gagasan berdasarkan target penerima. |
-| Agreement, Action & Relationship | 3 | Tindakan yang diharapkan tetap sama, tetapi alasan dan cara penyampaiannya disesuaikan dengan target komunikasi. |
+| Response & Adaptation | 3 | Saya telah menyusun variasi pesan untuk target berbeda, tetapi belum memverifikasi pemahaman melalui rangkuman balik dari target. |
+| Agreement, Action & Relationship | 3 | Tindakan dan alasan dalam pesan sudah disesuaikan dengan target. Bukti feedback pemahaman langsung beserta alasan gaya yang dipahami belum tersedia. |
 
 **Total:** 15 / 20
 
@@ -103,7 +111,7 @@ Saya menggunakan AI untuk meninjau apakah tulisan sudah menggunakan bahasa Indon
 
 Saya menyadari bahwa menyampaikan satu gagasan kepada orang yang berbeda tidak berarti saya harus mengubah makna yang ingin disampaikan. Yang perlu saya ubah adalah cara membawa makna tersebut agar sesuai dengan kebutuhan dan konteks penerima.
 
-Pengalaman mengelola tim membuat saya terbiasa menggunakan weekly progress sebagai alat monitoring. Melalui latihan ini saya memahami bahwa bahkan konsep sederhana perlu diterjemahkan secara berbeda ketika disampaikan kepada teman, rekan teknis, manager, customer, maupun publik. Ke depan, saya ingin lebih memperhatikan siapa yang menerima pesan sebelum menentukan pilihan kata dan fokus komunikasi.
+Pengalaman mengelola tim membuat saya terbiasa menggunakan weekly progress sebagai alat monitoring. Melalui latihan ini saya memahami bahwa bahkan konsep sederhana perlu diterjemahkan secara berbeda ketika disampaikan kepada teman, rekan teknis, manager, customer, maupun publik. Namun, variasi pesan saja belum menunjukkan bahwa target benar-benar memahami maksud dan alasan di balik gaya yang saya pilih. Langkah berikutnya adalah menguji satu versi dengan satu anggota tim, meminta rangkuman balik dan alasan pemilihan gaya, lalu mencatat hasil aktualnya tanpa merekayasa feedback.
 
 ::: {.assessor-only}
 ### Assessment dosen

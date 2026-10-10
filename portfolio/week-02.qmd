@@ -1,7 +1,7 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Selesai"
+status: "Siap Dinilai"
 self_score: "15/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
@@ -16,7 +16,7 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 - Satu episode komunikasi dengan diri sendiri.
 - Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+- Internal agreement dan artefak tindak lanjut yang menunjukkan pelaksanaannya.
 
 ## Konteks performance
 
@@ -44,17 +44,17 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 **Internal character dan pilihan:** Saya ingin bertindak sebagai reflective leader dan koordinator tim. Pilihan saya adalah menahan penilaian awal, memisahkan fakta dari asumsi, mencari informasi lebih lengkap, lalu memperbaiki monitoring tanpa menghilangkan autonomy tim.
 
-**Internal agreement:** Pada weekly progress berikutnya, saya akan meminta rincian pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan—termasuk kendala alat kerja—dan bantuan yang dibutuhkan. Saya akan memeriksa hasilnya dengan membandingkan update tersebut dengan perubahan kondisi pekerjaan pada laporan berikutnya.
+**Internal agreement:** Pada weekly progress berikutnya, saya akan meminta rincian pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan—termasuk kendala alat kerja—dan bantuan yang dibutuhkan. Saya akan memeriksa hasilnya dengan membandingkan update tersebut dengan kondisi pekerjaan aktual atau laporan berikutnya. Artefak yang saat ini tersedia menunjukkan update daftar pekerjaan, tetapi belum membuktikan bahwa pertanyaan tentang hambatan sudah diajukan atau bahwa perbandingan tersebut telah dilakukan.
 
 ## Evidence
 
-Evidence yang digunakan adalah foto laporan tim berikut. Foto ini menunjukkan laporan progress Tim Desain, termasuk pekerjaan yang telah diselesaikan dan beberapa pekerjaan yang masih menunggu atau perlu ditindaklanjuti.
+Artefak yang tersedia adalah screenshot laporan progress Tim Desain di grup acara:
 
 ![Foto laporan progress Tim Desain di grup acara](../Laporan-Tim.jpeg)
 
-Foto ini menunjukkan update progress yang semakin membaik setelah kami berdiskusi. Sejumlah pekerjaan Tim Desain sudah ditandai selesai, sementara beberapa pekerjaan lainnya masih menunggu tindak lanjut.
+Screenshot ini menampilkan daftar pekerjaan, sejumlah item dengan tanda centang, dan catatan bahwa beberapa item menunggu logo sponsor. Ini mendukung bahwa ada update status pekerjaan, tetapi screenshot tidak menampilkan tanggal, kondisi pekerjaan sebelum update, pertanyaan tentang hambatan alat kerja, jawaban atas pertanyaan tersebut, maupun perbandingan laporan dengan hasil aktual. Karena itu, artefak ini saja belum membuktikan bahwa internal agreement sudah dijalankan atau bahwa adaptasi saya telah terjadi.
 
-Kontribusi yang saya refleksikan adalah komunikasi dan pengambilan keputusan saya sebagai penanggung jawab tim. Hasil kerja Design tidak saya klaim sebagai kontribusi pribadi.
+Kontribusi yang saya refleksikan adalah komunikasi dan pengambilan keputusan saya sebagai penanggung jawab tim. Hasil kerja Design tidak saya klaim sebagai kontribusi pribadi. Untuk memverifikasi pelaksanaan agreement, saya perlu melampirkan artefak weekly progress berikutnya yang memperlihatkan pertanyaan tentang kendala alat kerja dan respons tim, atau catatan revisi yang membandingkan update dengan kondisi pekerjaan aktual. Bukti tindak lanjut juga perlu menunjukkan bagaimana saya menanggapi kendala dengan jelas dan menghargai tim; saya belum menyimpulkan dampaknya terhadap relationship tanpa bukti tersebut.
 
 ## Analisis komunikasi
 
@@ -63,9 +63,9 @@ Kontribusi yang saya refleksikan adalah komunikasi dan pengambilan keputusan say
 | Person & character | Saya cenderung memberi trust dan autonomy kepada anggota. Dalam episode ini, saya ingin bertindak sebagai reflective leader yang mengevaluasi situasi sebelum bereaksi. |
 | Objective & state | State awal saya adalah percaya bahwa weekly progress cukup menggambarkan kondisi tim. Saya ingin mencapai pemahaman yang lebih objektif sebelum menentukan tindakan. |
 | Repertoire & language | Saya menggunakan reflection, fact-checking, dan reframing. Pertanyaan internal saya: “Apa fakta yang benar-benar saya ketahui?” dan “Apa penjelasan lain selain asumsi awal saya?” |
-| Response & adaptation | Reaction awal saya adalah kecewa dan menganggap tim terlalu santai. Saya mengubah response dengan memisahkan fakta dari story dan mempertimbangkan penjelasan tim tentang workload padat, gangguan Adobe, serta kemungkinan sistem monitoring saya belum menangkap hambatan tersebut lebih awal. |
-| Agreement/action | Saya bersepakat untuk melakukan monitoring lebih terstruktur sambil mempertahankan autonomy. Pada update berikutnya, saya akan menanyakan status pekerjaan, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan. |
-| Relationship outcome | Hasil tindak lanjut belum diketahui. Saya berharap response yang lebih reflektif dapat menghindari keputusan berdasarkan asumsi dan menjaga kepercayaan sambil memperbaiki monitoring. |
+| Response & adaptation | Dalam refleksi ini, saya memisahkan reaction awal dari fakta dan mempertimbangkan penjelasan tim tentang workload dan gangguan Adobe. Screenshot laporan menunjukkan adanya daftar update pekerjaan, tetapi tidak membuktikan bahwa saya sudah menanyakan hambatan atau membandingkan laporan dengan kondisi aktual. |
+| Agreement/action | Agreement saya adalah menanyakan status, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan, kemudian membandingkan update dengan kondisi aktual. Belum ada artefak yang dapat memverifikasi pelaksanaan langkah-langkah tersebut. |
+| Relationship outcome | Dampak terhadap relationship belum dapat disimpulkan dari screenshot laporan. Saya perlu bukti percakapan tindak lanjut yang menunjukkan cara saya merespons hambatan secara jelas dan tetap menghargai anggota tim. |
 
 ## Penggunaan AI
 
@@ -81,23 +81,23 @@ Saya menggunakan AI untuk meninjau apakah tulisan refleksi sudah menggunakan bah
 
 **Feedback yang diterima:** Belum dikumpulkan.
 
-**Adaptation/replay:** Jika mengulang situasi ini, saya tidak akan langsung menyimpulkan bahwa tim Design terlalu santai. Saya akan memeriksa kondisi pekerjaan terlebih dahulu, menanyakan workload dan kendala alat kerja seperti gangguan Adobe, serta mengevaluasi apakah sistem monitoring yang saya gunakan sudah cukup.
+**Adaptation/replay:** Jika mengulang situasi ini, saya tidak akan langsung menyimpulkan bahwa tim Design terlalu santai. Saya akan memeriksa kondisi pekerjaan terlebih dahulu, menanyakan workload dan kendala alat kerja seperti gangguan Adobe, serta mengevaluasi apakah sistem monitoring yang saya gunakan sudah cukup. Pada tindak lanjut, saya akan menyimpan artefak yang mencatat pertanyaan dan respons tim, lalu membandingkan update dengan kondisi pekerjaan aktual tanpa menyamakan laporan status dengan bukti bahwa semua pekerjaan telah selesai.
 
-**Next practice:** Pada weekly progress berikutnya, saya akan memastikan empat hal dibahas: pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan. Setelah itu, saya akan membandingkan laporan dengan kondisi pekerjaan aktual.
+**Next practice:** Pada weekly progress berikutnya, saya akan memastikan empat hal dibahas: pekerjaan yang sudah selesai, pekerjaan yang belum selesai, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan. Saya akan menyimpan screenshot percakapan yang menunjukkan pertanyaan dan respons (dengan informasi pribadi disamarkan), serta catatan perbandingan antara update dan kondisi pekerjaan aktual yang mencantumkan tanggal, status, dan tindak lanjut. Saya juga akan mencatat bagaimana kebutuhan atau hambatan ditanggapi, agar klaim tentang adaptation dan relationship didukung artefak, bukan hanya refleksi setelah kejadian.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
 | Person & Character | 3 | Saya mengenali diri sebagai reflective leader dan membedakan keinginan untuk menjaga trust dari asumsi awal bahwa tim terlalu santai. Saya masih perlu membuktikan konsistensi character ini dalam tindakan nyata. |
-| Objective & State | 3 | Tujuan memahami kondisi pekerjaan sebelum bertindak dan state awal yang percaya pada weekly progress sudah dijelaskan. Bukti pendukung episode belum dilampirkan. |
-| Repertoire, Language & AI | 3 | Saya menggunakan pemisahan fakta dan story, tiga alternative narratives, serta AI untuk membantu menyusun refleksi. Klarifikasi tentang workload dan gangguan Adobe memberi konteks tambahan, tetapi catatan percakapan pendukung belum dilampirkan. |
-| Response & Adaptation | 3 | Saya menyadari reaction awal, menahannya, dan mempertimbangkan workload serta kendala Adobe sebelum menyimpulkan. Perubahan response dalam komunikasi dengan tim belum didukung catatan tindak lanjut. |
-| Agreement, Action & Relationship | 3 | Saya telah merumuskan agreement untuk meminta status, hambatan termasuk kendala alat kerja, dan kebutuhan bantuan pada weekly progress berikutnya. Tindakan tersebut dan dampaknya terhadap relationship belum terverifikasi. |
+| Objective & State | 3 | Tujuan memahami kondisi pekerjaan sebelum bertindak dan state awal yang percaya pada weekly progress sudah dijelaskan. Screenshot laporan mendukung adanya update pekerjaan, tetapi tidak memperlihatkan kondisi awal untuk perbandingan. |
+| Repertoire, Language & AI | 3 | Saya menggunakan pemisahan fakta dan story, tiga alternative narratives, serta AI untuk membantu menyusun refleksi. Screenshot laporan memberi bukti update status, tetapi bukan bukti percakapan klarifikasi tentang kendala. |
+| Response & Adaptation | 3 | Saya menyadari reaction awal dan mempertimbangkan workload serta kendala Adobe sebelum menyimpulkan. Pelaksanaan perubahan response dalam percakapan tindak lanjut belum terverifikasi oleh artefak yang tersedia. |
+| Agreement, Action & Relationship | 3 | Agreement untuk menanyakan status, hambatan, dan kebutuhan bantuan sudah dirumuskan. Screenshot laporan belum membuktikan pertanyaan tersebut, perbandingan dengan kondisi aktual, atau dampaknya terhadap relationship. |
 
 **Total:** 15 / 20
 
-**Refleksi:** Penilaian ini menunjukkan bahwa saya sudah mampu mengenali reaction awal dan mempertimbangkan penjelasan lain, tetapi belum cukup membuktikan adaptation melalui tindakan dan hasil. Ketika menemukan progress yang tidak sesuai dengan laporan, saya cenderung langsung menghubungkannya dengan sikap tim dan cara saya memimpin. Memisahkan fakta dari story membantu saya melihat bahwa workload padat dan gangguan Adobe sekitar seminggu juga ikut memengaruhi pekerjaan, sementara sistem monitoring saya mungkin belum menangkap kendala itu lebih awal. Prioritas saya berikutnya adalah menjalankan agreement pada weekly progress berikutnya, mencatat hambatan dan kebutuhan bantuan, lalu membandingkan laporan dengan kondisi pekerjaan aktual. Saya juga perlu melampirkan evidence yang tersedia sebelum menilai dampak tindakan terhadap tim.
+**Refleksi:** Penilaian ini menunjukkan bahwa saya sudah mampu mengenali reaction awal dan mempertimbangkan penjelasan lain, tetapi belum cukup membuktikan adaptation melalui tindakan dan hasil. Screenshot laporan yang tersedia menjadi bukti adanya update daftar pekerjaan dan beberapa status, bukan bukti bahwa saya sudah bertanya tentang kendala alat kerja atau membandingkan update dengan kondisi aktual. Ketika menemukan progress yang tidak sesuai dengan laporan, saya cenderung langsung menghubungkannya dengan sikap tim dan cara saya memimpin. Memisahkan fakta dari story membantu saya mempertimbangkan workload dan gangguan Adobe sebagai konteks, sementara sistem monitoring saya mungkin belum menangkap kendala itu lebih awal. Prioritas saya berikutnya adalah menjalankan agreement pada weekly progress berikutnya, menyimpan bukti pertanyaan dan respons, lalu membandingkan laporan dengan kondisi pekerjaan aktual. Saya belum dapat menyimpulkan dampak tindakan terhadap relationship sampai bukti tindak lanjut tersedia.
 
 ::: {.assessor-only}
 ### Assessment dosen

@@ -1,7 +1,7 @@
 ---
 title: "Week 03 — Relationship Conversation"
 week: 3
-status: "Selesai"
+status: "Siap Dinilai"
 self_score: "15/20"
 assessor_score: "—"
 description: "Refleksi personal conversation dengan fokus pada listening, clarity, dan relationship awareness."
@@ -20,7 +20,7 @@ Melakukan personal conversation dengan listening, clarity, dan awareness terhada
 
 - Catatan percakapan dengan mitra.
 - Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah percakapan.
+- Analisis relationship state sebelum dan sesudah percakapan, didukung observasi atau feedback yang tersedia.
 
 ## Konteks performance
 
@@ -51,23 +51,23 @@ Setelah itu saya menanyakan apakah ia ingin didengarkan, dibantu memikirkan pili
 | Repertoire & language | Saya menggunakan parafrasa untuk memeriksa makna cerita, menyampaikan dugaan tentang rasa lelah dan kebutuhan akan lingkungan pertemanan secara tentatif, serta menanyakan bentuk bantuan yang ia inginkan. |
 | Response & adaptation | Saya memberi Emir kesempatan menyelesaikan cerita dan tidak langsung menilai keinginannya pindah. Setelah mengetahui ia menginginkan saran dan bantuan memikirkan pilihan, saya dapat menyesuaikan bentuk respons dengan permintaannya. |
 | Agreement/action | Emir memilih mendapatkan saran dan bantuan memikirkan pilihan. Kesepakatan atau keputusan akhir terkait rencana kuliahnya tidak disebutkan dalam catatan yang tersedia. |
-| Relationship outcome | Dalam pesan lanjutan, Emir berterima kasih karena saya mendengarkan sampai selesai tanpa menghakimi sebelum memberi solusi. Ini menjadi feedback atas percakapan, sementara perubahan relationship state dalam jangka panjang belum diukur. |
+| Relationship outcome | Dalam pesan 28 September, Emir berterima kasih karena saya mendengarkan ceritanya sampai selesai tanpa menghakimi sebelum memberi solusi. Ini merupakan feedback positif dan bukti interaksi lanjutan di luar sesi tatap muka. Namun, catatan yang tersedia belum cukup untuk menyimpulkan perubahan kedekatan atau penurunan ketegangan dalam jangka panjang. |
 
 ## Evidence
 
-Foto percakapan lanjutan dengan Emir pada 28 September 2026 menjadi evidence feedback dan kondisi hubungan setelah cerita. Emir berterima kasih karena saya mendengarkan ceritanya sampai selesai tanpa menghakimi sebelum memberi solusi. Ia kemudian menyampaikan bahwa ia kemungkinan tetap kuliah di Unpad dan menyadari bahwa ia belum menemukan teman yang sevisi. Respons saya adalah memberi dukungan. Foto ini mendukung feedback tentang pengalaman didengarkan dan menunjukkan percakapan setelahnya, tetapi tidak membuktikan perubahan relationship state secara menyeluruh.
+Screenshot percakapan lanjutan dengan Emir pada 28 September 2026 menjadi evidence feedback setelah sesi tatap muka. Emir menulis bahwa ia berterima kasih karena saya mendengarkan ceritanya sampai selesai tanpa menghakimi sebelum memberi solusi. Dalam percakapan yang sama, ia menyampaikan kemungkinan tetap kuliah di Unpad dan menyadari belum menemukan teman yang sevisi; saya membalas dengan dukungan. Pesan ini mendukung adanya feedback positif dan interaksi lanjutan di luar sesi utama. Bukti tersebut menunjukkan respons Emir pada percakapan itu, tetapi tidak cukup untuk memastikan perubahan relationship state jangka panjang.
 
 ![Percakapan lanjutan dengan Emir setelah ia bercerita](../Hubungan-Pasca-Cerita.jpeg)
 
-Catatan latihan dan refleksi tertulis juga menjadi dasar analisis episode. Transcript lengkap atau catatan observer tidak dilampirkan. Kutipan parafrasa di atas digunakan untuk menggambarkan kalimat yang disampaikan; bila bukan kata-kata persis, kutipan tersebut perlu dipahami sebagai parafrasa.
+Catatan latihan dan refleksi tertulis juga menjadi dasar analisis episode. Transcript lengkap atau catatan observer tidak dilampirkan. Kutipan parafrasa di atas digunakan untuk menggambarkan kalimat yang disampaikan; bila bukan kata-kata persis, kutipan tersebut perlu dipahami sebagai parafrasa. Catatan yang tersedia tidak menunjukkan adanya ketidaksepakatan yang perlu diperbaiki (*repair*), sehingga saya tidak mengklaim telah melakukan repair.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Emir merasa paling didengarkan ketika saya tidak langsung menilai keinginannya untuk pindah dan membiarkannya menyelesaikan cerita. Ia juga memberi catatan bahwa saya dapat terlalu cepat mencari penyelesaian ketika masalah terasa membutuhkan solusi segera.
+**Feedback yang terdokumentasi:** Pada pesan 28 September yang dilampirkan, Emir berterima kasih karena saya mendengarkan ceritanya sampai selesai tanpa menghakimi sebelum memberi solusi. Pesan yang tersedia mendukung feedback tersebut. Catatan yang tersedia tidak menunjukkan feedback bahwa saya terlalu cepat mencari penyelesaian; karena itu, poin tersebut tidak saya sajikan sebagai pernyataan Emir.
 
-**Adaptation/replay:** Jika mengulang percakapan, saya akan terus memberi ruang bagi Emir untuk menyelesaikan ceritanya dan mengecek kebutuhannya sebelum memberikan saran. Saya juga akan memastikan pertanyaan membantu memahami, bukan mengarahkan pada pilihan yang menurut saya paling masuk akal.
+**Adaptation/replay:** Jika percakapan serupa terjadi lagi, saya akan memberi ruang bagi Emir untuk menyelesaikan ceritanya, mengecek bentuk dukungan yang ia inginkan, dan menanggapi tanpa mengarahkan pilihannya. Jika muncul ketidaksepakatan atau ketegangan, saya akan mengklarifikasi bagian yang berbeda, mendengarkan dampaknya bagi teman, dan memeriksa apakah respons atau kesepakatan lanjutan sudah membantu; saya belum memiliki bukti bahwa situasi seperti itu terjadi dalam episode ini.
 
-**Next practice:** Dalam 14 hari ke depan, minimal tiga kali saya akan membiarkan keluarga atau sahabat menyelesaikan cerita sebelum merespons. Setelah itu saya akan menanyakan apakah mereka ingin didengarkan, dibantu memikirkan pilihan, atau membutuhkan saran.
+**Next practice:** Pada interaksi lanjutan dengan Emir, saya akan menanyakan secara terbuka bagaimana perasaannya setelah percakapan sebelumnya dan apakah ada hal yang masih terasa mengganjal. Saya akan mencatat tanggal, konteks, responsnya, serta tindakan tindak lanjut secara ringkas tanpa mengubah kata-katanya; bila ia bersedia, saya akan meminta izin sebelum menyimpan atau melampirkan pesannya. Saya juga akan mengamati interaksi berikutnya di luar sesi utama—misalnya apakah percakapan tetap terbuka dan saling nyaman—tanpa menyimpulkan kedekatan meningkat hanya dari satu pesan. Jika feedback atau artefak baru belum ada, saya akan menandainya belum tersedia, bukan mengisi seolah-olah sudah terjadi.
 
 ## Penggunaan AI
 
@@ -81,11 +81,11 @@ AI digunakan untuk membantu menyusun dan merapikan refleksi ini berdasarkan cata
 | Objective & State | 3 | Tujuan percakapan dan kebingungan Emir mengenai pilihan kuliah dijelaskan. |
 | Repertoire, Language & AI | 3 | Saya menggunakan parafrasa, dugaan tentatif, pertanyaan kebutuhan, dan AI sebagai alat bantu penulisan yang diperiksa kembali. |
 | Response & Adaptation | 3 | Saya menahan penilaian awal dan bertanya bentuk bantuan yang diinginkan sebelum memberi saran. |
-| Agreement, Action & Relationship | 3 | Pilihan bantuan Emir dan latihan berikutnya yang terukur dicatat; keputusan akhir serta perubahan relationship state belum diketahui. |
+| Agreement, Action & Relationship | 3 | Screenshot 28 September menunjukkan feedback positif dan interaksi setelah sesi utama. Bukti ini belum mengukur perubahan relationship state jangka panjang; belum ada catatan repair atau observasi interaksi berikutnya. |
 
 **Total:** 15 / 20
 
-**Refleksi:** Saya cenderung cepat masuk ke mode *problem-solving* ketika seseorang bercerita. Latihan ini membantu saya melihat bahwa mendengarkan tidak selalu berarti langsung menawarkan penyelesaian. Saya dapat memahami alasan Emir tanpa harus mengambil keputusan untuknya. Ke depan, saya ingin memastikan bentuk bantuan sesuai dengan kebutuhannya dan tetap menghargai otonominya.
+**Refleksi:** Saya cenderung cepat masuk ke mode *problem-solving* ketika seseorang bercerita. Pesan lanjutan pada 28 September memberi bukti konkret bahwa Emir merasa didengarkan dan tidak dihakimi dalam percakapan tersebut. Namun, satu feedback ini belum membuktikan perubahan kedekatan jangka panjang, dan catatan yang ada tidak menunjukkan ketidaksepakatan yang memerlukan repair. Pada interaksi berikutnya, saya akan menanyakan perasaannya setelah percakapan, mencatat respons dengan izin, dan mengamati apakah komunikasi tetap terbuka di luar sesi utama. Saya akan membatasi kesimpulan pada hal-hal yang didukung catatan dan evidence.
 
 ::: {.assessor-only}
 ### Assessment dosen
