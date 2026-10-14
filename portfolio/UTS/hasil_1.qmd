@@ -1,162 +1,230 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
 execute:
   eval: false
 ---
-
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Akmal Nararya Hasan |
+| NIM | 18225035 |
+| Kelas dan tanggal | K1, 11 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin Diri dan Terus Belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Fajar (K1-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap (U001 - AI007) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
-
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+- **Brief Kasus:** Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar.
+- **Konteks:** Mengembangkan kemampuan manajemen prioritas dan konsistensi belajar mandiri di tengah padatnya aktivitas akademik dan ancaman penundaan (*procrastination*).
+- **Hasil yang Diharapkan:** Mampu menyusun prioritas, membagi target belajar menjadi sesi-sesi kecil realistis (60 menit per hari, 5 hari/minggu selama 8 minggu), mengendalikan dialog internal saat lelah/tertekan, serta mengambil tindakan nyata tanpa menunda.
+- **Indikator Keberhasilan:** Terlaksananya sesi belajar mandiri sesuai target, terdokumentasikannya catatan hasil belajar, serta dilakukannya evaluasi mingguan secara konsisten.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: kemauan berkembang, rasa ingin tahu. Kelemahan: prioritas & konsistensi. Peluang: sumber belajar digital/kampus. Ancaman: kegiatan padat, distraksi. | U002 | Laporan diri / Tinggi |
+| Attitude | Memiliki kemauan belajar tinggi, namun perlu meningkatkan kedisiplinan dan ketekunan saat menghadapi kesulitan. | U002 | Laporan diri / Tinggi |
+| Knowledge | Memahami konsep penetapan tujuan dan jadwal, perlu memperdalam strategi manajemen waktu dan adaptasi tingkat kesulitan. | U002 | Laporan diri / Sedang |
+| Skill | Mampu mencari sumber belajar dan rencana sederhana, perlu mengasah pemecahan materi menjadi target kecil dan evaluasi rutin. | U002 | Laporan diri / Sedang |
+| Preferensi/MBTI | Tidak dilaporkan | U002 | - |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa pembelajar mandiri yang sedang melatih kepemimpinan diri (*self-leadership*). | U002 | Laporan diri / Tinggi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Memimpin diri saat lelah/tertekan di Minggu ke-3 & 5. | A: Menerima lelah tanpa menyalahkan diri. K: Strategi micro-session. S: Eksekusi 20 menit awal. | Dialog internal positif, penyesuaian durasi menjadi 20 menit awal. | Memulai belajar tanpa menunda berulang kali. |
+| Attention | Terdistraksi rasa lelah dan tugas menumpuk. | A: Validasi kondisi fisik/mental. | Reframing pesan internal: "Wajar lelah, tidak harus sempurna." | Fokus kembali ke target belajar. |
+| Interest | Ingin menjaga komitmen 8 minggu. | K: Pembagian target kecil (20 menit belajar + 5 menit istirahat). | Mengubah target makro menjadi langkah mikro yang ringan. | Penurunan beban emosional untuk mulai. |
+| Desire | Menjaga konsistensi tanpa *burnout*. | A & S: Komitmen realistis dan pembersihan distraksi (menjauhkan HP). | Menyingkirkan distraksi fisik dan membuat catatan latihan. | Tercapainya total waktu belajar 60 menit. |
+| Action | Eksekusi tindakan langsung saat rasa malas muncul. | S: Melakukan evaluasi hambatan di akhir sesi. | Eksekusi langsung 20 menit pertama + pencatatan materi. | Catatan ringkas materi dan log evaluasi mingguan. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**U001 [Tahap A: Identifikasi]:**
+K1 tanggal 11 10 2026 modalitas: teks fiktif
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**AI001 [Tahap A: Identifikasi]:**
+Terima kasih. Data identifikasi Sesi 1 telah dicatat:
+- Nama: Akmal Nararya Hasan
+- NIM: 18225035
+- Kelas: K1
+- Tanggal Pelaksanaan: 11 Oktober 2026
+- Modalitas: Teks
+- Sifat Kasus: Fiktif
 
-### U001 - Mahasiswa - [Tahap]
+[Tahap B: Kasus dan Tujuan]
+Brief Kasus 1: "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
+Pada Kasus 1 ini, target utama analisis dan intervensi adalah diri Anda sendiri. Tokoh pembanding (Fajar) akan dihadirkan nanti hanya sebagai cermin pembanding.
+Silakan tentukan satu kemampuan spesifik yang ingin Anda kembangkan, lalu jelaskan:
+1. Apa tujuan konkret Anda mengembangkan kemampuan tersebut?
+2. Bagaimana dugaan profil diri Anda saat ini secara ringkas (SWOT subjektif dan kondisi ASK)?
+3. Apa rencana awal atau strategi yang ingin Anda jalankan untuk memimpin diri Anda saat menghadapi hambatan dalam mempelajari kemampuan tersebut?
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**U002 [Tahap B: Kasus dan Tujuan]:**
+1. Kemampuan yang Ingin Dikembangkan dan Tujuannya
+Kemampuan yang ingin saya kembangkan adalah manajemen prioritas dan konsistensi dalam belajar mandiri. Saya ingin mampu menentukan hal yang paling penting untuk dikerjakan, menyusun kegiatan belajar secara terarah, dan menjalankannya secara konsisten meskipun terdapat banyak aktivitas lain.
+Secara konkret, dalam delapan minggu ke depan, saya menargetkan untuk menjalankan jadwal belajar mandiri minimal lima hari dalam seminggu selama 60 menit per hari. Saya juga akan melakukan evaluasi mingguan untuk mengetahui materi yang sudah dikuasai, kesulitan yang dihadapi, dan hal yang perlu diperbaiki. Dengan demikian, saya berharap dapat meningkatkan pemahaman akademik sekaligus membangun kebiasaan belajar yang lebih disiplin.
+2. Dugaan Profil Diri Saat Ini
+A. SWOT Subjektif
+Strengths: Memiliki keinginan untuk terus berkembang, rasa ingin tahu tinggi, mampu menetapkan tujuan & mencari sumber mandiri.
+Weaknesses: Ketertarikan banyak hal membuat sulit menentukan prioritas, konsistensi masih perlu ditingkatkan, perlu rutin evaluasi.
+Opportunities: Tersedianya sumber belajar digital/kampus, lingkungan diskusi, kesempatan melatih kedisiplinan.
+Threats: Padatnya kegiatan akademik/nonakademik, materi sulit mengurangi motivasi, banyaknya distraksi.
+B. Kondisi ASK
+Attitude: Kemauan belajar tinggi, perlu meningkatkan kedisiplinan dan ketekunan saat menghadapi kesulitan.
+Knowledge: Memahami pentingnya tujuan dan prioritas, perlu memperdalam strategi manajemen waktu dan adaptasi materi.
+Skill: Mampu mencari sumber dan rencana sederhana, perlu meningkatkan Keterampilan membagi materi kecil dan evaluasi.
+3. Rencana Awal dan Strategi Memimpin Diri Sendiri
+1) Menetapkan prioritas mingguan. 2) Membuat target belajar realistis (60 menit/hari, 5 hari/minggu). 3) Mengelola diri saat menghadapi hambatan (memecah masalah, sumber alternatif, penyesuaian jadwal). 4) Melakukan evaluasi rutin mingguan.
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**AI002 [Tahap C: Simulasi Awal - Memimpin Diri]:**
+Terima kasih atas pemaparan rencana awal, penetapan tujuan, SWOT, dan kondisi ASK diri Anda yang sangat terstruktur.
+[Langkah C.1: Menulis Pesan untuk Diri Sendiri]
+Bayangkan saat ini Anda berada di Minggu ke-3. Tugas-tugas perkuliahan sedang menumpuk, Anda merasa lelah, dan muncul dorongan kuat untuk menunda jadwal belajar mandiri 60 menit hari ini.
+Tuliskan sebuah pesan dialog internal/pesan tertulis yang Anda katakan kepada diri Anda sendiri untuk mengatasi situasi lelah dan godaan menunda ini. Jelaskan pula bagaimana Anda memeriksa keyakinan/pikiran tersebut dan bagaimana Anda memperbaiki pesan itu agar mendorong tindakan nyata tanpa menghakimi diri sendiri.
 
-[Tempel pesan AI persis seperti sumber.]
+**U003 [Tahap C: Simulasi Awal - Memimpin Diri]:**
+1. Pesan Dialog Internal: “Saya sedang lelah dan tugas kuliah sedang menumpuk. Wajar jika saya merasa berat untuk belajar, tetapi saya sudah memiliki target 8 minggu yang ingin saya capai. Saya tidak harus selalu sempurna, yang penting saya tetap berusaha konsisten.”
+2. Memeriksa Keyakinan: Saya akan bertanya kepada diri sendiri apakah saya benar-benar terlalu lelah untuk belajar atau hanya merasa terbebani karena harus fokus selama 60 menit. Saya juga akan mengevaluasi prioritas tugas agar dapat menentukan waktu belajar yang paling memungkinkan.
+3. Memperbaiki Pesan: “Saya tidak perlu menyalahkan diri sendiri karena merasa lelah. Saya akan mulai belajar selama 20 menit terlebih dahulu, lalu beristirahat sejenak sebelum melanjutkan. Dengan mengambil langkah kecil, saya tetap bisa menjaga komitmen tanpa mengabaikan kondisi diri sendiri.”
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI003 [Tahap C: Simulasi Pembanding - Tokoh Fajar (K1-06)]:**
+Respons dialog internal dan penyesuaian strategi Anda sangat baik.
+Segmen ini adalah pembanding tokoh, bukan bukti perubahan diri Anda. Karakter Fajar dihadirkan untuk melihat bagaimana Anda mengadaptasi gaya komunikasi ketika berhadapan dengan orang lain yang memiliki hambatan serupa.
+Fajar (K1-06): “Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu.”
+Bagaimana Anda merespons ucapan Fajar tersebut untuk menyapa, membangun rasa aman, sekaligus mengaitkan keluhannya dengan penawaran dukungan atau langkah praktis?
+
+**U004 [Tahap C: Simulasi Pembanding - Tokoh Fajar (K1-06)]:**
+Hai Fajar, saya paham kamu tidak punya banyak waktu. Kita tidak perlu langsung meluangkan waktu lama untuk memulainya. Bagaimana kalau kita coba latihan selama 15 menit terlebih dahulu? Dengan begitu, kamu bisa melihat manfaatnya secara langsung tanpa harus mengganggu aktivitas lainnya. Nanti kita evaluasi apakah cara ini efektif untuk kamu.
+
+**AI004 [Tahap C: Simulasi Pembanding - Tokoh Fajar (K1-06)]:**
+Fajar (K1-06): “Oke, 15 menit boleh. Tapi konkretnya kita mau ngapain di 15 menit itu? Ada panduan atau checklist cepatnya biar saya tahu persis hasilnya apa?”
+[Penutup Segmen Pembanding & Evaluasi Diri]
+Segmen pembanding bersama Fajar selesai. Mari kita kembali fokus pada memimpin diri sendiri dan mengevaluasi perbedaan pendekatan komunikasi yang baru saja Anda jalankan.
+Silakan jawab dua pertanyaan refleksi berikut:
+1. Perbedaan Pendekatan: Apa perbedaan utama yang Anda amati antara cara Anda memotivasi/memimpin diri sendiri dibandingkan dengan cara Anda berkomunikasi memfasilitasi Fajar?
+2. Penyesuaian Gaya Komunikasi: Berdasarkan respons Fajar di atas, apa hal spesifik yang perlu Anda ubah atau sesuaikan dari gaya komunikasi Anda jika menghadapi orang dengan hambatan belajar seperti Fajar?
+
+**U005 [Tahap C: Simulasi Pembanding - Evaluasi Diri]:**
+Selama 15 menit, kita akan coba satu sesi belajar singkat. Checklist-nya sederhana: 2 menit menentukan satu target kecil, 10 menit mencoba latihan atau memahami materi tersebut, lalu 3 menit memeriksa hasil dan mencatat hal yang masih sulit. Hasil akhirnya, kamu punya satu latihan yang sudah dicoba, tahu bagian yang sudah dipahami, dan tahu apa yang perlu diperbaiki. Jadi, waktunya jelas dan manfaatnya bisa langsung kamu lihat.
+1. Perbedaan Pendekatan: Saat memotivasi diri sendiri, saya lebih menekankan pentingnya menjaga konsistensi dan mengatasi hambatan secara bertahap. Sementara itu, saat berkomunikasi dengan Fajar, saya perlu memberikan arahan yang lebih praktis, singkat, dan berorientasi pada hasil yang bisa dilihat secara langsung.
+2. Penyesuaian Gaya Komunikasi: Saya perlu menjelaskan secara konkret apa yang akan dilakukan selama 15 menit, menyediakan checklist sederhana, dan menentukan indikator keberhasilannya.
+
+**AI005 [Tahap E: Uji Ulang Diri]:**
+Analisis perbedaan pendekatan dan penyesuaian gaya komunikasi yang Anda paparkan sudah sangat tepat.
+Sekarang kita masuk ke tahap Uji Ulang Diri:
+Situasi Hipotetis (Uji Ulang): Bayangkan pada minggu ke-5 perkuliahan nanti, hambatan serupa muncul kembali: Anda sangat lelah, tugas perkuliahan sedang menumpuk, dan Anda merasa sangat tergoda untuk melewatkan atau menunda jadwal belajar mandiri 60 menit Anda.
+Silakan berikan respons tertulis yang mencakup tiga poin utama berikut:
+1. Tindakan Konkret (Bukan Sekadar Niat): Tuliskan langkah/respons nyata yang akan langsung Anda eksekusi pada detik situasi itu terjadi.
+2. Alasan: Mengapa tindakan spesifik tersebut menjadi pilihan terbaik untuk memimpin diri Anda di saat lelah/tertekan?
+3. Indikator Evaluasi: Apa kriteria/ukuran konkret yang membuktikan bahwa tindakan memimpin diri tersebut berhasil dijalankan dengan baik?
+
+**U006 [Tahap E: Uji Ulang Diri]:**
+1. Tindakan Konkret: Saya akan memeriksa daftar tugas dan menentukan mana yang paling mendesak. Setelah itu, saya akan mulai belajar mandiri selama 20 menit, beristirahat selama 5 menit, lalu melanjutkan hingga mencapai total 60 menit. Saya akan menjauhkan ponsel agar tidak terdistraksi dan mencatat materi yang berhasil saya pelajari.
+2. Alasan: Saya memilih langkah ini karena membagi waktu belajar menjadi beberapa bagian membuat target terasa lebih ringan saat saya lelah. Dengan memulai dari langkah kecil, saya bisa mengurangi dorongan untuk menunda tanpa mengabaikan tanggung jawab akademik maupun kondisi diri sendiri.
+3. Indikator Evaluasi: Saya menganggap tindakan ini berhasil apabila saya: Memulai belajar sesuai rencana tanpa menundanya berulang kali; Menyelesaikan total 60 menit belajar mandiri; Menghasilkan catatan atau latihan yang menunjukkan materi yang telah dipelajari; Mengevaluasi hambatan yang muncul dan menentukan perbaikan untuk sesi berikutnya.
+
+**AI006 [Tahap F: Hasil, Evaluasi, dan Refleksi Akhir]:**
+Terima kasih atas paparan uji ulang yang sangat jelas.
+[Pengungkapan Profil Tokoh Pembanding (Fajar - K1-06)]
+- ID: K1-06 (Fajar) | MBTI Fiktif: ESTP
+- Hambatan Utama (ASK): A - Pragmatis, tidak sabar teori panjang; K - Konsep terbatas, risiko tergesa belum paham; S - Cepat mencoba, konsistensi dokumentasi lemah, butuh checklist & demonstrasi.
+- Stimulus Efektif: Hargai waktu, contoh/demonstrasi singkat, percobaan kecil dengan checklist.
+
+Silakan jawab pertanyaan refleksi akhir:
+1. Sejauh mana tujuan awal Anda tercapai dan bagaimana perkembangan SWOT/ASK diri Anda?
+2. Evaluasi Relasional: Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+3. Lesson learned dan langkah tindak lanjut konkret Anda?
+
+**U007 [Tahap F: Hasil, Evaluasi, dan Refleksi Akhir]:**
+1. Pencapaian Tujuan dan Perubahan SWOT/ASK Diri:
+Pencapaian tujuan: Tujuan tercapai pada tahap perencanaan dan pemahaman strategi. Menjadi lebih sadar pentingnya mengatur prioritas, langkah kecil, dan evaluasi. Keberhasilan 8 minggu perlu dibuktikan melalui praktik nyata.
+Perubahan SWOT/ASK:
+- SWOT: Keinginan belajar & rasa ingin tahu sebagai kekuatan utama. Perlu mengatasi hambatan prioritas dan konsistensi dengan memanfaatkan sumber belajar & lingkungan kampus.
+- Attitude: Belajar menerima rasa lelah tanpa menyalahkan diri, tetap bertanggung jawab pada target.
+- Knowledge: Memahami penyusunan prioritas, micro-sessions, dan evaluasi hambatan.
+- Skill: Menyusun langkah konkret mengatasi penundaan, penerapan konsisten perlu pembuktian berlanjut.
+2. Evaluasi Relasional:
+Pesan membantu memimpin diri: Mengingatkan bahwa lelah itu wajar & tidak harus sempurna (mendorong tindakan tanpa menghakimi).
+Merespons Fajar: Menawarkan latihan 15 menit membuka percakapan, tetapi Fajar meminta panduan konkret. Penyesuaian dengan pembagian waktu & checklist berhasil menjawab kebutuhan pragmatisnya.
+3. Lesson Learned dan Tindak Lanjut:
+Lesson learned: Memimpin diri adalah kemampuan mengenali hambatan, memeriksa pikiran, dan mengambil tindakan realistis. Komunikasi perlu disesuaikan dengan kebutuhan orang lain (butuh langkah praktis yang jelas).
+Tindak lanjut: Menjadwalkan minimal 4 sesi/minggu @60 menit selama 8 minggu (total target 32 sesi). Menentukan 3 prioritas akademik per minggu. Memulai 20 menit saat lelah. Evaluasi mingguan untuk ketercapaian target.
+
+**AI007 [Tahap G: Konfirmasi & Generasi Laporan]:**
+Seluruh rangkaian Sesi 1 selesai. Menampilkan Laporan hasil_1_18225035.qmd.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+- **Pencapaian Tujuan:** Tercapai pada tingkat formulasi strategi, kesadaran *self-leadership*, dan kesiapan alat bantu. Eksekusi 8 minggu merupakan komitmen jangka panjang di luar sesi.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | S: Rasa ingin tahu tinggi; W: Kesulitan prioritas & konsistensi. | S: Strategi *micro-session* teridentifikasi; W: Membutuhkan pengawasan mandiri. | U002 → U007 | Laporan diri / Simulasi internal |
+| Attitude | Menghakimi diri/tertekan saat lelah. | Menerima lelah secara wajar (*self-compassion*) & fokus pada tindakan kecil. | U003 → U007 | Laporan diri / Demonstrasi verbal |
+| Knowledge | Konseptual umum tentang manajemen waktu. | Memahami teknik *chunking* (20 menit awal), reframing dialog internal, & evaluasi mingguan. | U003, U006 → U007 | Konseptual terstruktur |
+| Skill | Rencana belajar masih berupa target besar. | Mampu memecah target belajar, menghilangkan distraksi HP, dan mengevaluasi hambatan. | U006 → U007 | Demonstrasi skrip uji ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U003 (Diri) | Tertekan lelah / Minggu ke-3 | Reframing internal & memulai 20 menit | Menerima rasa lelah, beban mental menurun | Attitude: Self-compassion meningkat | Menyesuaikan ekspektasi awal durasi |
+| U004 (Fajar) | Defensif / Pragmatis (A) | Penawaran latihan singkat 15 menit | Bersedia mencoba, menanyakan checklist konkret | K/S Fajar: Terbuka pada opsi mikro | Menggeser narasi teori ke alokasi waktu |
+| U005 (Fajar) | Meminta kejelasan (S) | Penyusunan checklist 2-10-3 menit | Kebutuhan S & A Fajar terpenuhi | S Fajar: Memiliki panduan jelas | Memberikan indikator hasil konkret |
+| U006 (Diri) | Hambatan terulang / Minggu ke-5 | Eksekusi 20-5-35 menit + isolasi HP | Kesiapan tindakan tinggi tanpa menunda | Skill: *Execution readiness* | Menggunakan isolasi fisik distraksi |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U003 (Diri) | "Saya tidak harus selalu sempurna, yang penting konsisten." | Penurunan kecemasan internal, kesediaan bertindak. | Rasa Aman Internal: Tinggi | Meningkatkan *Attitude* positif terhadap kegagalan/kelelahan. |
+| U004 (Fajar) | "Saya paham kamu tidak punya banyak waktu..." | Fajar menyetujui opsi 15 menit. | Kepercayaan: Sedang → Tinggi | Mengurangi defensivitas awal Fajar (ESTP). |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+- **Stimulus Sejenis:** Kondisi lelah dan tumpukan tugas pada Minggu ke-5 (U006).
+- **Perbaikan Teramati:** Pada simulasi awal (U003), mahasiswa baru merencanakan dialog internal. Pada uji ulang (U006), mahasiswa mengeksekusi urutan tindakan fisik secara presisi: memeriksa prioritas → isolasi HP → eksekusi 20 menit → jeda 5 menit → penyelesaian 60 menit → pencatatan.
+- **Indikator Evaluasi:** Sesi terlaksana 60 menit, HP terisolasi, catatan materi terbentuk.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002, U006, U007 | Tujuan terukur (8 minggu, 60 menit/hari, 5 hari/minggu), indikator keberhasilan jelas. |
+| Persepsi dan validasi profil/status | 4 | U002, U005, U007 | Analisis ASK/SWOT diri komprehensif serta akurat mendiagnosis kebutuhan Fajar. |
+| Pemilihan dan urutan repertoar | 4 | U003, U004, U005, U006 | Penggunaan teknik *reframing*, penawaran opsi mikro, dan pembentukan *checklist*. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U004, U006 | Eksekusi kalimat personal hangat pada diri & Fajar; langkah konkret mudah direplikasi. |
+| Evaluasi dan adaptasi | 4 | U005, U007 | Adaptasi cepat saat Fajar meminta *checklist* dan evaluasi kritis atas diri sendiri. |
+| Refleksi dan lesson learned | 4 | U007 | Pelajaran mendalam mengenai *self-leadership* serta komitmen tindakan terukur (32 sesi). |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+*Usulan Nilai AI:* (24 / 24) × 100 = **100** *(Memerlukan moderasi dosen)*.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Pelajaran Utama:** Memimpin diri sendiri bukanlah sekadar memberikan motivasi manis, melainkan keberanian mengenali hambatan, melakukan *reframing* atas dialog internal, dan memecah aksi menjadi langkah-langkah mikro yang realistis. Dalam komunikasi interpersonal, kepedulian harus diimbangi dengan struktur tindakan yang praktis dan terukur.
+- **Perubahan Pemahaman:** Menerima kelelahan (*self-compassion*) bukanlah bentuk penyangkalan komitmen, melainkan strategi menjaga keberlanjutan (*sustainability*) konsistensi.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+- **Rencana Tindak Lanjut:** 
+  1. Menjadwalkan minimal 4 sesi belajar mandiri per minggu (@60 menit) selama 8 minggu (Target: 32 sesi).
+  2. Menentukan 3 prioritas akademik utama di setiap awal minggu.
+  3. Menerapkan aturan "20 Menit Pertama" saat merasa lelah.
+  4. Melakukan evaluasi mingguan tiap hari Minggu sore.
+- **Batas Bukti:** Transkrip ini merekam kesiapan konseptual, perencanaan dialog internal, dan simulasi tindakan. Keberhasilan pembentukan kebiasaan jangka panjang 8 minggu bergantung pada kedisiplinan eksekusi nyata mahasiswa di luar sesi ini.

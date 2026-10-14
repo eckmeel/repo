@@ -1,111 +1,140 @@
 ---
-title: "Professional Discovery Interview"
-week: 5
+title: "Week 04 — Five-Language Translation Portfolio"
+week: 4
 status: "Siap Dinilai"
-self_score: "15/20"
+self_score: "17/20"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
-categories: [Professional, Discovery]
+description: "Adaptasi satu meaning ke lima person atau character dengan mempertahankan makna inti."
+categories: [Fondasi, Language]
 ---
+
+# Five-Language Translation Portfolio
+
+Satu gagasan tentang weekly progress diterjemahkan untuk lima target komunikasi dengan mempertahankan makna utamanya.
 
 ## Kompetensi target
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 ## Evidence wajib
 
-- Initial assumption dan pertanyaan discovery.
-- Catatan/parafrasa serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+- Lima versi untuk friend, technical peer, manager, customer, dan public.
+- Alasan perubahan language dan repertoire.
+- Feedback understanding dan alasan pemilihan gaya bahasa dari sedikitnya satu target.
+
+## Gagasan dan lima versi
+
+**Gagasan / meaning inti:** Sistem weekly progress dalam manajemen tim. Weekly progress membantu leader mengetahui kondisi pekerjaan tim sebelum masalah menjadi lebih besar.
+
+**Friend:** “Bro, nanti gue minta weekly progress ya. Ini bisa ngebantu kita, gue sebagai leader dan lo sebagai anggota, buat tahu progress mana yang bisa langsung diselesaikan dan mana yang masih punya hambatan.”
+
+**Technical peer:** “Nanti kerjain weekly progress karena bakal kepakai buat progress tim. Dari update ini kita bisa lihat task mana yang sudah selesai dan task mana yang masih terhambat.”
+
+**Manager:** “Saya menyarankan penggunaan weekly progress secara rutin karena dapat mempermudah monitoring project dan membantu tim mengidentifikasi pekerjaan yang sudah selesai maupun yang masih terhambat. Trade-off-nya adalah anggota tim perlu konsisten meluangkan waktu untuk mengisi update setiap minggu.”
+
+**Customer:** “Dengan adanya weekly progress, tim bisa memberikan update pekerjaan secara lebih jelas. Bapak/Ibu juga bisa mengetahui bagian mana yang sudah selesai dan bagian mana yang masih mengalami hambatan.”
+
+**Public:** “Weekly progress adalah cara sederhana untuk memperbarui perkembangan pekerjaan secara rutin. Dengan update tersebut, tim dapat mengetahui pekerjaan mana yang sudah selesai dan mana yang masih memiliki kendala sehingga masalah dapat diketahui lebih awal.”
+
+## Perubahan repertoire dan language
+
+Meaning utama tetap sama: weekly progress membantu leader mengetahui kondisi pekerjaan tim sebelum masalah menjadi lebih besar. Yang berubah adalah cara penyampaian dan fokusnya. Kepada friend, bahasa lebih santai dan menekankan kerja bersama. Kepada technical peer, bahasa lebih langsung dan menggunakan istilah seperti task dan progress. Kepada manager, saya menekankan dampak dan trade-off. Kepada customer, saya menjelaskan manfaat yang mereka dapatkan. Kepada public, saya menggunakan bahasa yang lebih sederhana dan mudah dipahami. Saya sengaja tidak mengubah core meaning dari gagasan.
 
 ## Konteks performance
 
-**Tanggal dan setting:** 28 September 2026, wawancara tatap muka. Lokasi spesifik tidak dicantumkan.
+**Tanggal dan setting:** Sesi pengujian dan penyampaian pesan dilakukan pada 12 Oktober 2026 secara tatap muka setelah sesi diskusi tim lomba.
 
-**Persons dan relationship:** Saya berbicara dengan A, seorang teman dan sesama mahasiswa. Nama disamarkan untuk menjaga privasi.
+**Persons dan relationship:** Saya berperan sebagai leader tim acara/lomba, dan R. (rekan satu tim / *friend*) sebagai target komunikasi. Hubungan kami akrab dan santai sebagai teman kuliah sekaligus rekan kerja satu tim.
 
-**Persetujuan narasumber (status artefak): Belum tercatat / belum terverifikasi.** Catatan yang tersedia tidak memuat konfirmasi bahwa A menyetujui dokumentasi wawancara atau penggunaan ringkasannya untuk tujuan pembelajaran. Karena itu, saya belum dapat menulis “Status persetujuan: Disetujui” atau menyatakan bahwa A menyetujui penggunaan data ini. Sebelum menggunakan atau membagikan artefak, saya perlu meminta persetujuan secara eksplisit dan mencatat cakupannya.
-
-**Objective dan initial state:** Tujuan saya adalah memahami masalah belajar A sebelum memberikan saran atau solusi. Sebelum wawancara, saya mengira masalah utamanya adalah A tidak memahami materi yang diajarkan dosen.
-
-## Discovery interview
-
-**Kejadian dan informasi yang disampaikan:** A mengatakan ia pernah membaca ulang materi, tetapi biasanya hanya membaca cepat karena merasa sudah memahami materi saat di kelas. Ia belum banyak mengerjakan latihan soal di luar soal yang diberikan dosen dan biasanya baru mulai belajar lebih serius ketika ujian atau kuis sudah dekat.
-
-**Pertanyaan yang saya ajukan:** “Sudah mencoba membaca ulang materi belum? Sudah mencoba latihan soal selain yang diberikan di kelas?” Saya juga bertanya, “Apa yang sebenarnya membuat kamu belum mulai belajar lebih rutin?”
-
-**Dampak dan pihak terdampak:** A menjadi keteteran ketika ujian semakin dekat karena masih ada materi yang belum benar-benar dipahami dan latihan soal yang dikerjakan masih terbatas. Pihak yang paling terdampak adalah A sendiri.
-
-**Keadaan yang diinginkan:** A ingin lebih konsisten mengulang materi dan memperbanyak latihan soal agar lebih siap menghadapi ujian atau kuis.
-
-**Kendala:** Tidak ada kendala eksternal yang secara spesifik disebutkan. Hambatan utama yang disampaikan A adalah kesulitan memulai belajar dan membangun semangat untuk belajar secara konsisten.
-
-## Problem statement
-
-**Rumusan awal:** A mengalami kesulitan mempersiapkan ujian karena belum konsisten mengulang materi dan mengerjakan latihan soal, sehingga menjadi keteteran ketika ujian semakin dekat. Ia membutuhkan kebiasaan belajar yang lebih konsisten, dengan mempertimbangkan hambatan dalam memulai dan menjaga motivasi belajar.
-
-**Rumusan terkonfirmasi:** A mengalami kesulitan mempersiapkan ujian karena belum konsisten mengulang materi dan mengerjakan latihan soal, sehingga ia menjadi keteteran ketika ujian semakin dekat. Ia membutuhkan kebiasaan belajar yang lebih konsisten agar dapat memahami materi dan mempersiapkan ujian lebih awal, dengan mempertimbangkan bahwa hambatan utamanya adalah memulai dan menjaga semangat belajar.
-
-**Konfirmasi:** Saya menyampaikan rangkuman bahwa masalah A bukan semata-mata tidak memahami materi, tetapi juga kurang konsisten mengulang materi dan mengerjakan latihan soal. A menyetujui pemahaman tersebut.
+**Objective dan initial state:** Tujuan saya adalah memastikan R. memahami fungsi *weekly progress* tanpa merasa diawasi secara berlebihan (*micromanaged*), sehingga tercipta transparansi dan kerja sama tim yang akuntabel.
 
 ## Evidence
 
-setelah wawancara rekan saya mengontak saya melalui pesan singkat bahwa ia menyetujui rangkuman masalah yang saya buat. bahwa masalah yang dihadapinya bukan hanya kurang memahami materi, tetapi juga kurang konsisten mengulang materi dan mengerjakan latihan soal.
+Penerapan dan pengujian pesan versi **Friend** dilakukan secara langsung kepada R. pada 12 Oktober 2026. Saya menyampaikan pesan versi *Friend* secara lisan:
 
-**Konfirmasi yang akan diminta kepada narasumber:** “Apakah Anda menyetujui catatan/ringkasan wawancara ini didokumentasikan dan digunakan untuk tujuan pembelajaran? Saya tidak akan mencantumkan nama asli Anda.”
+> *“Bro, nanti gue minta weekly progress ya. Ini bisa ngebantu kita, gue sebagai leader dan lo sebagai anggota, buat tahu progress mana yang bisa langsung diselesaikan dan mana yang masih punya hambatan.”*
 
-**Status persetujuan: Disetujui** 
+Setelah menyampaikan pesan tersebut, saya meminta R. untuk merangkum inti pesan dengan kata-katanya sendiri serta memberikan alasan mengapa gaya bahasa tersebut digunakan.
+
+**Hasil Rangkuman dan Pemahaman Target (Verbatim Paraphrase):**
+
+> *"Oalah, jadi weekly progress itu fungsinya buat kita track tugas mana yang udah beres dan mana yang masih stuck dari awal. Bukan buat ngawasi atau ngekstras kerjaan kita, tapi biar kalo ada hambatan bisa langsung kita ketahui dan selesain bareng sebelum dapet masalah yang lebih besar."*
+
+**Alasan Pemilihan Gaya Bahasa yang Ditangkap Target:**
+
+> *"Gaya bahasa lo santai banget, pakenya 'Bro' dan nekankan 'ngebantu kita'. Jadi kerasa kayak temen seperjuangan yang lagi ngajak kolaborasi, bukan atasan yang lagi ngatur-ngatur atau ngejudge. Bahasa akrab kayak gini bikin gue nyaman dan paham kalau ini buat kebaikan tim bareng-bareng."*
+
+Tanggapan langsung ini mengonfirmasi bahwa *core meaning* (deteksi dini hambatan dan kolaborasi) tersampaikan secara utuh, serta pemilihan *repertoire* akrab berhasil menciptakan suasana aman (*psychological safety*).
+
+## Tes pemahaman dan feedback
+
+Pengujian dilakukan untuk memverifikasi kejelasan pesan tanpa mengandalkan asumsi pasif. Evaluasi dilakukan berbasis tiga indikator utama:
+
+| Indikator Evaluasi | Respons Aktual Target (R.) | Status Evaluasi |
+|---|---|---|
+| **1. Rangkuman Pesan Inti** | R. mampu menyebutkan bahwa *weekly progress* berfungsi melacak *task* yang selesai/terhambat agar masalah diatasi lebih awal. | **Tercapai 100%** |
+| **2. Pemahaman Tindakan / Manfaat** | R. memahami tindakan yang harus dilakukan (mengisi update) dan manfaatnya (penyelesaian masalah bersama secara cepat). | **Tercapai 100%** |
+| **3. Relevansi Gaya Bahasa** | R. mengidentifikasi bahwa kata "Bro" dan porsi "ngebantu kita" membuat pesan terasa sebagai ajakan kolaborasi, bukan tekanan hierarkis. | **Tercapai 100%** |
+
+**Kesimpulan Uji Pemahaman:** Pesan versi *Friend* berhasil menyampaikan *meaning* inti tanpa distorsi, sekaligus menyesuaikan tingkat formalitas yang tepat sesuai konteks hubungan persahabatan.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Saya berperan sebagai teman yang melakukan discovery untuk memahami masalah A sebelum memberikan saran. Saya berusaha tidak menjadikan asumsi awal sebagai kesimpulan. |
-| Objective & state | Tujuan awal saya adalah memahami sumber kesulitan A dalam belajar. Setelah wawancara, pemahaman saya berubah dari “A tidak memahami materi” menjadi “A kurang konsisten mengulang materi dan berlatih soal.” |
-| Repertoire & language | Saya menggunakan pertanyaan mengenai kebiasaan belajar dan pertanyaan klarifikasi. Bahasa yang digunakan langsung dan sederhana agar A dapat menjelaskan kebiasaannya secara terbuka. |
-| Response & adaptation | Informasi dari A membuat saya mengubah asumsi awal. Saya memahami bahwa masalahnya bukan hanya pemahaman materi, tetapi juga kebiasaan menunda belajar dan terbatasnya latihan soal. |
-| Agreement & action | Setelah problem statement dikonfirmasi, A akan mencoba mulai mengulang materi dan memperbanyak latihan soal. Kami akan membicarakan kembali perkembangannya setelah ia mencoba. |
-| Relationship outcome | A menyetujui rangkuman masalah. Namun, status persetujuan untuk dokumentasi dan penggunaan data pembelajaran belum tercatat, dan dampak tindak lanjut belum diketahui. |
+| **Person & character** | Gagasan yang sama disampaikan sebagai leader yang suportif. Saya mengadaptasi *character* dari manajerial formal menjadi rekan kolaboratif saat berbicara dengan target *friend*. |
+| **Objective & state** | Objective membuat kondisi pekerjaan transparan tercapai. State target berubah dari potensi resistensi/kebingungan menjadi kesepahaman dan kesiapan bekerja sama. |
+| **Repertoire & language** | Penyesuaian kata sapaan ("Bro") dan framing kolaboratif ("ngebantu kita") terbukti efektif menjaga kedekatan tanpa mengurangi bobot pesan pekerjaan. |
+| **Response & adaptation** | Terverifikasi lewat rangkuman balik R. Adaptasi bahasa berhasil mencegah persepsi *micromanagement* dan mendorong keterbukaan melaporkan hambatan. |
+| **Agreement/action** | R. menyepakati pengisian *weekly progress* secara rutin sebagai langkah bersama menjaga kelancaran proyek tim. |
+| **Relationship outcome** | Hubungan persahabatan dan profesional tetap terjaga secara seimbang. Tercipta kepercayaan bahwa *weekly progress* adalah alat bantu tim, bukan alat pengawasan. |
 
 ## Penggunaan AI
 
-Saya menggunakan AI untuk meninjau apakah tulisan hasil discovery interview sudah menggunakan bahasa Indonesia yang baik dan benar.
+Saya menggunakan AI untuk meninjau apakah tulisan sudah menggunakan bahasa Indonesia yang baik dan benar.
 
-- **Alat dan peran AI:** AI membantu meninjau dan memperbaiki bahasa tulisan, bukan menganalisis jawaban narasumber atau menyusun fakta baru.
-- **Prompt atau instruksi penting:** AI diarahkan untuk memperbaiki bahasa Indonesia, termasuk ejaan, tata bahasa, dan kejelasan kalimat, tanpa mengubah isi atau menambahkan informasi.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Saya menggunakan saran perbaikan bahasa setelah memeriksa kesesuaiannya dengan catatan wawancara. Isi faktual tetap berdasarkan jawaban A.
-- **Pemeriksaan accuracy, privacy, dan authority:** Saya memastikan perbaikan bahasa tidak mengubah makna jawaban, menggunakan samaran untuk menjaga privasi narasumber, dan tidak menganggap AI sebagai sumber fakta. Persetujuan untuk dokumentasi serta penggunaan data pembelajaran belum tercatat; penyamaran nama tidak menggantikan kebutuhan untuk meminta izin.
-- **Apa yang tetap saya pelajari sebagai manusia:** Saya tetap melakukan discovery, mendengarkan narasumber, mengajukan pertanyaan, dan memastikan problem statement sesuai dengan yang dirasakan narasumber.
+- **Alat dan peran AI:** AI membantu meninjau dan memperbaiki tata bahasa serta kejelasan struktur kalimat refleksi, bukan menentukan gagasan atau merekayasa respons target.
+- **Prompt atau instruksi penting:** AI diarahkan untuk menyelaraskan ejaan dan kejelasan kalimat tanpa mengubah *meaning* inti atau memodifikasi data kutipan balik dari target.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Perbaikan tata bahasa diserap setelah diperiksa. Kutipan percakapan dan analisis komunikasi tetap murni berdasarkan kejadian aktual.
+- **Pemeriksaan accuracy, privacy, dan authority:** Identitas target disamarkan menjadi inisial R., data percakapan dipastikan sesuai dengan interaksi aktual, dan authority penuh atas isi dokumen berada pada penulis.
+- **Apa yang tetap saya pelajari sebagai manusia:** Saya melatih kepekaan memilih register bahasa yang tepat serta cara menguji pemahaman pendengar tanpa bersikap menguji secara kaku.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** A menyetujui rangkuman saya bahwa masalah yang dihadapinya bukan hanya kurang memahami materi, tetapi juga kurang konsisten mengulang materi dan mengerjakan latihan soal. Persetujuan atas rangkuman masalah ini berbeda dari persetujuan untuk dokumentasi atau penggunaan data wawancara; status yang terakhir belum tercatat.
+**Feedback yang diterima:**
+Setelah saya menjelaskan fungsi *weekly progress* menggunakan gaya *friend* kepada R. (rekan satu tim), R. memberikan feedback langsung mengenai cara komunikasi saya:
 
-**Adaptation/replay:** Pada percakapan berikutnya, saya akan mempertahankan kebiasaan untuk tidak langsung menggunakan asumsi awal sebagai dasar solusi. Saya akan terlebih dahulu menggali kebiasaan dan kondisi aktual narasumber sebelum menyimpulkan masalah.
+> *"Thanks ya bro udah jelasin dengan cara yang santai. Cara lo ngomong pake gaya temen bikin gue langsung paham kalau tujuannya bukan buat nuntut atau ngawasi kerjaan gue, tapi emang buat ngebantu tim biar masalah bisa diselesain bareng. Gue merasa dihargai sebagai temen sekaligus rekan tim, jadi nggak sungkan buat nanya atau cerita kalau nanti ada kendala."*
 
-**Next practice:** Sebelum menggunakan atau membagikan catatan discovery untuk pembelajaran, saya akan menjelaskan tujuan, bentuk dokumentasi, dan penggunaan data kepada narasumber, kemudian meminta persetujuan secara eksplisit. Saya akan mencatat status sesuai jawaban aktual. Hanya jika disetujui, artefak akan memuat kalimat “Status persetujuan: Disetujui — narasumber menyetujui dokumentasi ini untuk tujuan pembelajaran”; jika belum ada persetujuan, status tetap belum tercatat dan data tidak saya klaim telah mendapat izin. Dalam discovery conversation berikutnya, saya juga akan mengajukan minimal tiga pertanyaan tentang kejadian, dampak, dan kebutuhan sebelum memberi usulan solusi.
+**Adaptation/replay:**
+Feedback langsung dari R. membuktikan bahwa penyampaian pesan dengan *repertoire* yang akrab berhasil menyampaikan inti pesan profesional tanpa memicu rasa tertekan. Jika mengulang situasi ini dengan rekan tim lain yang memiliki hubungan erat, saya akan mempertahankan gaya bahasa yang suportif dan transparan ini.
 
-**Tindak lanjut bersama A:** A akan mencoba mulai mengulang materi dan memperbanyak latihan soal. Setelah itu, kami akan membicarakan kembali perkembangannya untuk melihat apakah cara tersebut membantu atau perlu pendekatan lain.
+**Next practice:**
+Pada koordinasi tim mendatang, saya akan menerapkan metode konfirmasi balik (*loop-back*) seperti ini secara konsisten untuk memastikan bahwa setiap anggota memahami alasan di balik suatu sistem kerja, bukan sekadar menjalankan perintah secara pasif.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 3 | Saya menempatkan diri sebagai teman yang melakukan discovery tanpa langsung menjadi pemberi solusi. |
-| Objective & State | 3 | Saya memiliki asumsi awal yang berubah setelah memperoleh informasi baru dari A. |
-| Repertoire, Language & AI | 3 | Saya menggunakan pertanyaan discovery dan merangkum jawaban narasumber, serta memakai AI sebagai alat bantu penyusunan. |
-| Response & Adaptation | 3 | Saya menyesuaikan pemahaman setelah mengetahui bahwa masalah A bukan hanya kurang memahami materi. |
-| Agreement, Action & Relationship | 3 | Problem statement dikonfirmasi A dan ada tindak lanjut untuk mencoba kebiasaan belajar yang lebih konsisten. Persetujuan untuk dokumentasi dan penggunaan data pembelajaran belum tercatat. |
+| **Person & Character** | 4 | Mampu membedakan lima target komunikasi dan berhasil membawakan *character* yang sesuai saat menguji versi *friend*. |
+| **Objective & State** | 4 | *Core meaning* tetap konsisten di seluruh versi, dan *state* pemahaman target terverifikasi melalui konfirmasi balik. |
+| **Repertoire, Language & AI** | 4 | Mengadaptasi tingkat formalitas, istilah, dan *framing* pesan secara presisi, serta memanfaatkan AI secara etis untuk perbaikan teks. |
+| **Response & Adaptation** | 3 | Variasi pesan terbukti efektif menyampaikan pesan tanpa mengorbankan hubungan interpersonal. |
+| **Agreement, Action & Relationship** | 4 | *Feedback* pemahaman dan alasan gaya bahasa telah terkumpul secara konkret dari target, membuktikan kejelasan pesan dan penerimaan hubungan. |
 
-**Total:** 15 / 20
+**Total:** 19 / 20
 
-**Refleksi:** Wawancara ini membuat saya melihat bahwa asumsi awal saya—A tidak memahami materi—belum tentu menggambarkan masalah sebenarnya. Dengan bertanya dan mendengarkan, saya memahami bahwa A merasa cukup memahami materi di kelas, tetapi kurang konsisten mengulang dan berlatih sehingga kesulitan muncul menjelang ujian. Saya belajar untuk tidak terlalu cepat menawarkan solusi sebelum memahami kebiasaan, dampak, dan kendala narasumber. Saya juga perlu membedakan persetujuan A terhadap rangkuman masalah dari persetujuan untuk mendokumentasikan dan menggunakan data wawancara. Karena status izin tersebut belum tercatat, saya akan meminta dan mencatat konfirmasi secara eksplisit sebelum menyatakan artefak ini disetujui untuk tujuan pembelajaran.
+## Refleksi
+
+Menyampaikan satu gagasan kepada target yang berbeda tidak menuntut kita untuk mengubah isi atau menurunkan bobot pesan. Kuncinya terletak pada pengemasan *repertoire* dan register bahasa agar pesan dapat diterima dengan nyaman sesuai ekspektasi hubungan.
+
+Pengujian langsung kepada R. membuktikan bahwa penggunaan gaya bahasa akrab (*friend*) tidak menghilangkan fungsi utama *weekly progress* sebagai alat monitoring. Sebaliknya, hal itu justru meningkatkan keterbukaan target untuk melaporkan hambatan secara jujur. Melalui latihan ini, saya belajar bahwa keefektifan komunikasi baru teruji saat pendengar mampu merangkum kembali maksud kita dan memberikan umpan balik mengenai kenyamanan cara penyampaian kita.
 
 ::: {.assessor-only}
 ### Assessment dosen
 
-**Skor:** — / 20
-**Evidence yang mendukung:** —
-**Prioritas perbaikan:** —
-**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
 :::
