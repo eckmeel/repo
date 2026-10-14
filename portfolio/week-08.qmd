@@ -19,7 +19,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Nama | Akmal Nararya Hasan |
 | NIM | 18225035 |
 | Kelas | K1 |
-| Periode/tanggal pelaksanaan | 14 Oktober 2026 |
+| Periode/tanggal pelaksanaan | 11 Oktober 2026 - 14 Oktober 2026 |
 | Versi bank/paket aktif | Paket 07381119 |
 | Modalitas | Teks |
 | Status pengumpulan | Sudah diunggah |
