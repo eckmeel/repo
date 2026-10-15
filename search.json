@@ -1432,7 +1432,7 @@
     "href": "portfolio/week-08.html#identitas-dan-status-paket",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Identitas dan status paket",
-    "text": "Identitas dan status paket\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\nAkmal Nararya Hasan\n\n\nNIM\n18225035\n\n\nKelas\nK1\n\n\nPeriode/tanggal pelaksanaan\n11 Oktober 2026 - 14 Oktober 2026\n\n\nVersi bank/paket aktif\nPaket 07381119\n\n\nModalitas\nTeks\n\n\nStatus pengumpulan\nSudah diunggah",
+    "text": "Identitas dan status paket\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\nAkmal Nararya Hasan\n\n\nNIM\n18225035\n\n\nKelas\nK1\n\n\nPeriode/tanggal pelaksanaan\n11 Oktober 2026 - 14 Oktober 2026\n\n\nVersi bank/paket aktif\nPaket 07381119\n\n\nModalitas\nTeks\n\n\nStatus pengumpulan\nSiap Dinilai",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1444,6 +1444,28 @@
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Makalah dan lima laporan",
     "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nSelesai\nLengkap\n\n\n1\nhasil_1.qmd\nDiri & Pembanding Kasus 1\nSelesai\nLengkap\n\n\n2a\nhasil_2a.qmd\nTarget Kasus 2a\nSelesai\nLengkap\n\n\n2b\nhasil_2b.qmd\nTarget Kasus 2b\nSelesai\nLengkap\n\n\n3a\nhasil_3a.qmd\nTarget Kasus 3a\nSelesai\nLengkap\n\n\n3b\nhasil_3b.qmd\nTarget Kasus 3b\nSelesai\nLengkap",
+    "crumbs": [
+      "Beranda",
+      "Portfolio Minggu 8 — UTS KIPP"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#bobot-dan-nilai-akhir-uts",
+    "href": "portfolio/week-08.html#bobot-dan-nilai-akhir-uts",
+    "title": "Portfolio Minggu 8 — UTS KIPP",
+    "section": "Bobot dan nilai akhir UTS",
+    "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.",
+    "crumbs": [
+      "Beranda",
+      "Portfolio Minggu 8 — UTS KIPP"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#rekap-nilai-komponen",
+    "href": "portfolio/week-08.html#rekap-nilai-komponen",
+    "title": "Portfolio Minggu 8 — UTS KIPP",
+    "section": "Rekap nilai komponen",
+    "text": "Rekap nilai komponen\n\n\n\n\n\n\n\n\n\n\n\nKomponen\nBobot\nSelf-assessment /100\nUsulan AI /100\nNilai resmi dosen /100\nStatus bukti\n\n\n\n\nMakalah\n10%\n100\n—\n—\nMenunggu Penilaian Dosen\n\n\nSesi 1\n18%\n100\n100\n—\nLengkap\n\n\nSesi 2a\n18%\n100\n100\n—\nLengkap\n\n\nSesi 2b\n18%\n100\n100\n—\nLengkap\n\n\nSesi 3a\n18%\n100\n100\n—\nLengkap\n\n\nSesi 3b\n18%\n100\n100\n—\nLengkap\n\n\n\nNilai akhir UTS resmi: Belum dihitung. (Rata-rata Usulan AI untuk 5 Sesi Simulasi = 100; Nilai Akhir UTS menunggu pengisian nilai makalah dan moderasi resmi dari Dosen).",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
