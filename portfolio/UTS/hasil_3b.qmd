@@ -1,5 +1,5 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
+title: "Laporan UTS KIPP 2026"
 subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI/AI kepada Cyntia"
 author: "Akmal Nararya Hasan — 18225035"
 date: "2026-10-11"

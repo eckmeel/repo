@@ -3,7 +3,7 @@ title: "Interaksi Preferensi Kepribadian MBTI dan Pola Komunikasi Efektif Melalu
 subtitle: "Kajian Konseptual dan Strategi Pendidikan Pengembangan Kapasitas Interpersonal"
 author: "Akmal Nararya Hasan - 18225035"
 lang: id
-status: "Selesai"
+status: "Siap Dinilai"
 format:
   html:
     toc: true

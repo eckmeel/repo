@@ -1,5 +1,5 @@
 ---
-title: "Laporan UTS KIPP 2026 — Versi 2.0"
+title: "Laporan UTS KIPP 2026"
 subtitle: "Sesi 2b — Kasus 2"
 lang: id
 format:
