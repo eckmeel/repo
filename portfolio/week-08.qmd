@@ -22,7 +22,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Periode/tanggal pelaksanaan | 11 Oktober 2026 - 14 Oktober 2026 |
 | Versi bank/paket aktif | Paket 07381119 |
 | Modalitas | Teks |
-| Status pengumpulan | Sudah diunggah |
+| Status pengumpulan | Siap Dinilai |
 
 ## Makalah dan lima laporan
 
