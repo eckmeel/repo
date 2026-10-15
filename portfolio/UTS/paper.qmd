@@ -1,7 +1,7 @@
 ---
 title: "Interaksi Preferensi Kepribadian MBTI dan Pola Komunikasi Efektif Melalui Kerangka PASK dan Analisis SWOT-like"
 subtitle: "Kajian Konseptual dan Strategi Pendidikan Pengembangan Kapasitas Interpersonal"
-author: "Nama Mahasiswa - NIM"
+author: "Akmal Nararya Hasan - 18225035"
 lang: id
 status: "Selesai"
 format:
