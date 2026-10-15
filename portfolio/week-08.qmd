@@ -34,3 +34,18 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Target Kasus 2b | Selesai | Lengkap |
 | 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Target Kasus 3a | Selesai | Lengkap |
 | 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Target Kasus 3b | Selesai | Lengkap |
+
+{{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---|---|---|
+| Makalah | 10% | 100 | — | — | Menunggu Penilaian Dosen |
+| Sesi 1 | 18% | 100 | 100 | — | Lengkap  |
+| Sesi 2a | 18% | 100 | 100 | — | Lengkap |
+| Sesi 2b | 18% | 100 | 100 | — | Lengkap |
+| Sesi 3a | 18% | 100 | 100 | — | Lengkap |
+| Sesi 3b | 18% | 100 | 100 | — | Lengkap |
+
+**Nilai akhir UTS resmi:** Belum dihitung. (*Rata-rata Usulan AI untuk 5 Sesi Simulasi = 100; Nilai Akhir UTS menunggu pengisian nilai makalah dan moderasi resmi dari Dosen*).
