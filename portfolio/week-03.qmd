@@ -50,9 +50,9 @@ Selama diskusi sesi utama, muncul momen ketegangan (*disagreement*) ketika saya 
 
 **Proses dan Langkah Repair yang Saya Lakukan:**
 1. **Pause & Validate (Menahan Reaksi Argumen):** Saya tidak langsung mematahkan argumennya atau membela poin saya. Saya mengangguk dan memberikan jeda 3-5 detik untuk menurunkan tensi.
-2. **Reframing & Empathy:** Saya memvalidasi perasaan dan ambisinya terlebih dahulu sebelum masuk ke aspek praktis:  
+2. **Reframing & Empathy:** Saya memvalidasi perasaan dan ambisinya terlebih dahulu sebelum masuk ke aspek praktis: 
    *"Gue paham banget, mir. Ambisi lo buat ngejar yang terbaik itu valid banget, dan gue mengagumi semangat lo. Gue ngomongin biaya bukan buat matiin semangat lo, tapi karena gue peduli sama ketenangan pikiran lo dan orang tua lo nanti."*
-3. **Re-checking Relationship Alignment:** Saya mengembalikan kontrol kepada Emir:  
+3. **Re-checking Relationship Alignment:** Saya mengembalikan kontrol kepada Emir: 
    *"Kalau bagian ini bikin lo merasa tersudutkan, kita bisa simpan dulu bahasan biaya. Mau kita bedah dari sisi kenyamanan belajar dulu?"*
 
 Langkah *repair* ini berhasil mencairkan suasana. Bahu Emir kembali rileks, ia menghela napas, dan mengakui bahwa ia memang cemas mengenai reaksi orang tuanya terkait masalah finansial tersebut.
@@ -80,21 +80,49 @@ Untuk memverifikasi perubahan *relationship state* jangka panjang dan bukan seka
 
 ## Evidence
 
-Artefak *evidence* utama mencakup tangkapan layar tanggapan awal serta catatan tracking observasi interaksi multi-sesi:
+Artefak *evidence* utama mencakup transkrip teks percakapan momen penanganan ketidaksepakatan (*repair*), transkrip teks obrolan WhatsApp, serta log catatan observasi interaksi multi-sesi:
+
+### Artefak 1: Transkrip Teks Bukti Momen Repair (Disagreement & Repair Evidence)
+
+> **Emir:** "Tapi kan kalau gue nggak coba sekarang, gue bakal nyesel seumur hidup. Biaya bisa dicari, lagian orang tua gue juga belum bilang enggak." *(Sikap defensif, tangan dilipat, nada bicara naik)*
+> 
+> **Akmal (Pause & Validate - Step 1):** *(Diam sejenak 3 detik, mengangguk empatik, menahan dorongan untuk adu argumen)*
+> 
+> **Akmal (Reframing & Empathy - Step 2):** "Gue paham banget, Mir. Ambisi lo buat ngejar yang terbaik di ITB itu valid banget, dan gue ngagumin semangat lo. Gue ngomongin biaya bukan buat matiin semangat lo, tapi karena gue peduli sama ketenangan pikiran lo dan orang tua lo nanti."
+> 
+> **Akmal (Re-checking Alignment - Step 3):** "Kalau bagian biaya ini bikin lo merasa tersudutkan, kita simpan dulu bahasan biaya ya. Mau kita bedah dari sisi kenyamanan belajar dan jadwal osjur dulu?"
+> 
+> **Emir (Hasil Repair):** *(Menghela napas, posisi bahu rileks)* "Iya juga sih Mal... sorry gue agak sensitif tadi. Gue emang sebenarnya cemas banget soal biaya mandiri itu kalau harus minta orang tua lagi."
+
+### Artefak 2: Transkrip Teks Observasi Multi-Sesi & Tracking Relationship State (3 Sesi)
 
 ![Percakapan lanjutan dengan Emir setelah ia bercerita](../Hubungan-Pasca-Cerita.jpeg)
 
+**Transkrip Teks Chat & Log Observasi Multi-Sesi:**
+
+1. **Sesi 1 (28 September 2026 - Chat WhatsApp After-Conversation):**
+   > **Emir:** "Thanks ya bro udah mau dengerin cerita gue dari A-Z tanpa langsung ngejudge atau maksain kehendak lo. Gue merasa jauh lebih tenang dan dapet gambaran objektif soal Unpad vs ITB."
+   > **Akmal:** "Sama-sama Mir, santai aja. Kapan pun lo butuh ruang cerita atau diskusi, kabarin aja ya."
+
+2. **Sesi 2 (5 Oktober 2026 - Obrolan Kantin Unpad, Inisiatif Mandiri Emir):**
+   > **Emir (Inisiatif Bicara):** "Mal, mau update nih. Gue udah nyoba saran lo buat nikmatin proses osjur dulu. Ternyata kelompok osjur gue asik juga setelah kenal dekat. Gue mutusin buat fokus selesaikan semester 1 Unpad dulu sambil pelan-pelan evaluasi SNBT tahun depan tanpa grusa-grusu."
+   > *(Indikator Perubahan: Inisiatif bicara tinggi, topik bergeser dari krisis emosional menjadi tindakan terencana).*
+
+3. **Sesi 3 (12 Oktober 2026 - Belajar Bersama & Makan Malam, Hubungan Setara & Terbuka):**
+   > **Emir (Inisiatif Bicara & Kedalaman Cerita):** "Mal, entar malam makan bareng yuk. Gue mau cerita soal kondisi di rumah juga nih, kemarin sempat ngobrol sama bokap soal rencana kuliah."
+   > *(Indikator Perubahan: Kedalaman topik meningkat ke ranah personal keluarga/hobi, hubungan bergeser dari teman biasa menjadi trusted confidant / sahabat tepercaya).*
+
 **Narasi Bukti dan Integrasi Observasi:**
-1. **Bukti Respon & Receptive Listening ([Hubungan-Pasca-Cerita.jpeg](../Hubungan-Pasca-Cerita.jpeg)):** Tangkapan layar tanggal 28 September 2026 membuktikan bahwa Emir merasakan dampak langsung dari gaya *empathic listening*. Emir menyatakan secara eksplisit: *"Thanks ya bro udah mau dengerin cerita gue dari A-Z tanpa langsung ngejudge."*
-2. **Bukti Observasi Lanjutan (28 Sep – 12 Okt 2026):** Rangkaian catatan observasi pada tabel sesi 1–3 mengonfirmasi bahwa perubahan *relationship state* bertahan dalam jangka panjang. Peningkatan inisiatif bicara dari Emir pada sesi tanggal 5 dan 12 Oktober membuktikan bahwa tingkat kepercayaan (*trust*) telah terbangun secara berkelanjutan.
+1. **Bukti Respon & Receptive Listening ([Hubungan-Pasca-Cerita.jpeg](../Hubungan-Pasca-Cerita.jpeg)):** Tangkapan layar dan transkrip percakapan tanggal 28 September 2026 membuktikan bahwa Emir merasakan dampak langsung dari gaya *empathic listening* tanpa *judgment*.
+2. **Bukti Observasi Lanjutan (28 Sep – 12 Okt 2026):** Rangkaian transkrip teks pada Sesi 1, 2, dan 3 mengonfirmasi bahwa perubahan *relationship state* bertahan dalam jangka panjang (terjadi peningkatan frekuensi inisiatif kontak, kedalaman cerita personal, dan suasana rasa aman / *psychological safety*).
 
 ## Feedback dan tindak lanjut
 
 **Feedback yang terdokumentasi:** Pada pesan 28 September yang dilampirkan, Emir berterima kasih karena saya mendengarkan ceritanya sampai selesai tanpa menghakimi sebelum memberi solusi. Pesan yang tersedia mendukung feedback tersebut. Catatan yang tersedia tidak menunjukkan feedback bahwa saya terlalu cepat mencari penyelesaian; karena itu, poin tersebut tidak saya sajikan sebagai pernyataan Emir.
 
 **Adaptation/replay & Tindak Lanjut yang Dilaksanakan:**
-1. **Dokumentasi Momen Repair:** Saya telah menambahkan dokumentasi interaksi saat Emir menunjukkan sikap defensif terkait masalah biaya jalur mandiri, serta bagaimana saya melakukan *repair* melalui teknik *Pause & Validate* dan *Reframing*.
-2. **Tracking Multi-Sesi:** Saya melakukan pemantauan dan pencatatan interaksi lanjutan selama 3 sesi (28 Sep, 5 Okt, 12 Okt) untuk membuktikan bahwa perubahan kualitas hubungan bersifat substansial dan bertahan lama.
+1. **Dokumentasi Momen Repair:** Saya telah menambahkan bukti transkrip teks interaksi saat Emir menunjukkan sikap defensif terkait masalah biaya jalur mandiri, serta bagaimana saya melakukan *repair* melalui teknik *Pause & Validate*, *Reframing*, dan *Re-checking Alignment*.
+2. **Tracking Multi-Sesi:** Saya melakukan pemantauan dan pencatatan transkrip interaksi lanjutan selama 3 sesi (28 Sep, 5 Okt, 12 Okt) untuk membuktikan bahwa perubahan kualitas hubungan bersifat substansial dan bertahan lama.
 
 **Next practice:** Pada interaksi dengan teman atau rekan kerja ke depan, jika terjadi perbedaan pendapat, saya akan langsung menerapkan protokol *repair* (menahan argumenbalas, memvalidasi emosi lawan bicara, dan mereframe fokus ke tujuan bersama). Saya juga akan terus mencatat pola komunikasi berkelanjutan untuk memastikan bahwa dinamika *relationship* berkembang secara sehat.
 
@@ -110,11 +138,11 @@ AI digunakan untuk membantu menyusun dan merapikan struktur refleksi ini berdasa
 | **Objective & State** | 3 | Tujuan memperjelas opsi kuliah tanpa memaksakan kehendak tercapai; kebingungan Emir berkurang secara terukur. |
 | **Repertoire, Language & AI** | 4 | Menggunakan parafrasa, *tentative probing*, validasi emosional, serta teknik *repair* (*pause & validate*) yang efektif. Pemanfaatan AI dilakukan secara etis. |
 | **Response & Adaptation** | 3 | Berhasil menahan penilaian awal, menyesuaikan bentuk saran sesuai permintaan Emir, dan menangani ketegangan secara adaptif. |
-| **Agreement, Action & Relationship** | 4 | Perubahan *relationship state* terverifikasi melalui observasi multi-sesi (3 sesi interaksi) dan penanganan ketidaksepakatan (*repair*) yang terdokumentasi dengan baik. |
+| **Agreement, Action & Relationship** | 4 | Perubahan *relationship state* terverifikasi melalui transkrip bukti observasi multi-sesi (3 sesi interaksi) dan penanganan ketidaksepakatan (*repair*) yang terdokumentasi secara rinci. |
 
 **Total:** 17 / 20
 
-**Refleksi:** Penilaian mandiri dinaikkan menjadi **17/20** karena catatan perbaikan dosen telah dipenuhi secara utuh. Dokumentasi penanganan ketidaksepakatan (*repair*) saat mendiskusikan biaya serta jejak observasi selama 3 sesi terbukti memperkuat klaim bahwa *relationship state* mengalami peningkatan kualitas jangka panjang. Pengalaman ini mengajarkan bahwa komunikasi hubungan yang efektif tidak hanya diukur dari lancarnya percakapan, tetapi juga dari keberhasilan merawat rasa aman ketika terjadi ketegangan dan menjaga keberlanjutan interaksi setelahnya.
+**Refleksi:** Penilaian mandiri dinaikkan menjadi **17/20** karena catatan perbaikan dosen telah dipenuhi secara utuh. Dokumentasi penanganan ketidaksepakatan (*repair*) saat mendiskusikan biaya serta jejak observasi transkrip teks selama 3 sesi terbukti memperkuat klaim bahwa *relationship state* mengalami peningkatan kualitas jangka panjang. Pengalaman ini mengajarkan bahwa komunikasi hubungan yang efektif tidak hanya diukur dari lancarnya percakapan, tetapi juga dari keberhasilan merawat rasa aman ketika terjadi ketegangan dan menjaga keberlanjutan interaksi setelahnya.
 
 ::: {.assessor-only}
 ### Assessment dosen

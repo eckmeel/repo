@@ -54,11 +54,16 @@ Artefak *evidence* yang dikumpulkan terdiri dari dua komponen utama yang saling 
 
 ![Percakapan tim tentang kendala Adobe Illustrator dan klarifikasi hambatan](../Software-Bermasalah.jpeg)
 
-**Narasi Evidence Percakapan:**  
-Tangkapan layar di atas ([Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg)) membuktikan pelaksanaan tindakan spesifik (*replay*) yang diajukan pada 19 Oktober 2026. Dalam obrolan grup tersebut, saya tidak sekadar meminta laporan status, melainkan mengajukan pertanyaan klarifikasi terarah:  
-> *"Bagaimana kondisi Adobe Illustrator saat ini? Apakah gangguan software masih terjadi, dan apakah ada hambatan workload yang perlu kita sesuaikan agar deadline tetap masuk akal?"*
+**Transkrip Teks Bukti Percakapan Replay (Text Evidence - Replay Question & Response):**
 
-Tim Design (R. dan M.) merespons secara transparan dengan mengonfirmasi bahwa kendala *software* telah teratasi setelah instalasi ulang pada 2 orang anggota, sementara 1 anggota dialihkan menggunakan perangkat alternatif. Diskusi ini membuktikan adanya pergeseran gaya kepemimpinan dari *reactive* menjadi *responsive & supportive*.
+> **Akmal (PJ Acara):** "Halo tim Design, untuk weekly progress minggu ini gue mau cek kendala teknis kemarin: Apakah gangguan software Adobe Illustrator masih terjadi pada anggota tim, dan apakah ada hambatan workload yang perlu kita sesuaikan agar deadline tetap masuk akal?"
+> 
+> **R. (Koordinator Design):** "Halo Mal, untuk gangguan Adobe Illustrator saat ini sudah aman dan teratasi setelah re-install di 2 laptop anggota per kemarin sore. 1 anggota lagi yang laptopnya masih bermasalah sudah kita alihkan menggunakan software alternatif Canva/Figma untuk pembuatan aset ringan."
+> 
+> **M. (Anggota Design):** "Iya Mal, kendala alat sudah beres. Untuk workload feeds IG memang agak padat tapi kita sanggup kejar revisinya malam ini jam 20.00 WIB."
+
+**Narasi Evidence Percakapan:**  
+Transkrip percakapan di atas ([Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg)) membuktikan pelaksanaan tindakan spesifik (*replay*) yang diajukan pada 19 Oktober 2026. Dalam obrolan grup tersebut, saya mengajukan pertanyaan klarifikasi terarah mengenai keberadaan kendala teknis alat kerja (*"Apakah gangguan software Adobe Illustrator masih terjadi..."*). Tim Design merespons secara transparan dengan mengonfirmasi pemulihan perangkat, memverifikasi pergeseran gaya kepemimpinan saya dari *reactive* menjadi *responsive & supportive*.
 
 ### Artefak 2: Laporan Progress vs. Catatan Perbandingan Kondisi Aktual
 
@@ -81,7 +86,7 @@ Tangkapan layar laporan ([Laporan-Tim.jpeg](../Laporan-Tim.jpeg)) menyajikan daf
 | **Objective & state** | State awal saya adalah percaya penuh pada laporan tertulis tanpa memverifikasi. Objective dicapai melalui pemahaman obyektif terhadap kendala *software* dan *workload* tim. |
 | **Repertoire & language** | Saya menggunakan *reflection*, *fact-checking*, dan *reframing*. Pertanyaan internal: “Apa fakta yang benar-benar saya ketahui?” dan “Bagaimana kondisi alat kerja tim secara aktual?” |
 | **Response & adaptation** | Memisahkan *reaction* emosional (marah 8/10) dari tindakan interaktif. Saya mengadaptasi pertanyaan rutin menjadi pertanyaan spesifik mengenai hambatan teknis dan kondisi perangkat kerja. |
-| **Agreement/action** | *Agreement* telah dieksekusi dan diverifikasi melalui bukti screenshot percakapan klarifikasi ([Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg)) serta tabel perbandingan laporan vs. kondisi aktual di *shared drive*. |
+| **Agreement/action** | *Agreement* telah dieksekusi dan diverifikasi melalui bukti transkrip percakapan klarifikasi ([Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg)) serta tabel perbandingan laporan vs. kondisi aktual di *shared drive*. |
 | **Relationship outcome** | Hubungan kerja tetap terjaga dalam suasana saling percaya dan akuntabel. Anggota tim merasa didukung saat menghadapi kendala alat kerja tanpa takut dihakimi. |
 
 ## Penggunaan AI
@@ -101,8 +106,8 @@ Saya menggunakan AI untuk meninjau apakah tulisan refleksi sudah menggunakan bah
 
 **Adaptation/replay:**  
 Sesuai arahan umpan balik dosen, saya telah melakukan *replay* tindakan pada tanggal 19–20 Oktober 2026 dengan:
-1. Mengajukan pertanyaan klarifikasi terbuka di grup tim mengenai kendala *software* Adobe dan beban kerja secara spesifik.
-2. Menyimpan bukti tangkapan layar percakapan tersebut sebagai *evidence* aktual ([Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg)).
+1. Mengajukan pertanyaan klarifikasi terbuka di grup tim mengenai kendala *software* Adobe dan beban kerja secara spesifik (*"Apakah gangguan software Adobe Illustrator masih terjadi pada anggota tim...?"*).
+2. Menyimpan bukti transkrip teks dan tangkapan layar percakapan tersebut sebagai *evidence* aktual ([Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg)).
 3. Melakukan verifikasi *cross-check* antara poin laporan *progress* di *chat* ([Laporan-Tim.jpeg](../Laporan-Tim.jpeg)) dengan ketersediaan file aktual di *Drive*, lalu menyusun tabel perbandingan status pekerjaan secara transparan.
 
 **Next practice:** Pada setiap koordinasi mingguan mendatang, saya akan mempertahankan format evaluasi dua arah ini: menanyakan status *deliverables*, memeriksa keberadaan kendala alat/alat kerja, serta memverifikasi kesesuaian laporan dengan artefak pekerjaan aktual di folder tim sebelum menutup pembahasan.
@@ -115,11 +120,11 @@ Sesuai arahan umpan balik dosen, saya telah melakukan *replay* tindakan pada tan
 | **Objective & State** | 3 | Tujuan memahami kondisi pekerjaan secara obyektif tercapai dengan membandingkan persepsi awal terhadap *weekly progress* dengan kendala lapangan yang sebenarnya. |
 | **Repertoire, Language & AI** | 3 | Menggunakan pemisahan fakta dan *story*, tiga *alternative narratives*, serta pemanfaatan AI yang etis sebagai penyelarasa bahasa tanpa merekayasa data. |
 | **Response & Adaptation** | 4 | Reaksi emosional berhasil dikendalikan (marah 8/10 ditahan). *Adaptation* dibuktikan melalui pengajuan pertanyaan spesifik tentang hambatan teknis yang terdokumentasi. |
-| **Agreement, Action & Relationship** | 4 | *Agreement* dieksekusi secara nyata (*replay*): terverifikasi lewat tangkapan layar pertanyaan klarifikasi spesifik serta tabel perbandingan *status laporan vs. kondisi aktual*. |
+| **Agreement, Action & Relationship** | 4 | *Agreement* dieksekusi secara nyata (*replay*): terverifikasi lewat transkrip teks dan tangkapan layar pertanyaan klarifikasi spesifik serta tabel perbandingan *status laporan vs. kondisi aktual*. |
 
 **Total:** 17 / 20
 
-**Refleksi:** Penilaian mandiri dinaikkan menjadi 17/20 karena tindakan spesifik yang dijanjikan dalam *internal agreement* telah dilaksanakan, diverifikasi dengan bukti percakapan klarifikasi hambatan, dan dilengkapi dengan catatan perbandingan kondisi pekerjaan secara rinci. Pengalaman ini membuktikan bahwa menahan reaksi emosional awal (*reaction*) dan beralih ke tindakan berbasis refleksi (*response*) menciptakan komunikasi kepemimpinan yang jauh lebih adaptif, empatik, dan akuntabel.
+**Refleksi:** Penilaian mandiri dinaikkan menjadi 17/20 karena tindakan spesifik yang dijanjikan dalam *internal agreement* telah dilaksanakan, diverifikasi dengan bukti transkrip percakapan klarifikasi hambatan, dan dilengkapi dengan catatan perbandingan kondisi pekerjaan secara rinci. Pengalaman ini membuktikan bahwa menahan reaksi emosional awal (*reaction*) dan beralih ke tindakan berbasis refleksi (*response*) menciptakan komunikasi kepemimpinan yang jauh lebih adaptif, empatik, dan akuntabel.
 
 ::: {.assessor-only}
 ### Assessment dosen

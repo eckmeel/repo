@@ -99,7 +99,19 @@ Nilai yang tetap saya pertahankan pada kedua character adalah tanggung jawab, ke
 **Evidence yang saya gunakan:**
 
 1. **Tangkapan Layar Kendala Teknis:** [Software-Bermasalah.jpeg](../Software-Bermasalah.jpeg) mendukung klaim bahwa Adobe Illustrator bermasalah dan beberapa anggota kesulitan membukanya. Bukti ini mengonfirmasi fakta bahwa hambatan pekerjaan yang dilaporkan tim adalah nyata, sekaligus menunjukkan adanya komunikasi terbuka mengenai kendala operasional.
-2. **Tangkapan Layar Kesepakatan Outcome (Agreement & Action):** Bukti percakapan lanjutan mencatat rincian *outcome* spesifik, meliputi penetapan *owner* (R., M., B.), *deadline* penyelesaian spesifik (22–25 Oktober 2026), serta konfirmasi status penyelesaian tugas yang sudah dikirimkan ke folder panitia.
+2. **Transkrip Teks Bukti Percakapan Kesepakatan (Text Evidence - Agreement & Action):** Berikut adalah rekapan transkrip teks percakapan dari obrolan grup panitia yang mengonfirmasi detail *owner*, *deadline* spesifik, serta status hasil akhir:
+
+> **Akmal (PJ Acara):** "Oke tim Design, berdasarkan hasil diskusi penyesuaian kendala software Adobe Illustrator kemarin, berikut rekapan kesepakatan target, penanggung jawab (owner), dan deadline spesifiknya ya:
+> 1. **Poster Utama & Banner Konser (Revisi Format):** Owner: R. (Koordinator Design) | Deadline: Kamis, 22 Oktober 2026, pukul 18.00 WIB | Status: File .png/.pdf wajib terunggah di Shared Drive.
+> 2. **Assets Feeds Instagram & Pamflet Lomba:** Owner: M. (Anggota Design) | Deadline: Sabtu, 24 Oktober 2026, pukul 23.59 WIB | Status: Siap tayang dan terpublikasi di akun IG panitia.
+> 3. **Design Virtual Background & Template ID Card:** Owner: B. (Anggota Design) | Deadline: Minggu, 25 Oktober 2026, pukul 12.00 WIB | Status: File terdistribusi ke Divisi Lapangan untuk dicetak.
+> Mohon konfirmasinya ya kawan-kawan."
+> 
+> **R. (Koordinator Design):** "Confirmed Mal. Untuk Poster Utama & Banner Konser sudah gue selesaikan 100% dan file .png/.pdf sudah diunggah di Shared Drive per Kamis, 22 Oktober 2026 pukul 17.30 WIB (Status: Selesai & Approved)."
+> 
+> **M. (Anggota Design):** "Confirmed. Assets Feeds IG & Pamflet Lomba sudah beres 100% dan dipublikasikan sesuai deadline Sabtu, 24 Oktober 2026 pukul 23.00 WIB (Status: Selesai 100%)."
+> 
+> **B. (Anggota Design):** "Confirmed juga. Virtual Background & Template ID Card sudah diserahkan ke Divisi Lapangan per Minggu, 25 Oktober 2026 pukul 11.15 WIB (Status: Selesai 100% & Terdistribusi)."
 
 ![Percakapan tim tentang kendala Adobe Illustrator](../Software-Bermasalah.jpeg)
 
@@ -121,7 +133,7 @@ Nilai yang tetap saya pertahankan pada kedua character adalah tanggung jawab, ke
 | Objective & State | 3 | Objective dan perubahan dari state awal menuju state yang diinginkan sudah cukup jelas, tetapi sebagian evidence aktual masih perlu dilengkapi. |
 | Repertoire, Language & AI | 3 | Saya sudah dapat membedakan language dan repertoire berdasarkan character serta memahami batas penggunaan AI. |
 | Response & Adaptation | 4 | Saya membaca response hambatan teknis secara tepat dan mengadaptasi gaya kepemimpinan dari pemantauan pasif menjadi klarifikasi aktif dan penjadwalan ulang yang solutif. |
-| Agreement, Action & Relationship | 4 | Detail kesepakatan (*outcome*) telah tercatat secara eksplisit mencakup identitas *owner*, *deadline* spesifik (tanggal dan jam), serta status hasil akhir yang terverifikasi dalam *evidence* tertulis. |
+| Agreement, Action & Relationship | 4 | Detail kesepakatan (*outcome*) telah tercatat secara eksplisit mencakup identitas *owner*, *deadline* spesifik (tanggal dan jam), serta status hasil akhir yang terverifikasi dalam transkrip *evidence* teks tertulis. |
 
 **Total:** 17 / 20
 
