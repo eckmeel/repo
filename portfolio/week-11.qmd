@@ -1,8 +1,8 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "19/20"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
@@ -18,8 +18,122 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 - Position–interest analysis, common ground, dan options.
 - Negotiation evidence, agreement/dissent, dan relationship review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
-{{< include ../includes/evidence-template.md >}}
+**Tanggal dan setting:** Sesi negosiasi multi-pihak berlangsung pada Sabtu, 21 November 2026 pukul 19.30–20.20 WIB melalui panggilan suara daring (*Google Meet*) dan dilanjutkan konfirmasi tertulis di grup koordinasi panitia, membahas pembagian slot durasi *rundown* serta alokasi anggaran sisa untuk kegiatan gelar karya dan malam puncak acara mahasiswa.
+
+**Peran dan situasi awal:** Saya berperan sebagai Penanggung Jawab (PJ) Acara yang memfasilitasi perbedaan pandangan antara tiga koordinator sub-divisi utama: **R.** (Koordinator Acara/Konten), **K.** (Koordinator Humas & Media Partner), dan **F.** (Koordinator Lapangan & Logistik). Ketegangan muncul karena total durasi yang diajukan masing-masing divisi melebihi batas izin gedung sebesar 35 menit, serta terdapat selisih usulan penggunaan sisa dana operasional sebesar Rp450.000.
+
+## Stakeholder person map dan multi-state TAIDA
+
+| Stakeholder (Person) | Objective | Constraint (Batasan) | Authority (Wewenang) | Initial TAIDA State | Target / Final TAIDA State |
+|---|---|---|---|---|---|
+| **R. (Koordinator Acara / Konten)** | Mempertahankan durasi penuh sesi diskusi panel dan penampilan utama agar kualitas konten acara maksimal. | Materi pengisi acara sudah dikunci sejak H-7; pemangkasan mendadak berisiko membuat pengisi acara kecewa. | Mengatur urutan segmen konten dan berkomunikasi langsung dengan pengisi acara. | **Desire** (ingin mempertahankan *rundown* ideal versi divisi Acara) | **Action** (menyepakati pemadatan segmen 15 menit dan menjalankan *rundown* revisi) |
+| **K. (Koordinator Humas & Media Partner)** | Mendapatkan slot khusus 20 menit di *prime time* untuk *ad-libs* sponsor serta alokasi dana cetak *backdrop* tambahan. | Terikat perjanjian tertulis (*MoU*) dengan 3 sponsor dan 5 *media partner* yang wajib disebut saat acara berlangsung. | Menentukan bentuk eksposur sponsor dan menandatangani berita acara kewajiban *media partner*. | **Attention** (sadar ada bentrok jadwal, tetapi bertahan pada kewajiban kontrak sponsor) | **Action** (setuju menggabungkan *ad-libs* ke transisi MC dan memakai *digital display*) |
+| **F. (Koordinator Lapangan & Logistik)** | Menyisakan jeda teknis minimal 20 menit untuk *changeover* alat dan memastikan acara selesai tepat pukul 21.30 WIB tanpa denda lembur gedung. | Aturan pengelola gedung sangat ketat (denda Rp300.000/30 menit jika lewat jam 21.30 WIB) dan kru teknis terbatas. | Mengatur akses panggung, *soundcheck*, serta menghentikan segmen jika melewati batas waktu gedung. | **Interest** (tertarik mencari solusi aman, tetapi khawatir kru kewalahan jika jeda dipangkas) | **Action** (menyepakati jeda 15 menit dengan pembagian zona kru dan alokasi dana baterai/kabel) |
+| **Akmal (PJ Acara / Fasilitator)** | Menghasilkan kesepakatan *rundown* yang pas batas waktu 21.30 WIB dan alokasi dana Rp450.000 yang adil tanpa merusak relasi antar-divisi. | Tidak bisa memaksakan keputusan sepihak tanpa persetujuan teknis lapangan dan kepatuhan kontrak sponsor. | Memutuskan *rundown* final tingkat panitia dan mengesahkan pencairan anggaran operasional. | **Action** (memfasilitasi negosiasi berbasis kepentingan) | **Action** (mengunci *agreement* tertulis dan memantau eksekusi) |
+
+## Position–interest analysis, common ground, dan options
+
+### Analisis Position vs. Interest
+
+| Stakeholder | Position (Tuntutan permukaan) | Underlying Interest (Kepentingan mendasar) |
+|---|---|---|
+| **R. (Acara)** | *"Segmen panel dan penampilan utama tidak boleh dipotong durasinya sama sekali."* | Menjaga reputasi kualitas acara dan mencegah komplain dari pembicara maupun penampil yang sudah latihan. |
+| **K. (Humas)** | *"Harus ada slot khusus 20 menit di tengah acara untuk sponsor dan dana Rp450.000 dipakai cetak banner tambahan."* | Memenuhi kewajiban kontrak sponsor agar tidak terjadi penalti dan menjaga hubungan baik untuk acara tahun berikutnya. |
+| **F. (Lapangan)** | *"Acara wajib selesai jam 21.30 WIB dan jeda ganti alat panggung harus tetap 20 menit."* | Mencegah denda keterlambatan gedung dan memastikan keselamatan serta kelancaran teknis di atas panggung. |
+
+**Common ground (Titik temu bersama):**
+1. Seluruh divisi sepakat bahwa acara harus selesai tepat waktu maksimal pukul **21.30 WIB** agar anggaran panitia tidak terpotong denda sewa gedung.
+2. Seluruh pihak mengakui bahwa kepuasan audiens, terpenuhinya hak sponsor, dan kelancaran teknis panggung sama-sama menentukan keberhasilan acara secara keseluruhan.
+
+### Options dan Trade-off yang Dibahas
+
+| Opsi negosiasi | Mekanisme & pembagian sumber daya | Keuntungan (Benefit) | Trade-off / Konsekuensi | Keputusan |
+|---|---|---|---|---|
+| **Opsi 1: Pemotongan proporsional rata (Potong 12 menit tiap divisi)** | Durasi konten Acara, slot sponsor Humas, dan jeda teknis Lapangan masing-masing dipotong 12 menit; dana Rp450.000 dibagi tiga rata. | Terlihat adil secara matematis dan cepat diputuskan. | Jeda teknis tersisa 8 menit (berisiko *chaotic* di panggung) dan slot sponsor tidak memenuhi durasi minimal *MoU*. | **Ditolak** (mengorbankan keamanan teknis dan melanggar kontrak). |
+| **Opsi 2: Integrasi *ad-libs* sponsor + pemadatan transisi konten + alokasi dana berbasis prioritas teknis** | Slot 20 menit Humas dipecah menjadi 4 segmen *ad-libs* MC berdurasi 3 menit di sela *changeover* alat (hemat 20 menit); sesi tanya-jawab panel Acara dipadatkan 10 menit (hemat 10 menit); jeda Lapangan disesuaikan menjadi 15 menit (hemat 5 menit). Dana Rp450.000 dialokasikan Rp250.000 untuk perlengkapan teknis Lapangan dan Rp200.000 untuk materi publikasi digital Humas. | Total durasi berkurang tepat **35 menit** sesuai batas 21.30 WIB, kewajiban kontrak sponsor tetap terpenuhi 100%, dan kualitas penampilan utama tidak terpotong. | MC dan tim Humas harus menyiapkan naskah transisi yang sangat padat; kru Lapangan harus bekerja dengan skema paralel saat pergantian alat. | **Disepakati bersama** |
+| **Opsi 3: Mengajukan perpanjangan jam gedung 30 menit menggunakan sisa dana** | Menggunakan Rp300.000 dari sisa dana untuk membayar biaya lembur gedung hingga pukul 22.00 WIB. | Tidak ada durasi segmen yang perlu dipangkas. | Sisa dana Rp150.000 tidak cukup menutup kebutuhan teknis Lapangan dan media Humas, serta izin gedung berisiko ditolak pengelola. | **Ditolak** (risiko penolakan izin terlalu tinggi). |
+
+## Negotiation evidence, agreement/dissent, dan relationship review
+
+### Transkrip Negosiasi Multi-Pihak (Google Meet, 21 November 2026)
+
+> **Akmal (Fasilitator - Framing Common Ground):** “Teman-teman, makasih udah hadir. Kita punya tujuan yang sama: acara selesai jam 21.30 WIB tanpa denda gedung, konten tetap keren, sponsor aman, dan kru lapangan nggak kewalahan. Saat ini total jadwal kita kelebihan 35 menit dan ada sisa dana Rp450.000. Biar nggak tarik-menarik posisi, coba kita bedah kebutuhan paling mendasar dari tiap divisi dulu ya.”
+>
+> **R. (Acara):** “Dari Acara, yang paling krusial itu durasi penampilan utama jangan sampai dipotong karena mereka udah fix setlist. Kalau tanya-jawab panel dipadatkan 10 menit dari 30 ke 20 menit masih aman asal pertanyaan dikurasi.”
+>
+> **K. (Humas):** “Kalau dari Humas, yang wajib secara kontrak itu penyebutan nama 3 sponsor dan 5 medpar minimal 4 kali selama acara, plus logo tampil. Sebenarnya nggak harus berdiri sendiri 20 menit kalau memang bisa disisipin di transisi MC, asal durasi total penyebutannya tetap sekitar 12 menit dan ada tampilan visual di layar.”
+>
+> **F. (Lapangan):** “Nah kalau sponsor masuk pas transisi MC sambil kru ganti alat, itu malah ngebantu nutup waktu kosong di panggung! Jadi jeda ganti alat bisa gue padatin dari 20 menit ke 15 menit, asal gue dapet tambahan dana Rp250.000 buat sewa kabel cadangan dan baterai mic biar nggak ada kendala teknis pas changeover.”
+>
+> **K. (Humas - Dissent / Catatan Keberatan Awal):** “Gue setuju konsep transisi MC, tapi kalau dana teknis ambil Rp250.000, sisa Rp200.000 nggak cukup buat cetak standing banner sponsor yang baru konfirmasi kemarin.”
+>
+> **Akmal (Facilitating Trade-off):** “Bagaimana kalau standing banner fisik diganti tampilan loop di LED/proyektor panggung yang nggak butuh biaya cetak, jadi Rp200.000-nya fokus dipakai Humas untuk keperluan publikasi medpar dan voucher konsumsi tamu sponsor? Dengan begitu Lapangan dapat Rp250.000 untuk keamanan teknis, dan kewajiban visual sponsor tetap tayang lebih besar di layar utama.”
+>
+> **K. (Humas):** “Oh iya bener juga, tampil di layar panggung malah lebih kelihatan audiens daripada banner di pojok. Oke, Humas setuju Rp200.000 dengan skema layar utama.”
+>
+> **R. (Acara) & F. (Lapangan):** “Setuju, pas banget pembagiannya.”
+
+### Agreement Eksplisit & Dokumentasi Dissent
+
+| Poin Kesepakatan (Agreement) | Owner | Deadline | Status & Indikator |
+|---|---|---|---|
+| **1. Revisi Rundown (-35 menit):** Pemadatan Q&A panel (-10 menit), integrasi slot sponsor ke 4 transisi MC (-20 menit), dan penyesuaian jeda teknis menjadi 15 menit (-5 menit). | R. (Koordinator Acara) | Minggu, 22 Nov 2026, pukul 18.00 WIB | Dokumen *rundown* final terkunci selesai tepat pukul 21.30 WIB. |
+| **2. Naskah *Ad-libs* Transisi & Aset Visual Sponsor:** Menyusun 4 skrip transisi MC (3 menit/segmen) dan file visual *looping* sponsor untuk layar utama panggung. | K. (Koordinator Humas) | Senin, 23 Nov 2026, pukul 20.00 WIB | Seluruh kewajiban *MoU* sponsor dan *media partner* terakomodasi tanpa segmen terpisah. |
+| **3. Skema *Changeover* Paralel & Pengadaan Teknis:** Alokasi dana Rp250.000 untuk baterai/kabel cadangan dan pembagian zona kru panggung selama 15 menit jeda. | F. (Koordinator Lapangan) | Selasa, 24 Nov 2026, pukul 15.00 WIB | Peralatan cadangan siap dan simulasi *changeover* berjalan di bawah 15 menit. |
+| **4. Pengesahan Alokasi Dana Sisa Rp450.000:** Rp250.000 untuk Lapangan dan Rp200.000 untuk Humas. | Akmal (PJ Acara) | Minggu, 22 Nov 2026, pukul 12.00 WIB | Nota pencairan dana disetujui bendahara dan dikirim ke grup panitia. |
+
+**Catatan Dissent (Keberatan yang Dicatat & Batasannya):**
+- **Keberatan K. (Humas):** K. mencatat bahwa penghapusan *standing banner* fisik berisiko mengurangi eksposur di area lobi luar ruangan. Sebagai batas pengaman (*boundary*), disepakati bahwa jika salah satu sponsor meminta bukti foto lobi secara spesifik sebelum H-1, Humas berhak mengajukan relokasi 1 *standing banner* pinjaman dari sekretariat himpunan tanpa biaya cetak baru.
+- **Keberatan F. (Lapangan):** F menegaskan bahwa jeda 15 menit adalah batas minimum mutlak; jika pengisi acara utama molor lebih dari 3 menit, MC wajib langsung memotong sesi interaksi audiens agar jam 21.30 WIB tidak terlampaui.
+
+### Relationship Review Pasca-Negosiasi
+
+Setelah sesi negosiasi selesai, saya melakukan pengecekan singkat terhadap dinamika hubungan antar-koordinator di grup panitia:
+- **Suasana kolaborasi:** Ketegangan awal antara Humas dan Lapangan mereda sepenuhnya setelah solusi layar utama dan pembagian dana disepakati. Ketiga koordinator langsung saling berkoordinasi di grup untuk menyelaraskan *cue* MC dan pergantian alat.
+- **Persepsi keadilan (*fairness*):** Tidak ada divisi yang merasa dikalahkan karena keputusan diambil berdasarkan kepentingan mendasar (*underlying interest*) masing-masing, bukan tekanan hierarki.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & target** | Memetakan 3 koordinator divisi dengan *objective*, *constraint*, *authority*, dan *TAIDA state* berbeda (*Desire*, *Attention*, *Interest*) serta memfasilitasi pergerakan semuanya menuju *Action*. |
+| **Objective & state** | *Objective* memangkas kelebihan durasi 35 menit dan membagi dana Rp450.000 tercapai. Ketiga stakeholder berpindah ke *state Action* dengan komitmen tugas spesifik. |
+| **Repertoire & language** | Menggunakan *framing common ground* di awal, memisahkan *position* dari *interest*, menawarkan *trade-off* kreatif (layar utama menggantikan *banner* cetak), serta merangkum keputusan berbasis *owner* dan *deadline*. |
+| **Response & adaptation** | Saat K. menyampaikan keberatan terkait kurangnya dana cetak *banner*, saya tidak memaksakan pemotongan, melainkan mengalihkan media eksposur ke layar LED panggung yang justru memberi nilai visual lebih tinggi. |
+| **Agreement/action** | *Agreement* tercatat eksplisit dengan 4 poin tindakan, *owner*, *deadline*, serta dokumentasi *dissent* dan batas pengaman (*boundary*) yang jelas. |
+| **Relationship outcome** | Hubungan kerja lintas divisi tetap solid dan saling mendukung; koordinasi teknis lanjutan berjalan lancar tanpa residu konflik. |
+
+## Penggunaan AI
+
+Saya menggunakan AI untuk membantu menyusun kerangka tabel *stakeholder person map* dan matriks perbandingan *position–interest* serta merapikan tata bahasa Indonesia pada laporan refleksi ini. Seluruh skenario negosiasi panitia, angka durasi (35 menit, batas 21.30 WIB), nominal anggaran (Rp450.000), transkrip percakapan antar-koordinator, serta rincian *agreement* dan *dissent* berasal dari pengalaman koordinasi nyata dan diperiksa kembali agar tetap akurat.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Seusai rapat negosiasi, K. (Humas) dan F. (Lapangan) menyampaikan tanggapan positif di grup panitia bahwa alur diskusi terasa adil dan solutif (*“Mantap Mal, pembagian waktunya jadi masuk akal banget dan nggak ada yang ngerasa dikorbanin”*).
+
+**Adaptation/replay:** Menggali *underlying interest* di balik tuntutan durasi 20 menit Humas membuka ruang solusi integrasi *ad-libs* transisi MC yang sekaligus memecahkan masalah jeda kosong Lapangan.
+
+**Next practice:** Pada fasilitasi negosiasi multi-pihak berikutnya, saya akan selalu memulai dengan menyepakati *common ground* dan batasan objektif (*hard constraints*) di 5 menit pertama sebelum membahas pembagian sumber daya agar diskusi tidak terjebak pada perdebatan posisi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Memetakan *objective*, *constraint*, *authority*, dan *multi-state TAIDA* dari tiga stakeholder secara akurat dan proporsional. |
+| **Objective & State** | 4 | Berhasil memfasilitasi perpindahan *state* seluruh stakeholder dari *Attention/Interest/Desire* menuju *Action* yang selaras. |
+| **Repertoire, Language & AI** | 3 | Menggunakan analisis *position–interest*, *common ground*, dan bahasa fasilitasi yang netral; penggunaan AI dijelaskan secara transparan. |
+| **Response & Adaptation** | 4 | Merespons keberatan (*dissent*) anggaran cetak *banner* dengan alternatif layar panggung tanpa mengurangi nilai eksposur sponsor. |
+| **Agreement, Action & Relationship** | 4 | Menghasilkan *agreement* eksplisit dengan *owner* dan *deadline*, mencatat *dissent* secara jujur, serta menjaga harmoni hubungan lintas divisi. |
+
+**Total:** 19 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+:::

@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "19/20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -18,8 +18,98 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 - Problem/opportunity pitch serta evidence.
 - Response, state sesudah pitch, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
-{{< include ../includes/evidence-template.md >}}
+**Tanggal dan setting:** *Discovery interview* berlangsung pada 28 Oktober 2026 selama sekitar 25 menit secara tatap muka di kampus bersama D (nama samaran untuk koordinator teknis/ketua kelompok tugas besar mata kuliah). *Follow-up attention pitch* dilakukan pada Rabu, 4 November 2026 melalui pesan WhatsApp menjelang pengumpulan progres tahap kedua.
+
+**Objective dan initial state:** *Objective follow-up* saya adalah memastikan apakah ketidakteraturan alur pengumpulan file dan *version control* memang merupakan masalah utama yang paling menghambat kerja kelompok bagi D, sebelum mengusulkan solusi. *Initial state* D adalah *Problem aware* berdasarkan sesi *discovery* sebelumnya: ia telah menjelaskan bahwa pada pengumpulan tahap pertama, waktu kelompok terbuang sekitar 2 jam menjelang *deadline* hanya untuk menggabungkan file dengan format berbeda dan mengecek versi terbaru yang tersebar di obrolan grup.
+
+## Target map
+
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| **D, koordinator teknis / ketua kelompok** | Menanggung beban langsung saat menggabungkan seluruh bagian tugas menjelang *deadline* dan terkena dampak keterlambatan versi file. | Memiliki wewenang penuh menetapkan struktur folder kerja, aturan penamaan file, dan alur *handover* antaranggota kelompok. | *Problem aware* berdasarkan *interview* sebelumnya |
+| **Anggota kelompok (kontributor bagian)** | Terkena dampak kebingungan saat harus merevisi ulang bagian yang tertimpa (*overwrite*), tetapi bekerja mengikuti instruksi koordinator. | Dapat mengatur kerapihan file masing-masing, namun tidak berwenang mewajibkan standar sistem kerja ke seluruh anggota. | Belum dinilai |
+| **Asisten praktikum / dosen pengampu** | Menerima dokumen hasil akhir dan menilai ketepatan waktu pengumpulan kelompok. | Menetapkan *deadline* dan rubrik tugas, tetapi tidak mengatur alur kolaborasi file internal kelompok. | Belum dinilai |
+
+**Target yang dipilih:** D (koordinator teknis / ketua kelompok).
+
+**Alasan pemilihan:** D memiliki *direct experience* terhadap kekacauan penggabungan file menjelang *deadline*, telah memberikan bukti konkret (waktu 2 jam terbuang dan insiden file tertimpa), serta memegang *authority* langsung untuk menerapkan standar alur kerja di dalam kelompok.
+
+## Attention pitch
+
+> “D, dari obrolan kita kemarin soal evaluasi tahap pertama, berarti alur pengumpulan file yang tersebar di chat dan format yang beda-beda bikin waktu lo kebuang hampir 2 jam menjelang deadline cuma buat ngecek versi terbaru dan ngerapiin dokumen, ya. Menurut lo, alur handover file ini memang masalah utama yang paling perlu diberesin sebelum progres tahap dua, atau ada kendala lain yang lebih krusial seperti pembagian beban tugas anggotanya?”
+
+**Evidence yang digunakan:** Catatan/parafrasa *discovery* 28 Oktober 2026, fakta waktu 2 jam yang terbuang untuk merapikan versi dokumen tahap pertama, insiden file revisi yang saling menimpa, serta *shared problem statement* yang telah dikonfirmasi D.
+
+## Response dan state assessment
+
+**Response target:** Pada *follow-up* WhatsApp 4 November 2026, D menjawab: *“Itu sih masalah utama menurut gue, soalnya pembagian tugas anak-anak sebenarnya udah jelas, tapi pas mau digabungin selalu berantakan gara-gara versi file di chat numpuk.”* Sebelumnya, D juga telah mengonfirmasi rumusan masalah dengan pernyataan *“Iya bener banget, itu yang paling bikin keteteran pas kemarin.”*
+
+**State setelah pitch:** *State* D berpindah dari *Problem aware* menjadi **Attention** karena ia secara langsung mengakui bahwa alur *handover* dan versi file adalah masalah utama yang paling mendesak. Pada respons pertama ini, D belum menunjukkan sinyal *Interest* karena belum menanyakan bentuk solusi maupun mengusulkan langkah tindak lanjut.
+
+**Adaptation:** Karena D baru mengonfirmasi masalah tetapi belum menunjukkan minat pada solusi (*lack of interest signal*), saya mengajukan pertanyaan terbuka yang memicu eksplorasi solusi ringan: *“Oke, kalau masalah utamanya di alur handover dan versi file, kira-kira sistem pengumpulan seperti apa yang paling praktis dan nggak ribet buat diterapin ke semua anggota?”* D kemudian menyebutkan kriteria solusi: tempat penyimpanan terpusat (satu folder Drive/repositori bersama), aturan penamaan file yang jelas dengan nomor versi, dan *cut-off time* pengumpulan sebelum waktu penggabungan. Saya menindaklanjutinya dengan usulan membuat template folder terpusat beserta format penamaan file baku untuk diuji coba pada pengumpulan minggu ini. Adaptasi ini menghasilkan sinyal *Interest* dan persetujuan *action* awal.
+
+## Evidence
+
+**Transcript follow-up WhatsApp, 4 November 2026:**
+
+> **Akmal:** “D, dari obrolan kita kemarin soal evaluasi tahap pertama, berarti alur pengumpulan file yang tersebar di chat dan format yang beda-beda bikin waktu lo kebuang hampir 2 jam menjelang deadline cuma buat ngecek versi terbaru dan ngerapiin dokumen, ya. Menurut lo, alur handover file ini memang masalah utama yang paling perlu diberesin sebelum progres tahap dua, atau ada kendala lain yang lebih krusial seperti pembagian beban tugas anggotanya?”
+>
+> **D:** “Itu sih masalah utama menurut gue, soalnya pembagian tugas anak-anak sebenarnya udah jelas, tapi pas mau digabungin selalu berantakan gara-gara versi file di chat numpuk.”
+
+**Bukti percakapan adaptasi dari Attention menuju solusi (4 November 2026):**
+
+> **Akmal:** “Oke, kalau masalah utamanya di alur handover dan versi file, kira-kira sistem pengumpulan seperti apa yang paling praktis dan nggak ribet buat diterapin ke semua anggota?”
+>
+> **D:** “Yang paling masuk akal sih semua file dikumpulin di satu folder Drive terpusat aja jangan lewat chat, terus wajib pake format nama file yang ada versi dan inisialnya biar nggak ketimpa, sama dikumpulin maksimal 3 jam sebelum deadline final.”
+
+**Bukti signal Interest dan agreement action awal (4 November 2026):**
+
+> **Akmal:** “Gimana kalau gue bantu bikinin struktur folder Drive-nya sama contoh format penamaan filenya malam ini buat kita uji coba di pengumpulan tahap kedua hari Jumat nanti?”
+>
+> **D:** “Boleh banget Mal, gas cobain di tahap dua ini biar kelihatan bedanya. Kirim aja link-nya ke grup entar gue yang arahin anak-anak.”
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & target** | D dipilih karena mengalami dampak langsung saat menggabungkan dokumen kelompok dan memiliki otoritas menetapkan standar kerja tim. |
+| **Objective & state** | *Objective follow-up* untuk memvalidasi masalah utama tercapai. *State* D berpindah dari *Problem aware* ke *Attention* setelah mengakui masalah *handover* file sebagai kendala utama, lalu bergerak ke *Interest* setelah adaptasi. |
+| **Repertoire & language** | Menggunakan parafrasa hasil *discovery*, bukti konkret durasi 2 jam yang terbuang, serta pertanyaan pembanding dengan gaya bahasa santai sesama rekan kelompok. |
+| **Response & adaptation** | Respons awal D hanya mengonfirmasi masalah tanpa meminta solusi. Saya mengadaptasi percakapan dengan pertanyaan pemicu solusi, yang mendorong D merumuskan kriteria solusi (folder terpusat, format nama berversi, *cut-off time*) dan menyetujui uji coba. |
+| **Agreement/action** | D mengakui masalah utama dan menyepakati uji coba penggunaan folder Drive terpusat serta standar penamaan file pada pengumpulan tahap kedua. |
+| **Relationship outcome** | D merespons secara antusias dan kolaboratif tanpa merasa dikritik kepemimpinannya karena *pitch* berfokus pada perbaikan alur kerja bersama. |
+
+## Penggunaan AI
+
+Saya menggunakan AI untuk membantu merapikan struktur penulisan dan tata bahasa Indonesia pada laporan refleksi ini. Seluruh konteks kejadian, *target map*, *attention pitch*, serta kutipan percakapan dengan D berasal dari catatan interaksi dan diperiksa kembali agar tetap konsisten dan akurat. Nama D digunakan sebagai samaran untuk menjaga privasi.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** D menjawab, *“Itu sih masalah utama menurut gue, soalnya pembagian tugas anak-anak sebenarnya udah jelas, tapi pas mau digabungin selalu berantakan gara-gara versi file di chat numpuk”*, yang mengonfirmasi bahwa alur *handover* dan versi file memang masalah utama kelompok.
+
+**Adaptation/replay:** Ketika respons awal D belum menunjukkan sinyal minat (*Interest*) terhadap langkah lanjutan, saya mengalihkan percakapan dari validasi masalah ke eksplorasi kriteria solusi yang praktis. Hasilnya, D merumuskan tiga kriteria solusi dan menyetujui uji coba kecil pada tahap kedua.
+
+**Next practice:** Pada sesi berikutnya (Minggu 7), saya akan mengevaluasi efektivitas penggunaan folder terpusat dan standar penamaan file tersebut bersama D serta menanyakan apakah waktu penggabungan dokumen berkurang secara signifikan.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | *Target map* membandingkan tiga peran secara jelas; D dipilih berdasarkan *direct experience*, *relevance*, dan *authority* dalam kelompok. |
+| **Objective & State** | 4 | *Objective follow-up* tercapai dan perpindahan *state* dari *Problem aware* ke *Attention* hingga *Interest* terdokumentasi dalam transkrip percakapan. |
+| **Repertoire, Language & AI** | 3 | *Pitch* memanfaatkan evidence angka konkret (waktu 2 jam) dan pertanyaan pembanding; penggunaan AI dijelaskan secara transparan. |
+| **Response & Adaptation** | 4 | Pertanyaan pemicu solusi merespons *lack of interest signal* secara tepat sehingga D menetapkan kriteria solusinya sendiri. |
+| **Agreement, Action & Relationship** | 4 | D menyetujui uji coba sistem folder terpusat dan format penamaan file dalam suasana komunikasi yang suportif dan kolaboratif. |
+
+**Total:** 19 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+:::

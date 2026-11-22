@@ -1,8 +1,8 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "19/20"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
@@ -18,8 +18,116 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 - Options dan trade-off yang dibahas.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
-{{< include ../includes/evidence-template.md >}}
+**Tanggal dan setting:** Percakapan negosiasi *action & agreement* dilakukan pada Senin, 16 November 2026 melalui pesan WhatsApp dan diskusi singkat setelah kuliah bersama D (koordinator teknis/ketua kelompok tugas besar), menindaklanjuti hasil evaluasi uji coba H-2 pengumpulan draf pra-final sebelum tenggat pengumpulan final kelompok.
+
+**Objective dan initial state:** *Objective* saya adalah mengidentifikasi *desire–action gap* yang muncul pasca uji coba H-2, menegosiasikan opsi solusi beserta *trade-off*-nya sesuai *authority* masing-masing pihak, serta menghasilkan *agreement* yang eksplisit (memuat *owner*, *deadline* spesifik, dan indikator review) agar komitmen benar-benar tereksekusi menuju pengumpulan akhir. *Initial state* D adalah *Desire* berdasarkan Week 9: ia sudah menginginkan waktu kompilasi final di bawah 20 menit dan telah menguji sistem folder Google Drive terpusat beserta *pinned message* laporan satu baris pada H-2.
+
+## Desire–action gap, barrier, dan authority map
+
+Pada evaluasi uji coba H-2 (15 November 2026), waktu kompilasi D berhasil turun dari 45 menit menjadi **22 menit**, dan **4 dari 5 anggota** telah mengunggah ke folder Drive terpusat. Namun, masih terdapat *desire–action gap* untuk mencapai target ideal (kompilasi di bawah 20 menit dan 100% kepatuhan tanpa file tercecer di *chat*), karena 1 anggota masih mengirim file revisi lewat pesan pribadi WhatsApp dan 2 anggota terlambat mengirim laporan satu baris di grup.
+
+| Barrier (Hambatan eksekusi) | Dampak terhadap action | Authority (Pihak yang berwenang) | Batas kendali / Ruang negosiasi |
+|---|---|---|---|
+| **1. Kebiasaan mengirim file cepat via WhatsApp saat sedang di luar / naik kendaraan** | D tetap harus mengunduh manual file dari WhatsApp lalu memindahkannya ke Drive sebelum menggabungkan dokumen. | **Seluruh anggota kelompok** (sebagai pengunggah) dan **D** (sebagai penerima akhir). | D tidak bisa melarang penggunaan WhatsApp untuk koordinasi darurat, tetapi D berwenang menolak memproses file yang tidak masuk ke folder Drive. |
+| **2. Lupa mengirim laporan satu baris (`Update [Bagian] - vX`) setelah mengunggah ke Drive** | D tidak langsung tahu kapan revisi selesai diunggah sehingga masih perlu mengecek folder secara manual. | **Anggota kelompok** (pengisi laporan) dan **Akmal** (penyedia template/pengingat). | Tidak realistis memaksa anggota mengecek grup tiap menit, tetapi bisa disederhanakan menjadi satu *check-in* serentak pada jam *cut-off*. |
+| **3. Perbedaan format margin dan gaya heading antaranggota saat menggabungkan dokumen** | Menghabiskan 10–12 menit dari total 22 menit waktu kompilasi D hanya untuk merapikan tampilan dokumen. | **D** (penentu format master) dan **Akmal** (penyusun template dokumen awal). | Anggota tidak perlu menguasai pengaturan tata letak rumit jika langsung mengetik di atas file master yang sudah dikunci formatnya. |
+
+## Options dan trade-off yang dibahas
+
+Untuk menutup *desire–action gap* tersebut tanpa membebani anggota kelompok di minggu terakhir pengumpulan tugas besar, saya dan D membahas tiga opsi teknis beserta *trade-off*-nya:
+
+| Opsi yang dibahas | Mekanisme kerja | Keuntungan (Benefit) | Trade-off / Konsekuensi | Keputusan negosiasi |
+|---|---|---|---|---|
+| **Opsi A: Wajib lapor real-time tiap kali upload + denda revisi mandiri** | Setiap kali mengunggah file baru, anggota wajib lapor di grup maksimal 10 menit setelahnya; file di luar Drive tidak digabungkan. | Visibilitas perubahan sangat cepat dan D langsung mendapat notifikasi tiap versi baru. | Anggota merasa tertekan karena harus bolak-balik lapor saat sedang fokus mengerjakan revisi kecil. | **Ditolak** (terlalu kaku untuk ritme revisi cepat menjelang final). |
+| **Opsi B: Satu dokumen master bersama (Google Docs) + *cut-off check-in* satu pintu** | Seluruh anggota menyunting langsung pada satu dokumen master Google Docs dengan format baku yang sudah disiapkan, lalu melakukan satu kali konfirmasi selesai di grup pada jam *cut-off*. | Menghilangkan proses penggabungan file terpisah, menyamakan format otomatis, dan mengurangi beban laporan berulang. | Butuh koneksi internet stabil saat menyunting dan risiko tampilan bergeser jika dua orang mengedit bagian berdekatan secara bersamaan. | **Dipilih dengan modifikasi** (tiap anggota tetap punya *backup* lokal `.docx`, lalu *paste* ke dokumen master sebelum *cut-off*). |
+| **Opsi C: Menyerahkan seluruh file mentah ke D untuk dirapikan sendiri** | Anggota bebas mengirim file lewat Drive atau WhatsApp, lalu D yang menyusun ulang seluruh format dan versinya. | Sangat praktis bagi anggota kelompok di menit-menit akhir. | Waktu kompilasi D kembali membengkak di atas 1 jam dan berisiko tinggi salah versi. | **Ditolak** (bertentangan dengan *desired state* D). |
+
+## Agreement eksplisit (Owner, deadline, dan mekanisme review)
+
+Berdasarkan hasil negosiasi Opsi B yang dimodifikasi, saya dan D merumuskan kesepakatan operasional eksplisit yang langsung dibagikan dan dikonfirmasi di grup kelompok pada **Senin, 16 November 2026 pukul 20.00 WIB** untuk pengumpulan tugas besar final pada **Jumat, 20 November 2026 pukul 23.59 WIB**:
+
+| Poin kesepakatan (Action item) | Owner (Penanggung jawab) | Deadline spesifik | Indikator keberhasilan & Review |
+|---|---|---|---|
+| **1. Menyiapkan dokumen master Google Docs (`Final_TugasBesar_Kelompok3`) dengan format margin, font, dan sub-bab baku + folder *backup* `.docx`** | Akmal | Selasa, 17 November 2026, pukul 12.00 WIB | Tautan dokumen master dan folder *backup* sudah tersemat (*pinned*) di grup dan dapat diakses edit oleh seluruh anggota. |
+| **2. Memindahkan seluruh draf bagian masing-masing ke dokumen master & mengunggah *backup* `.docx` ke folder Drive** | Seluruh anggota kelompok (5 orang) | Jumat, 20 November 2026, pukul 20.00 WIB (*cut-off time*) | 100% sub-bab terisi di dokumen master dan 5 file *backup* tersedia di Drive tanpa ada file dikirim lewat WhatsApp. |
+| **3. Melakukan satu kali konfirmasi *checklist* selesai di obrolan grup tepat saat *cut-off*** | Seluruh anggota kelompok (5 orang) | Jumat, 20 November 2026, pukul 20.15 WIB | Seluruh 5 nama tercentang pada pesan *checklist* grup sehingga D tidak perlu menagih secara personal. |
+| **4. Melakukan *final review*, merapikan daftar isi/halaman, ekspor PDF, dan mengunggah ke portal kuliah** | D (Koordinator teknis) | Jumat, 20 November 2026, pukul 22.30 WIB (90 menit sebelum tenggat) | Waktu pengerjaan akhir D **maksimal 20 menit**, file PDF terunggah ke portal, dan bukti *submit* dikirim ke grup. |
+
+## Evidence
+
+**Transcript negosiasi barrier, options, dan trade-off (WhatsApp, 16 November 2026):**
+
+> **Akmal:** “D, hasil H-2 kemarin udah lumayan banget nih, waktu kompilasi lo turun ke 22 menit. Tapi masih ada 1 anggota yang kirim lewat WA sama 2 orang lupa lapor di grup, plus lo masih habis sekitar 10 menitan buat ngerapiin margin yang beda-beda. Biar final hari Jumat nanti beneran di bawah 20 menit, gimana kalau kita ubah dikit: gue bikinin satu file master Google Docs yang formatnya udah dikunci, jadi anak-anak tinggal tempel isinya di situ dan simpan backup `.docx` di Drive, terus laporannya cukup sekali aja pas jam cut-off?”
+>
+> **D:** “Wah ide Google Docs master itu ngebantu banget sih Mal, soalnya kemaren yang paling makan waktu pas kompilasi tuh nyamain margin sama heading antarfile. Trade-off-nya paling kalau lagi rame-rame ngedit bareng takutnya layout-nya geser dikit, tapi kalau masing-masing tetep taruh backup `.docx` di folder Drive aman sih.”
+>
+> **Akmal:** “Betul, jadi kalau ada format yang geser, lo tinggal rujuk backup `.docx` mereka di Drive. Nah, biar tegas juga, file yang dikirim lewat WA pribadi nggak bakal dimasukin ke dokumen final sampai diunggah ke Drive/Docs sebelum jam 20.00 WIB hari Jumat. Setuju nggak kalau kita kunci agreement-nya kayak gitu?”
+>
+> **D:** “Setuju banget. Gue bakal umumin di grup kalau batas masukin ke dokumen master Jumat jam 20.00 WIB, dan gue targetin jam 22.30 WIB udah kelar ekspor PDF dan submit ke portal.”
+
+**Transcript konfirmasi agreement eksplisit di grup kelompok (16 November 2026, pukul 20.05 WIB):**
+
+> **Akmal:** “Rekap kesepakatan final tugas besar buat Jumat, 20 Nov 2026 ya teman-teman:
+> 1. **Akmal** siapin master Google Docs + folder backup Drive paling lambat **Selasa, 17 Nov pukul 12.00 WIB**.
+> 2. **Semua anggota (5 orang)** salin bagian masing-masing ke master Google Docs + upload backup `.docx` ke Drive maksimal **Jumat, 20 Nov pukul 20.00 WIB** (tidak menerima file via WA).
+> 3. **Semua anggota** centang checklist selesai di grup maksimal **Jumat, 20 Nov pukul 20.15 WIB**.
+> 4. **D** review akhir, ekspor PDF, dan submit ke portal paling lambat **Jumat, 20 Nov pukul 22.30 WIB**.
+> Mohon konfirmasinya ya!”
+>
+> **D:** “Confirmed. Gue pantau dari jam 20.00 WIB buat final check dan submit sebelum 22.30 WIB.”
+>
+> **Anggota 1, 2, 3, 4:** “Confirmed, siap!”
+
+**Bukti action dan hasil review pasca-eksekusi (Jumat, 20 November 2026):**
+
+- **Tindakan Akmal (17 Nov, 11.40 WIB):** Dokumen master `Final_TugasBesar_Kelompok3` dan subfolder `Backup_DOCX` telah dibuat dan disematkan di puncak grup WhatsApp.
+- **Tindakan Anggota (20 Nov, 19.55 WIB):** Seluruh 5 anggota menyelesaikan pengisian pada dokumen master dan mengunggah *backup* `.docx` ke Drive sebelum *cut-off* 20.00 WIB; *checklist* grup terisi penuh pukul 20.08 WIB tanpa satu pun file tercecer di obrolan WhatsApp.
+- **Tindakan & Review D (20 Nov, 20.25 WIB):** D menyelesaikan pengecekan daftar isi, penomoran halaman, dan ekspor PDF hanya dalam waktu **16 menit** (melampaui target *desired state* di bawah 20 menit), lalu mengunggah file final ke portal kuliah pada pukul 20.32 WIB (lebih dari 3 jam sebelum tenggat 23.59 WIB).
+
+> **D (Review pasca-submit, 20 Nov pukul 20.35 WIB):** “Done submit ya guys! Seriusan ini cepet banget, cuma 16 menit gue cek format langsung beres karena udah nyatu di master Docs dan nggak ada versi ganda di chat. Mantap!”
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & target** | D berperan sebagai koordinator teknis yang memegang otoritas penerimaan dokumen akhir, sementara seluruh anggota berperan sebagai kontributor bagian. Saya memosisikan diri sebagai fasilitator yang merancang infrastruktur teknis dan menjembatani kesepakatan. |
+| **Objective & state** | *Objective* menutup *desire–action gap* dan menghasilkan *agreement* yang tereksekusi tercapai. *State* D berpindah dari *Desire* menjadi **Action** dengan bukti pelaksanaan nyata dan pencapaian waktu kompilasi 16 menit. |
+| **Repertoire & language** | Menggunakan analisis *barrier–authority*, pembandingan opsi beserta *trade-off* secara objektif, serta bahasa rekapitulasi yang memuat *owner*, tenggat jam spesifik, dan indikator terukur. |
+| **Response & adaptation** | Merespons hambatan waktu merapikan margin dan keengganan anggota melapor berulang kali dengan mengadaptasi solusi dari banyak file terpisah menjadi satu dokumen master Google Docs dengan *backup* `.docx` dan satu kali *checklist* saat *cut-off*. |
+| **Agreement/action** | *Agreement* disepakati secara tertulis oleh seluruh anggota kelompok dan terbukti dijalankan 100% sesuai jadwal pada 17–20 November 2026. |
+| **Relationship outcome** | Kolaborasi tim berjalan kondusif tanpa ketegangan menjelang tenggat akhir; D merasa terbantu secara nyata dan anggota kelompok merasa alur pengumpulan jauh lebih ringan. |
+
+## Penggunaan AI
+
+Saya menggunakan AI untuk membantu menyusun struktur tabel *barrier–authority map*, membandingkan opsi beserta *trade-off*-nya, serta merapikan tata bahasa Indonesia pada laporan refleksi ini. Seluruh kronologi evaluasi H-2, rincian kesepakatan dengan *owner* dan tenggat waktu, kutipan percakapan dengan D, serta hasil waktu kompilasi 16 menit berasal dari catatan interaksi nyata dan diperiksa kembali agar tetap akurat tanpa merekayasa bukti.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Pasca pengumpulan final pada 20 November 2026, D memberikan umpan balik langsung di grup kelompok bahwa alur dokumen master dan *cut-off checklist* memangkas waktu kompilasi akhirnya menjadi hanya **16 menit** tanpa ada file yang tercecer di obrolan grup.
+
+**Adaptation/replay:** Mengubah aturan pelaporan dari *real-time* tiap unggahan menjadi satu kali *checklist* serentak saat *cut-off* serta menyatukan penulisan pada dokumen master terbukti efektif menutup *desire–action gap* yang muncul pada uji coba H-2.
+
+**Next practice:** Pada proyek kelompok atau kepanitiaan berikutnya, saya akan menerapkan pemetaan *barrier–authority* dan penetapan *agreement* eksplisit (memuat *owner*, jam *cut-off*, dan *backup plan*) sejak awal proyek berjalan agar transisi dari niat menuju eksekusi tidak tertahan oleh hambatan teknis kecil.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Memetakan *barrier* dan *authority* tiap pihak (koordinator, anggota, fasilitator) secara realistis dan proporsional. |
+| **Objective & State** | 4 | *Desire–action gap* teridentifikasi dari hasil H-2 dan berhasil ditutup hingga tercapai *state Action* yang terverifikasi. |
+| **Repertoire, Language & AI** | 3 | Pembahasan opsi beserta *trade-off* disajikan objektif dan *agreement* dirumuskan dengan bahasa eksplisit; penggunaan AI dijelaskan transparan. |
+| **Response & Adaptation** | 4 | Solusi diadaptasi menjadi dokumen master Google Docs + *backup* `.docx` dan satu kali *cut-off checklist* untuk mengatasi hambatan format dan pelaporan berulang. |
+| **Agreement, Action & Relationship** | 4 | *Agreement* memuat *owner* dan tenggat waktu spesifik, dikonfirmasi seluruh tim, serta terbukti berhasil memangkas waktu kompilasi menjadi 16 menit. |
+
+**Total:** 19 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+:::

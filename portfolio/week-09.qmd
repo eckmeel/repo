@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "19/20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -18,8 +18,107 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
-{{< include ../includes/evidence-template.md >}}
+**Tanggal dan setting:** Percakapan *desire-state communication* dilakukan pada Rabu, 11 November 2026 melalui pesan WhatsApp dan diskusi singkat seusai kelas bersama D (koordinator teknis/ketua kelompok tugas besar), setelah kelompok menjalani uji coba awal sistem folder Google Drive terpusat pada pengumpulan tahap kedua.
+
+**Objective dan initial state:** *Objective* saya adalah membantu D merumuskan *desired state* yang spesifik dan terukur untuk penyelesaian proyek tahap akhir (final), menghubungkan fitur mekanisme solusi dengan *value* yang D inginkan, serta mengidentifikasi risiko dan *evidence threshold* sebelum berkomitmen mengadopsi sistem tersebut secara penuh. *Initial state* D adalah *Interest* berdasarkan Week 7: ia sudah menyambut baik struktur folder terpusat beserta template laporan satu baris di grup dan telah mencobanya pada skala kecil di tahap kedua.
+
+## Current state vs. desired state
+
+| Aspek | Current state (Kondisi saat ini) | Desired state (Kondisi yang diinginkan bersama) | Gap / Perubahan yang dituju |
+|---|---|---|---|
+| **Alur pengumpulan & versi file** | Sebagian anggota sudah mulai mengunggah ke folder Drive terpusat, tetapi saat revisi cepat mendekati *deadline* masih ada 1–2 anggota yang mengirim file lewat obrolan grup sehingga D tetap harus mengecek dua tempat. | 100% file progres dan revisi final terkumpul satu pintu di folder Drive terpusat dengan penamaan berversi baku (`Bab_vX_Inisial`) tanpa ada file tercecer di obrolan grup. | Menghilangkan duplikasi saluran pengiriman file (*single source of truth*). |
+| **Waktu & beban kompilasi akhir** | Waktu kompilasi dan pengecekan versi dokumen berkurang dari 2 jam menjadi sekitar 45 menit, tetapi D masih perlu menanyakan status revisi secara manual kepada anggota yang belum lapor. | Waktu kompilasi dokumen final maksimal 15–20 menit karena seluruh file sudah rapi sesuai format dan statusnya terlapor otomatis lewat template satu baris. | Menghemat 25–30 menit waktu koordinasi menjelang *deadline* final. |
+| **Kepatuhan & ketenangan kerja koordinator** | D masih merasa cemas menjelang *cut-off time* karena khawatir ada anggota yang mengunggah revisi di menit terakhir tanpa pemberitahuan. | D memiliki visibilitas penuh atas progres tiap sub-bab minimal 3 jam sebelum *deadline* sehingga proses *review* akhir berjalan tenang tanpa panik (*last-minute rush*). | Mengubah peran D dari "pengejar file" menjadi *reviewer* kualitas dokumen. |
+
+## Feature–benefit–value–outcome chain
+
+Untuk memastikan mekanisme solusi terhubung secara kredibel dengan *desired state* D, berikut adalah rantai nilai (*value chain*) yang dibahas dan disepakati bersama:
+
+| Feature (Fitur mekanisme) | Benefit (Manfaat langsung) | Value bagi target (D) | Measurable outcome (Hasil terukur) |
+|---|---|---|---|
+| **Struktur folder Drive terpusat + kunci akses edit per tahap** | Seluruh anggota mengunggah dan menyunting pada satu direktori baku sehingga tidak ada lagi file versi ganda di *chat* grup. | Menghemat energi mental D karena tidak perlu melacak riwayat pesan atau takut salah menggabungkan versi dokumen lama. | **0 file** tugas yang dikirim melalui chat grup pada pengumpulan tahap final; 100% berada di folder Drive. |
+| **Template notifikasi satu baris (`Update [Bagian] - v2`)** | D langsung mendapat pemberitahuan setiap kali ada unggahan revisi baru tanpa harus membuka folder berulang kali. | Memberikan rasa aman (*peace of mind*) dan kendali penuh atas progres kelompok tanpa terkesan melakukan *micromanagement*. | **100% unggahan revisi** disertai laporan satu baris maksimal 10 menit setelah file diunggah. |
+| **Aturan *cut-off time* 3 jam + *buffer* 1 jam revisi minor** | Memberikan jeda waktu khusus bagi D untuk menggabungkan dokumen dan mengecek konsistensi format sebelum tenggat dosen. | D dapat fokus meningkatkan kualitas isi laporan akhir dan beristirahat lebih awal alih-alih begadang memperbaiki format. | Waktu kompilasi akhir turun menjadi **kurang dari 20 menit**, dan dokumen terkumpul minimal **1 jam sebelum deadline**. |
+
+## Risk, evidence threshold, response, dan adaptation
+
+**Risiko yang diidentifikasi bersama target:**
+1. **Risiko kebiasaan lama (*revert to habit*):** Saat tekanan *deadline* final tinggi, anggota kelompok berisiko kembali mengirim file cepat lewat WhatsApp karena dianggap lebih praktis daripada membuka Google Drive di ponsel.
+2. **Risiko lupa mengisi laporan satu baris:** Anggota sudah mengunggah file ke Drive, tetapi lupa mengirim template update di grup sehingga D tidak menyadari adanya revisi baru.
+
+**Evidence threshold (Batas bukti kelayakan sebelum komitmen penuh):**
+D menetapkan syarat bukti konkret bahwa sistem ini layak dijadikan standar wajib kelompok hingga presentasi akhir:
+- Pada simulasi pengumpulan draf pra-final (H-2 sebelum *deadline* akhir), **minimal 4 dari 5 anggota kelompok** mampu mengunggah file sesuai format penamaan versi dan mengirimkan laporan satu baris di grup tanpa perlu diingatkan secara personal oleh D.
+- Waktu yang dibutuhkan D untuk menggabungkan draf pra-final tersebut tidak lebih dari **20 menit**.
+
+**Response target:** Ketika saya memaparkan *feature–benefit–value–outcome chain* dan menanyakan komitmennya menuju *desired state* tersebut, D merespons positif namun menyampaikan kekhawatiran terkait risiko anggota yang lupa melapor: *“Kalau soal folder terpusat gue yakin banget bisa bikin kompilasi jadi 15 menit aja sih Mal, dan itu ngebantu gue banget biar nggak stres pas hari-H. Cuma gue masih agak sangsi anak-anak bakal disiplin ngisi laporan satu baris pas lagi panik ngerjain revisi akhir.”*
+
+**Adaptation:** Merespons keraguan D pada risiko lupa melapor, saya tidak memaksakan komitmen permanen saat itu juga. Saya mengadaptasi kesepakatan dengan mengusulkan **uji coba berbatas (*time-boxed trial*) pada H-2 sebelum deadline final** dengan menambahkan satu *pinned message* berisi tautan folder dan format laporan satu baris di puncak obrolan grup agar anggota tidak perlu mengetik ulang format dari nol. Saya juga menyepakati bahwa jika pada H-2 nanti waktu kompilasi D masih di atas 20 menit atau lebih dari satu anggota mengirim file via *chat*, sistem akan dievaluasi ulang.
+
+**State setelah interaksi:** *State* D berpindah dari *Interest* menjadi **Desire** karena ia secara eksplisit menginginkan hasil akhir berupa waktu kompilasi di bawah 20 menit dan ketenangan menjelang *deadline*, menyepakati *evidence threshold* pada H-2, serta siap menjalankan uji coba penuh bersama kelompok.
+
+## Evidence
+
+**Transcript percakapan membangun desired state & value chain (WhatsApp, 11 November 2026):**
+
+> **Akmal:** “D, setelah kemarin kita coba folder Drive terpusat di tahap dua, waktu kompilasi lo udah turun dari 2 jam ke 45 menit ya. Nah buat tahap final nanti, kondisi ideal yang paling lo pengenin kayak gimana biar nggak keteteran sama sekali?”
+>
+> **D:** “Jujur gue pengen pas tahap final nanti semua file udah ngumpul satu pintu di Drive tanpa ada yang nyasar di chat lagi, jadi gue cuma butuh waktu sekitar 15–20 menitan buat gabungin dan cek kerapihan format, nggak perlu begadang ngejar-ngejar versi file kayak tahap satu.”
+>
+> **Akmal:** “Berarti kalau folder Drive satu pintu, format nama berversi, sama laporan satu baris di grup jalan konsisten, manfaat langsungnya lo nggak perlu bolak-balik ngecek folder dan punya waktu bersih 2 jam sebelum deadline buat review kualitas isi laporan, ya. Menurut lo hasil kayak gitu udah sesuai sama yang lo butuhin?”
+>
+> **D:** “Iya pas banget Mal. Kalau soal folder terpusat gue yakin banget bisa bikin kompilasi jadi 15 menit aja sih, dan itu ngebantu gue banget biar nggak stres pas hari-H. Cuma gue masih agak sangsi anak-anak bakal disiplin ngisi laporan satu baris pas lagi panik ngerjain revisi akhir.”
+
+**Transcript pembahasan risk, evidence threshold, dan adaptation (11 November 2026):**
+
+> **Akmal:** “Wajar sih D kalau khawatir anak-anak lupa pas lagi mepet. Gimana kalau format laporan satu baris sama link Drive-nya kita pin di atas grup biar tinggal copy-paste, terus kita pasang standar uji coba di pengumpulan draf H-2 besok: kalau minimal 4 dari 5 anggota upload rapi tanpa lo ingetin dan kompilasi lo beres di bawah 20 menit, sistem ini kita patenin sampai pengumpulan akhir. Kalau gagal, kita cari cara lain. Gimana menurut lo?”
+>
+> **D:** “Setuju banget tuh kalau ada patokan H-2 gitu. Jadi kelihatan buktinya dulu sebelum hari-H. Oke gas, gue pin formatnya di grup sekarang buat persiapan H-2.”
+
+*(Catatan: Transcript attention pitch Week 6 dan demonstrasi struktur folder serta hidden concern dari Week 7 menjadi evidence pendukung kesinambungan perpindahan state target).*
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & target** | D adalah koordinator teknis yang menghargai efisiensi waktu, kepastian alur kerja, dan ketenangan menjelang tenggat akhir. Saya berperan sebagai mitra diskusi yang membantu memetakan kondisi idealnya secara realistis. |
+| **Objective & state** | *Objective* merumuskan *desired state* bersama dan menghubungkannya dengan solusi tercapai. *State* D berpindah dari *Interest* ke **Desire** karena ia menginginkan penghematan waktu kompilasi menjadi 15–20 menit dan siap menguji kelayakannya pada H-2. |
+| **Repertoire & language** | Menggunakan pertanyaan eksplorasi *desired state*, pemetaan *feature–benefit–value–outcome* dengan angka waktu konkret (2 jam → 45 menit → kurang dari 20 menit), serta penawaran *evidence threshold* yang objektif. |
+| **Response & adaptation** | D menyampaikan risiko ketidakpatuhan anggota saat panik menjelang *deadline*. Saya mengadaptasi solusi dengan menambahkan *pinned message* untuk mempermudah *copy-paste* dan menetapkan ambang batas evaluasi pada H-2. |
+| **Agreement/action** | D menyepakati uji coba penuh dengan *pinned message* pada pengumpulan draf H-2 dan menetapkan kriteria keberhasilan (minimal 4/5 anggota patuh, kompilasi kurang dari 20 menit). |
+| **Relationship outcome** | Kepercayaan D terhadap usulan solusi semakin kuat karena risiko kegagalan diakui secara jujur dan diantisipasi bersama tanpa paksaan. |
+
+## Penggunaan AI
+
+Saya menggunakan AI untuk membantu menyusun kerangka tabel perbandingan *current vs. desired state* serta tabel *feature–benefit–value–outcome chain* agar alurnya sistematis dan mudah dipindai. Seluruh konteks proyek kelompok, angka waktu kompilasi (2 jam, 45 menit, 20 menit), risiko yang diungkapkan D, serta transkrip percakapan berasal dari interaksi nyata dan diperiksa kembali agar tetap akurat tanpa merekayasa respons target.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** D menyatakan bahwa target waktu kompilasi 15–20 menit dan sistem satu pintu sangat sesuai dengan kebutuhannya (*“Iya pas banget Mal... itu ngebantu gue banget biar nggak stres pas hari-H”*), sekaligus memberikan masukan kritis mengenai risiko anggota yang lupa mengirim laporan satu baris saat terburu-buru.
+
+**Adaptation/replay:** Saya merespons kekhawatiran D dengan menyederhanakan langkah pelaporan melalui *pinned message* di grup dan mengubah komitmen langsung menjadi uji coba terukur berbasis *evidence threshold* pada H-2 sebelum tenggat akhir.
+
+**Next practice:** Pada tahap *Action* (Minggu 10), saya akan mencatat hasil aktual uji coba H-2 bersama D untuk memverifikasi apakah *evidence threshold* (waktu kompilasi di bawah 20 menit dan kepatuhan minimal 4 dari 5 anggota) benar-benar terpenuhi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Memetakan *current state*, *desired state*, dan kekhawatiran spesifik D secara empatik dan realistis. |
+| **Objective & State** | 4 | *Desired state* terumuskan bersama secara terukur dan perpindahan *state* D dari *Interest* ke *Desire* terverifikasi lewat transkrip. |
+| **Repertoire, Language & AI** | 4 | Rantai *feature–benefit–value–outcome* tersusun kredibel dengan bukti angka konkret; penggunaan AI dijelaskan secara transparan. |
+| **Response & Adaptation** | 4 | Risiko lupa melapor direspons dengan *pinned message* dan penetapan *evidence threshold* pada H-2 sebelum komitmen penuh. |
+| **Agreement, Action & Relationship** | 3 | D menyepakati kriteria *evidence threshold* H-2 dan langsung mem-pin format laporan di grup kelompok. |
+
+**Total:** 19 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+:::

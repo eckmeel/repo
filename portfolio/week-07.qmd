@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap Dinilai"
+self_score: "18/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -18,8 +18,99 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
-{{< include ../includes/evidence-template.md >}}
+**Tanggal dan setting:** *Discovery interview* dilakukan pada 28 Oktober 2026 selama sekitar 25 menit secara tatap muka di kampus bersama D (nama samaran untuk koordinator teknis/ketua kelompok tugas besar mata kuliah). *Interest pitch* solusi dilakukan pada Kamis, 5 November 2026 melalui pesan WhatsApp sebelum pengumpulan progres tahap kedua.
+
+**Objective dan initial state:** *Objective* saya adalah menghubungkan masalah kekacauan versi file dan *handover* dokumen dengan kemungkinan mekanisme solusi (folder terpusat + standar penamaan file) tanpa memaksa D mengubah sistem kerja tim secara mendadak. *Initial state* D adalah *Attention* berdasarkan Week 6: ia telah mengakui bahwa waktu 2 jam yang terbuang menjelang *deadline* akibat file tertimpa di obrolan grup adalah masalah utama yang mendesak.
+
+## Attention evidence dan solution hypothesis
+
+**Attention evidence:** D menyatakan bahwa pada pengumpulan tahap pertama, waktu kelompok terbuang sekitar 2 jam menjelang *deadline* hanya untuk merapikan format dan mengecek versi file terbaru yang menumpuk di chat grup, serta mengonfirmasi *shared problem statement*. *Evidence* ini menjadi dasar untuk merumuskan mekanisme solusi.
+
+**Solution hypothesis:** Menerapkan struktur folder Google Drive terpusat dengan aturan penamaan file berbasis nomor versi dan batas waktu pengumpulan (*cut-off time*) sebelum penggabungan dapat memangkas waktu kompilasi dokumen tanpa membebani anggota kelompok dengan alat teknis yang rumit.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Waktu 2 jam terbuang menjelang *deadline* akibat versi file berantakan di *chat* dan saling menimpa (*overwrite*). | Membuat struktur folder Google Drive terpusat per sub-bab disertai template penamaan file berversi (`v1_Inisial`, `v2_Inisial`). | Proses pelacakan versi terbaru dan penggabungan akhir menjadi cepat serta bebas dari insiden file tertimpa. | Beban koordinasi D berkurang drastis dan risiko keterlambatan pengumpulan tugas besar dapat dihindari. |
+| Kekhawatiran anggota kelompok merasa repot atau enggan patuh jika sistem kolaborasi terlalu teknis. | Menggunakan platform yang sudah akrab (Google Drive) dengan format penamaan sederhana dan *cut-off time* 3 jam sebelum *deadline*. | Anggota kelompok dapat langsung mengunggah file tanpa perlu belajar alat baru yang rumit. | D tidak perlu melakukan pengawasan mikro (*micromanagement*) atau mengejar anggota satu per satu di menit akhir. |
+
+## Pitch dan demonstration
+
+> “D, berdasarkan masalah 2 jam yang kebuang kemarin gara-gara versi file numpuk di chat, gue udah bikinin struktur folder Google Drive terpusat per bagian plus aturan nama file simpel (`Bagian_v1_Inisial`) dan batas unggah 3 jam sebelum deadline. Tujuannya bukan buat nambahin beban teknis anak-anak, tapi biar lo tinggal narik file final tanpa takut ketimpa. Menurut lo, mekanisme kayak gini relevan dan masuk akal buat kita terapin di tahap dua besok?”
+
+**Demonstration / Artefak pendukung:** Tautan struktur folder Google Drive terpusat (`01_Draft_Anggota`, `02_Review_Koordinator`, `03_Final_Kompilasi`) beserta contoh satu file dummy berformat `Bab2_v1_AK.docx` yang dikirimkan bersamaan dengan pesan *pitch*.
+
+**Response target:** D menjawab, *“Nah cakep tuh kalo udah rapi per folder gitu.”* Ia kemudian bertanya, *“Itu cara ngecek kalau ada anggota yang upload revisi baru gimana? Terus kalau ada yang mepet banget upload-nya nggak ngikutin jam cut-off gimana ngaturnya?”*
+
+## Hidden concern dan adaptation
+
+**Asumsi awal tentang concern target:** Saya semula mengira *concern* utama D semata-mata adalah kecepatan penggabungan file dan menghindari insiden file tertimpa (*overwrite*).
+
+**Hidden concern yang ditemukan:** D ternyata juga mengkhawatirkan visibilitas perubahan revisi (bagaimana ia tahu jika ada anggota yang mengunggah revisi baru tanpa harus mengecek folder terus-menerus) serta kepatuhan anggota terhadap kedisiplinan waktu (*cut-off time*). Hal ini terungkap dari pertanyaannya mengenai mekanisme notifikasi revisi dan penanganan anggota yang terlambat mengunggah.
+
+**Adaptation:** Awalnya saya hanya menawarkan struktur folder dan format penamaan file. Setelah D menyampaikan perhatian terhadap visibilitas revisi dan kepatuhan waktu, saya mengadaptasi mekanisme solusi dengan menambahkan aturan *brief check-in* singkat di grup (anggota cukup balas format *checklist* satu baris setiap selesai unggah versi baru) serta menetapkan toleransi *buffer time* 1 jam khusus untuk revisi minor sebelum kompilasi akhir.
+
+**State setelah interaksi:** *State* D berpindah dari *Attention* menjadi **Interest** karena ia menyambut positif mekanisme folder terpusat, secara aktif menanyakan detail cara kerja pelacakan revisi, dan menyetujui penerapan sistem tersebut pada pengumpulan tahap kedua.
+
+## Evidence
+
+**Transcript pitch solusi WhatsApp, 5 November 2026:**
+
+> **Akmal:** “D, berdasarkan masalah 2 jam yang kebuang kemarin gara-gara versi file numpuk di chat, gue udah bikinin struktur folder Google Drive terpusat per bagian plus aturan nama file simpel (`Bagian_v1_Inisial`) dan batas unggah 3 jam sebelum deadline. Tujuannya bukan buat nambahin beban teknis anak-anak, tapi biar lo tinggal narik file final tanpa takut ketimpa. Menurut lo, mekanisme kayak gini relevan dan masuk akal buat kita terapin di tahap dua besok?”
+>
+> **D:** “Nah cakep tuh kalo udah rapi per folder gitu. Itu cara ngecek kalau ada anggota yang upload revisi baru gimana? Terus kalau ada yang mepet banget upload-nya nggak ngikutin jam cut-off gimana ngaturnya?”
+
+*(Catatan: Transcript discovery, bukti durasi 2 jam terbuang, dan konfirmasi problem statement dari Week 6 menjadi attention evidence pendukung).*
+
+**Evidence response, hidden concern, dan adaptation (5 November 2026):**
+
+> **Akmal:** “Poin bagus tuh D. Biar lo nggak perlu bolak-balik ngecek folder, tiap anggota yang habis upload versi baru wajib lapor satu baris di grup pakai template `Update [Bagian] - v2`. Terus soal cut-off, kita pasang batas unggah utama 3 jam sebelum deadline, plus buffer 1 jam khusus buat perbaikan minor biar lo tetap punya waktu 2 jam bersih buat kompilasi akhir.”
+>
+> **D:** “Oke masuk akal banget sih itu, jadi gue tetap ke-notify tanpa harus mantengin Drive terus. Gas lah kita pakai sistem ini buat pengumpulan tahap dua besok.”
+
+**Evidence lanjutan:** D langsung membagikan tautan folder Drive beserta aturan penamaan file dan template laporan *check-in* ke grup kelompok untuk dijalankan pada pengumpulan progres tahap kedua. Sinyal tersebut mengonfirmasi tercapainya *state Interest* dan kesiapan eksekusi.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | D adalah koordinator teknis kelompok yang mengutamakan efisiensi penggabungan dokumen, kejelasan progres anggota, dan ketepatan waktu pengumpulan. Saya berperan sebagai rekan tim yang merancang mekanisme solusi praktis tanpa menambah beban kerja. |
+| **Objective & state** | *Objective* saya untuk menguji relevansi mekanisme folder terpusat dan standar penamaan file tercapai. *State* D berpindah dari *Attention* menjadi *Interest* setelah menyambut demonstrasi struktur folder dan menanyakan detail teknis pelacakan revisi. |
+| **Repertoire & language** | Menggunakan bukti waktu 2 jam yang terbuang dari Week 6, demonstrasi nyata (struktur folder Drive), serta bahasa kolaboratif yang menekankan kemudahan bagi D maupun anggota kelompok. |
+| **Response & adaptation** | Pertanyaan D mengungkap *hidden concern* terkait visibilitas unggahan revisi dan kepatuhan waktu anggota. Saya mengadaptasi solusi dengan menambahkan format laporan satu baris di grup dan pembagian *buffer time* 1 jam. |
+| **Agreement/action** | D menyepakati penerapan sistem folder Drive terpusat, format penamaan file berversi, dan template laporan unggahan untuk pengumpulan tahap kedua. |
+| **Relationship outcome** | D merespons secara antusias, merasa terbantu secara teknis dalam perannya sebagai koordinator, dan langsung mengadopsi usulan tersebut bersama kelompok. |
+
+## Penggunaan AI
+
+Saya menggunakan AI untuk membantu merapikan struktur portofolio, menyusun tabel pemetaan *problem–mechanism–value*, dan menyelaraskan tata bahasa Indonesia pada refleksi ini. Isi *pitch*, demonstrasi struktur folder, respons serta pertanyaan D, dan keputusan adaptasi berasal dari catatan interaksi nyata dan diperiksa kembali agar tidak mengubah fakta maupun makna.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** D menyambut positif mekanisme solusi dengan mengatakan, *“Nah cakep tuh kalo udah rapi per folder gitu”*, dan menggali detail operasional melalui pertanyaan mengenai cara memantau unggahan revisi baru serta penanganan keterlambatan batas unggah.
+
+**Adaptation/replay:** Mekanisme solusi diperluas dari sekadar penyediaan folder terpusat dan penamaan file menjadi sistem *handover* utuh yang mencakup template notifikasi satu baris di grup serta pembagian *buffer time* 1 jam untuk menjaga kepatuhan waktu.
+
+**Next practice:** Pada Minggu 8, saya akan mengevaluasi hasil penerapan sistem ini setelah pengumpulan tahap kedua selesai, mengukur apakah waktu kompilasi akhir D benar-benar berkurang dari 2 jam, dan mengumpulkan *feedback* lanjutan dari D maupun anggota kelompok.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 3 | *Value* dan *concern* D terhadap efisiensi kompilasi, kemudahan anggota, dan kepatuhan jadwal dipetakan secara jelas. |
+| **Objective & State** | 4 | *Objective pitch* tercapai dan perpindahan *state* D dari *Attention* menjadi *Interest* terverifikasi melalui respons dan pertanyaan lanjutannya. |
+| **Repertoire, Language & AI** | 4 | *Pitch* dilengkapi *attention evidence* dan demonstrasi nyata struktur folder Drive; penggunaan AI dijelaskan secara proporsional. |
+| **Response & Adaptation** | 4 | Pertanyaan D mengungkap *hidden concern* (visibilitas revisi & disiplin *cut-off*), lalu mekanisme solusi langsung diadaptasi secara tepat. |
+| **Agreement, Action & Relationship** | 3 | D merespons antusias dan menyepakati penerapan sistem folder terpusat beserta aturan *check-in* pada tahap kedua. |
+
+**Total:** 18 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+:::
