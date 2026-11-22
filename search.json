@@ -1344,7 +1344,7 @@
     "href": "portfolio/week-10.html#evidence-wajib",
     "title": "Action & Agreement Challenge",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nBarrier dan authority map.\nOptions dan trade-off yang dibahas.\nAgreement dengan owner/deadline serta bukti action atau review.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nBarrier dan authority map.\nOptions dan trade-off yang dibahas.\nAgreement dengan owner/deadline serta bukti action atau review.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1355,7 +1355,40 @@
     "href": "portfolio/week-10.html#konteks-performance",
     "title": "Action & Agreement Challenge",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Percakapan negosiasi action & agreement dilakukan pada Senin, 16 November 2026 melalui pesan WhatsApp dan diskusi singkat setelah kuliah bersama D (koordinator teknis/ketua kelompok tugas besar), menindaklanjuti hasil evaluasi uji coba H-2 pengumpulan draf pra-final sebelum tenggat pengumpulan final kelompok.\nObjective dan initial state: Objective saya adalah mengidentifikasi desire–action gap yang muncul pasca uji coba H-2, menegosiasikan opsi solusi beserta trade-off-nya sesuai authority masing-masing pihak, serta menghasilkan agreement yang eksplisit (memuat owner, deadline spesifik, dan indikator review) agar komitmen benar-benar tereksekusi menuju pengumpulan akhir. Initial state D adalah Desire berdasarkan Week 9: ia sudah menginginkan waktu kompilasi final di bawah 20 menit dan telah menguji sistem folder Google Drive terpusat beserta pinned message laporan satu baris pada H-2.",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#desireaction-gap-barrier-dan-authority-map",
+    "href": "portfolio/week-10.html#desireaction-gap-barrier-dan-authority-map",
+    "title": "Action & Agreement Challenge",
+    "section": "Desire–action gap, barrier, dan authority map",
+    "text": "Desire–action gap, barrier, dan authority map\nPada evaluasi uji coba H-2 (15 November 2026), waktu kompilasi D berhasil turun dari 45 menit menjadi 22 menit, dan 4 dari 5 anggota telah mengunggah ke folder Drive terpusat. Namun, masih terdapat desire–action gap untuk mencapai target ideal (kompilasi di bawah 20 menit dan 100% kepatuhan tanpa file tercecer di chat), karena 1 anggota masih mengirim file revisi lewat pesan pribadi WhatsApp dan 2 anggota terlambat mengirim laporan satu baris di grup.\n\n\n\n\n\n\n\n\n\nBarrier (Hambatan eksekusi)\nDampak terhadap action\nAuthority (Pihak yang berwenang)\nBatas kendali / Ruang negosiasi\n\n\n\n\n1. Kebiasaan mengirim file cepat via WhatsApp saat sedang di luar / naik kendaraan\nD tetap harus mengunduh manual file dari WhatsApp lalu memindahkannya ke Drive sebelum menggabungkan dokumen.\nSeluruh anggota kelompok (sebagai pengunggah) dan D (sebagai penerima akhir).\nD tidak bisa melarang penggunaan WhatsApp untuk koordinasi darurat, tetapi D berwenang menolak memproses file yang tidak masuk ke folder Drive.\n\n\n2. Lupa mengirim laporan satu baris (Update [Bagian] - vX) setelah mengunggah ke Drive\nD tidak langsung tahu kapan revisi selesai diunggah sehingga masih perlu mengecek folder secara manual.\nAnggota kelompok (pengisi laporan) dan Akmal (penyedia template/pengingat).\nTidak realistis memaksa anggota mengecek grup tiap menit, tetapi bisa disederhanakan menjadi satu check-in serentak pada jam cut-off.\n\n\n3. Perbedaan format margin dan gaya heading antaranggota saat menggabungkan dokumen\nMenghabiskan 10–12 menit dari total 22 menit waktu kompilasi D hanya untuk merapikan tampilan dokumen.\nD (penentu format master) dan Akmal (penyusun template dokumen awal).\nAnggota tidak perlu menguasai pengaturan tata letak rumit jika langsung mengetik di atas file master yang sudah dikunci formatnya.",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#options-dan-trade-off-yang-dibahas",
+    "href": "portfolio/week-10.html#options-dan-trade-off-yang-dibahas",
+    "title": "Action & Agreement Challenge",
+    "section": "Options dan trade-off yang dibahas",
+    "text": "Options dan trade-off yang dibahas\nUntuk menutup desire–action gap tersebut tanpa membebani anggota kelompok di minggu terakhir pengumpulan tugas besar, saya dan D membahas tiga opsi teknis beserta trade-off-nya:\n\n\n\n\n\n\n\n\n\n\nOpsi yang dibahas\nMekanisme kerja\nKeuntungan (Benefit)\nTrade-off / Konsekuensi\nKeputusan negosiasi\n\n\n\n\nOpsi A: Wajib lapor real-time tiap kali upload + denda revisi mandiri\nSetiap kali mengunggah file baru, anggota wajib lapor di grup maksimal 10 menit setelahnya; file di luar Drive tidak digabungkan.\nVisibilitas perubahan sangat cepat dan D langsung mendapat notifikasi tiap versi baru.\nAnggota merasa tertekan karena harus bolak-balik lapor saat sedang fokus mengerjakan revisi kecil.\nDitolak (terlalu kaku untuk ritme revisi cepat menjelang final).\n\n\nOpsi B: Satu dokumen master bersama (Google Docs) + cut-off check-in satu pintu\nSeluruh anggota menyunting langsung pada satu dokumen master Google Docs dengan format baku yang sudah disiapkan, lalu melakukan satu kali konfirmasi selesai di grup pada jam cut-off.\nMenghilangkan proses penggabungan file terpisah, menyamakan format otomatis, dan mengurangi beban laporan berulang.\nButuh koneksi internet stabil saat menyunting dan risiko tampilan bergeser jika dua orang mengedit bagian berdekatan secara bersamaan.\nDipilih dengan modifikasi (tiap anggota tetap punya backup lokal .docx, lalu paste ke dokumen master sebelum cut-off).\n\n\nOpsi C: Menyerahkan seluruh file mentah ke D untuk dirapikan sendiri\nAnggota bebas mengirim file lewat Drive atau WhatsApp, lalu D yang menyusun ulang seluruh format dan versinya.\nSangat praktis bagi anggota kelompok di menit-menit akhir.\nWaktu kompilasi D kembali membengkak di atas 1 jam dan berisiko tinggi salah versi.\nDitolak (bertentangan dengan desired state D).",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#agreement-eksplisit-owner-deadline-dan-mekanisme-review",
+    "href": "portfolio/week-10.html#agreement-eksplisit-owner-deadline-dan-mekanisme-review",
+    "title": "Action & Agreement Challenge",
+    "section": "Agreement eksplisit (Owner, deadline, dan mekanisme review)",
+    "text": "Agreement eksplisit (Owner, deadline, dan mekanisme review)\nBerdasarkan hasil negosiasi Opsi B yang dimodifikasi, saya dan D merumuskan kesepakatan operasional eksplisit yang langsung dibagikan dan dikonfirmasi di grup kelompok pada Senin, 16 November 2026 pukul 20.00 WIB untuk pengumpulan tugas besar final pada Jumat, 20 November 2026 pukul 23.59 WIB:\n\n\n\n\n\n\n\n\n\nPoin kesepakatan (Action item)\nOwner (Penanggung jawab)\nDeadline spesifik\nIndikator keberhasilan & Review\n\n\n\n\n1. Menyiapkan dokumen master Google Docs (Final_TugasBesar_Kelompok3) dengan format margin, font, dan sub-bab baku + folder backup .docx\nAkmal\nSelasa, 17 November 2026, pukul 12.00 WIB\nTautan dokumen master dan folder backup sudah tersemat (pinned) di grup dan dapat diakses edit oleh seluruh anggota.\n\n\n2. Memindahkan seluruh draf bagian masing-masing ke dokumen master & mengunggah backup .docx ke folder Drive\nSeluruh anggota kelompok (5 orang)\nJumat, 20 November 2026, pukul 20.00 WIB (cut-off time)\n100% sub-bab terisi di dokumen master dan 5 file backup tersedia di Drive tanpa ada file dikirim lewat WhatsApp.\n\n\n3. Melakukan satu kali konfirmasi checklist selesai di obrolan grup tepat saat cut-off\nSeluruh anggota kelompok (5 orang)\nJumat, 20 November 2026, pukul 20.15 WIB\nSeluruh 5 nama tercentang pada pesan checklist grup sehingga D tidak perlu menagih secara personal.\n\n\n4. Melakukan final review, merapikan daftar isi/halaman, ekspor PDF, dan mengunggah ke portal kuliah\nD (Koordinator teknis)\nJumat, 20 November 2026, pukul 22.30 WIB (90 menit sebelum tenggat)\nWaktu pengerjaan akhir D maksimal 20 menit, file PDF terunggah ke portal, dan bukti submit dikirim ke grup.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1366,7 +1399,7 @@
     "href": "portfolio/week-10.html#evidence",
     "title": "Action & Agreement Challenge",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\nTranscript negosiasi barrier, options, dan trade-off (WhatsApp, 16 November 2026):\n\nAkmal: “D, hasil H-2 kemarin udah lumayan banget nih, waktu kompilasi lo turun ke 22 menit. Tapi masih ada 1 anggota yang kirim lewat WA sama 2 orang lupa lapor di grup, plus lo masih habis sekitar 10 menitan buat ngerapiin margin yang beda-beda. Biar final hari Jumat nanti beneran di bawah 20 menit, gimana kalau kita ubah dikit: gue bikinin satu file master Google Docs yang formatnya udah dikunci, jadi anak-anak tinggal tempel isinya di situ dan simpan backup .docx di Drive, terus laporannya cukup sekali aja pas jam cut-off?”\nD: “Wah ide Google Docs master itu ngebantu banget sih Mal, soalnya kemaren yang paling makan waktu pas kompilasi tuh nyamain margin sama heading antarfile. Trade-off-nya paling kalau lagi rame-rame ngedit bareng takutnya layout-nya geser dikit, tapi kalau masing-masing tetep taruh backup .docx di folder Drive aman sih.”\nAkmal: “Betul, jadi kalau ada format yang geser, lo tinggal rujuk backup .docx mereka di Drive. Nah, biar tegas juga, file yang dikirim lewat WA pribadi nggak bakal dimasukin ke dokumen final sampai diunggah ke Drive/Docs sebelum jam 20.00 WIB hari Jumat. Setuju nggak kalau kita kunci agreement-nya kayak gitu?”\nD: “Setuju banget. Gue bakal umumin di grup kalau batas masukin ke dokumen master Jumat jam 20.00 WIB, dan gue targetin jam 22.30 WIB udah kelar ekspor PDF dan submit ke portal.”\n\nTranscript konfirmasi agreement eksplisit di grup kelompok (16 November 2026, pukul 20.05 WIB):\n\nAkmal: “Rekap kesepakatan final tugas besar buat Jumat, 20 Nov 2026 ya teman-teman: 1. Akmal siapin master Google Docs + folder backup Drive paling lambat Selasa, 17 Nov pukul 12.00 WIB. 2. Semua anggota (5 orang) salin bagian masing-masing ke master Google Docs + upload backup .docx ke Drive maksimal Jumat, 20 Nov pukul 20.00 WIB (tidak menerima file via WA). 3. Semua anggota centang checklist selesai di grup maksimal Jumat, 20 Nov pukul 20.15 WIB. 4. D review akhir, ekspor PDF, dan submit ke portal paling lambat Jumat, 20 Nov pukul 22.30 WIB. Mohon konfirmasinya ya!”\nD: “Confirmed. Gue pantau dari jam 20.00 WIB buat final check dan submit sebelum 22.30 WIB.”\nAnggota 1, 2, 3, 4: “Confirmed, siap!”\n\nBukti action dan hasil review pasca-eksekusi (Jumat, 20 November 2026):\n\nTindakan Akmal (17 Nov, 11.40 WIB): Dokumen master Final_TugasBesar_Kelompok3 dan subfolder Backup_DOCX telah dibuat dan disematkan di puncak grup WhatsApp.\nTindakan Anggota (20 Nov, 19.55 WIB): Seluruh 5 anggota menyelesaikan pengisian pada dokumen master dan mengunggah backup .docx ke Drive sebelum cut-off 20.00 WIB; checklist grup terisi penuh pukul 20.08 WIB tanpa satu pun file tercecer di obrolan WhatsApp.\nTindakan & Review D (20 Nov, 20.25 WIB): D menyelesaikan pengecekan daftar isi, penomoran halaman, dan ekspor PDF hanya dalam waktu 16 menit (melampaui target desired state di bawah 20 menit), lalu mengunggah file final ke portal kuliah pada pukul 20.32 WIB (lebih dari 3 jam sebelum tenggat 23.59 WIB).\n\n\nD (Review pasca-submit, 20 Nov pukul 20.35 WIB): “Done submit ya guys! Seriusan ini cepet banget, cuma 16 menit gue cek format langsung beres karena udah nyatu di master Docs dan nggak ada versi ganda di chat. Mantap!”",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1377,7 +1410,7 @@
     "href": "portfolio/week-10.html#analisis-komunikasi",
     "title": "Action & Agreement Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & target\nD berperan sebagai koordinator teknis yang memegang otoritas penerimaan dokumen akhir, sementara seluruh anggota berperan sebagai kontributor bagian. Saya memosisikan diri sebagai fasilitator yang merancang infrastruktur teknis dan menjembatani kesepakatan.\n\n\nObjective & state\nObjective menutup desire–action gap dan menghasilkan agreement yang tereksekusi tercapai. State D berpindah dari Desire menjadi Action dengan bukti pelaksanaan nyata dan pencapaian waktu kompilasi 16 menit.\n\n\nRepertoire & language\nMenggunakan analisis barrier–authority, pembandingan opsi beserta trade-off secara objektif, serta bahasa rekapitulasi yang memuat owner, tenggat jam spesifik, dan indikator terukur.\n\n\nResponse & adaptation\nMerespons hambatan waktu merapikan margin dan keengganan anggota melapor berulang kali dengan mengadaptasi solusi dari banyak file terpisah menjadi satu dokumen master Google Docs dengan backup .docx dan satu kali checklist saat cut-off.\n\n\nAgreement/action\nAgreement disepakati secara tertulis oleh seluruh anggota kelompok dan terbukti dijalankan 100% sesuai jadwal pada 17–20 November 2026.\n\n\nRelationship outcome\nKolaborasi tim berjalan kondusif tanpa ketegangan menjelang tenggat akhir; D merasa terbantu secara nyata dan anggota kelompok merasa alur pengumpulan jauh lebih ringan.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1388,7 +1421,7 @@
     "href": "portfolio/week-10.html#penggunaan-ai",
     "title": "Action & Agreement Challenge",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nSaya menggunakan AI untuk membantu menyusun struktur tabel barrier–authority map, membandingkan opsi beserta trade-off-nya, serta merapikan tata bahasa Indonesia pada laporan refleksi ini. Seluruh kronologi evaluasi H-2, rincian kesepakatan dengan owner dan tenggat waktu, kutipan percakapan dengan D, serta hasil waktu kompilasi 16 menit berasal dari catatan interaksi nyata dan diperiksa kembali agar tetap akurat tanpa merekayasa bukti.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1399,7 +1432,7 @@
     "href": "portfolio/week-10.html#feedback-dan-tindak-lanjut",
     "title": "Action & Agreement Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Pasca pengumpulan final pada 20 November 2026, D memberikan umpan balik langsung di grup kelompok bahwa alur dokumen master dan cut-off checklist memangkas waktu kompilasi akhirnya menjadi hanya 16 menit tanpa ada file yang tercecer di obrolan grup.\nAdaptation/replay: Mengubah aturan pelaporan dari real-time tiap unggahan menjadi satu kali checklist serentak saat cut-off serta menyatukan penulisan pada dokumen master terbukti efektif menutup desire–action gap yang muncul pada uji coba H-2.\nNext practice: Pada proyek kelompok atau kepanitiaan berikutnya, saya akan menerapkan pemetaan barrier–authority dan penetapan agreement eksplisit (memuat owner, jam cut-off, dan backup plan) sejak awal proyek berjalan agar transisi dari niat menuju eksekusi tidak tertahan oleh hambatan teknis kecil.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1410,7 +1443,7 @@
     "href": "portfolio/week-10.html#self-assessment",
     "title": "Action & Agreement Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMemetakan barrier dan authority tiap pihak (koordinator, anggota, fasilitator) secara realistis dan proporsional.\n\n\nObjective & State\n4\nDesire–action gap teridentifikasi dari hasil H-2 dan berhasil ditutup hingga tercapai state Action yang terverifikasi.\n\n\nRepertoire, Language & AI\n3\nPembahasan opsi beserta trade-off disajikan objektif dan agreement dirumuskan dengan bahasa eksplisit; penggunaan AI dijelaskan transparan.\n\n\nResponse & Adaptation\n4\nSolusi diadaptasi menjadi dokumen master Google Docs + backup .docx dan satu kali cut-off checklist untuk mengatasi hambatan format dan pelaporan berulang.\n\n\nAgreement, Action & Relationship\n4\nAgreement memuat owner dan tenggat waktu spesifik, dikonfirmasi seluruh tim, serta terbukti berhasil memangkas waktu kompilasi menjadi 16 menit.\n\n\n\nTotal: 19 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1498,7 +1531,7 @@
     "href": "portfolio/week-06.html#evidence-wajib",
     "title": "Target–Attention Challenge",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTarget map dan alasan memilih satu target.\nProblem/opportunity pitch serta evidence.\nResponse, state sesudah pitch, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nTarget map dan alasan memilih satu target.\nProblem/opportunity pitch serta evidence.\nResponse, state sesudah pitch, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1509,7 +1542,40 @@
     "href": "portfolio/week-06.html#konteks-performance",
     "title": "Target–Attention Challenge",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Discovery interview berlangsung pada 28 Oktober 2026 selama sekitar 25 menit secara tatap muka di kampus bersama D (nama samaran untuk koordinator teknis/ketua kelompok tugas besar mata kuliah). Follow-up attention pitch dilakukan pada Rabu, 4 November 2026 melalui pesan WhatsApp menjelang pengumpulan progres tahap kedua.\nObjective dan initial state: Objective follow-up saya adalah memastikan apakah ketidakteraturan alur pengumpulan file dan version control memang merupakan masalah utama yang paling menghambat kerja kelompok bagi D, sebelum mengusulkan solusi. Initial state D adalah Problem aware berdasarkan sesi discovery sebelumnya: ia telah menjelaskan bahwa pada pengumpulan tahap pertama, waktu kelompok terbuang sekitar 2 jam menjelang deadline hanya untuk menggabungkan file dengan format berbeda dan mengecek versi terbaru yang tersebar di obrolan grup.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#target-map",
+    "href": "portfolio/week-06.html#target-map",
+    "title": "Target–Attention Challenge",
+    "section": "Target map",
+    "text": "Target map\n\n\n\n\n\n\n\n\n\nPerson\nRelevance\nAuthority\nCurrent state\n\n\n\n\nD, koordinator teknis / ketua kelompok\nMenanggung beban langsung saat menggabungkan seluruh bagian tugas menjelang deadline dan terkena dampak keterlambatan versi file.\nMemiliki wewenang penuh menetapkan struktur folder kerja, aturan penamaan file, dan alur handover antaranggota kelompok.\nProblem aware berdasarkan interview sebelumnya\n\n\nAnggota kelompok (kontributor bagian)\nTerkena dampak kebingungan saat harus merevisi ulang bagian yang tertimpa (overwrite), tetapi bekerja mengikuti instruksi koordinator.\nDapat mengatur kerapihan file masing-masing, namun tidak berwenang mewajibkan standar sistem kerja ke seluruh anggota.\nBelum dinilai\n\n\nAsisten praktikum / dosen pengampu\nMenerima dokumen hasil akhir dan menilai ketepatan waktu pengumpulan kelompok.\nMenetapkan deadline dan rubrik tugas, tetapi tidak mengatur alur kolaborasi file internal kelompok.\nBelum dinilai\n\n\n\nTarget yang dipilih: D (koordinator teknis / ketua kelompok).\nAlasan pemilihan: D memiliki direct experience terhadap kekacauan penggabungan file menjelang deadline, telah memberikan bukti konkret (waktu 2 jam terbuang dan insiden file tertimpa), serta memegang authority langsung untuk menerapkan standar alur kerja di dalam kelompok.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#attention-pitch",
+    "href": "portfolio/week-06.html#attention-pitch",
+    "title": "Target–Attention Challenge",
+    "section": "Attention pitch",
+    "text": "Attention pitch\n\n“D, dari obrolan kita kemarin soal evaluasi tahap pertama, berarti alur pengumpulan file yang tersebar di chat dan format yang beda-beda bikin waktu lo kebuang hampir 2 jam menjelang deadline cuma buat ngecek versi terbaru dan ngerapiin dokumen, ya. Menurut lo, alur handover file ini memang masalah utama yang paling perlu diberesin sebelum progres tahap dua, atau ada kendala lain yang lebih krusial seperti pembagian beban tugas anggotanya?”\n\nEvidence yang digunakan: Catatan/parafrasa discovery 28 Oktober 2026, fakta waktu 2 jam yang terbuang untuk merapikan versi dokumen tahap pertama, insiden file revisi yang saling menimpa, serta shared problem statement yang telah dikonfirmasi D.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#response-dan-state-assessment",
+    "href": "portfolio/week-06.html#response-dan-state-assessment",
+    "title": "Target–Attention Challenge",
+    "section": "Response dan state assessment",
+    "text": "Response dan state assessment\nResponse target: Pada follow-up WhatsApp 4 November 2026, D menjawab: “Itu sih masalah utama menurut gue, soalnya pembagian tugas anak-anak sebenarnya udah jelas, tapi pas mau digabungin selalu berantakan gara-gara versi file di chat numpuk.” Sebelumnya, D juga telah mengonfirmasi rumusan masalah dengan pernyataan “Iya bener banget, itu yang paling bikin keteteran pas kemarin.”\nState setelah pitch: State D berpindah dari Problem aware menjadi Attention karena ia secara langsung mengakui bahwa alur handover dan versi file adalah masalah utama yang paling mendesak. Pada respons pertama ini, D belum menunjukkan sinyal Interest karena belum menanyakan bentuk solusi maupun mengusulkan langkah tindak lanjut.\nAdaptation: Karena D baru mengonfirmasi masalah tetapi belum menunjukkan minat pada solusi (lack of interest signal), saya mengajukan pertanyaan terbuka yang memicu eksplorasi solusi ringan: “Oke, kalau masalah utamanya di alur handover dan versi file, kira-kira sistem pengumpulan seperti apa yang paling praktis dan nggak ribet buat diterapin ke semua anggota?” D kemudian menyebutkan kriteria solusi: tempat penyimpanan terpusat (satu folder Drive/repositori bersama), aturan penamaan file yang jelas dengan nomor versi, dan cut-off time pengumpulan sebelum waktu penggabungan. Saya menindaklanjutinya dengan usulan membuat template folder terpusat beserta format penamaan file baku untuk diuji coba pada pengumpulan minggu ini. Adaptasi ini menghasilkan sinyal Interest dan persetujuan action awal.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1520,7 +1586,7 @@
     "href": "portfolio/week-06.html#evidence",
     "title": "Target–Attention Challenge",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\nTranscript follow-up WhatsApp, 4 November 2026:\n\nAkmal: “D, dari obrolan kita kemarin soal evaluasi tahap pertama, berarti alur pengumpulan file yang tersebar di chat dan format yang beda-beda bikin waktu lo kebuang hampir 2 jam menjelang deadline cuma buat ngecek versi terbaru dan ngerapiin dokumen, ya. Menurut lo, alur handover file ini memang masalah utama yang paling perlu diberesin sebelum progres tahap dua, atau ada kendala lain yang lebih krusial seperti pembagian beban tugas anggotanya?”\nD: “Itu sih masalah utama menurut gue, soalnya pembagian tugas anak-anak sebenarnya udah jelas, tapi pas mau digabungin selalu berantakan gara-gara versi file di chat numpuk.”\n\nBukti percakapan adaptasi dari Attention menuju solusi (4 November 2026):\n\nAkmal: “Oke, kalau masalah utamanya di alur handover dan versi file, kira-kira sistem pengumpulan seperti apa yang paling praktis dan nggak ribet buat diterapin ke semua anggota?”\nD: “Yang paling masuk akal sih semua file dikumpulin di satu folder Drive terpusat aja jangan lewat chat, terus wajib pake format nama file yang ada versi dan inisialnya biar nggak ketimpa, sama dikumpulin maksimal 3 jam sebelum deadline final.”\n\nBukti signal Interest dan agreement action awal (4 November 2026):\n\nAkmal: “Gimana kalau gue bantu bikinin struktur folder Drive-nya sama contoh format penamaan filenya malam ini buat kita uji coba di pengumpulan tahap kedua hari Jumat nanti?”\nD: “Boleh banget Mal, gas cobain di tahap dua ini biar kelihatan bedanya. Kirim aja link-nya ke grup entar gue yang arahin anak-anak.”",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1531,7 +1597,7 @@
     "href": "portfolio/week-06.html#analisis-komunikasi",
     "title": "Target–Attention Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & target\nD dipilih karena mengalami dampak langsung saat menggabungkan dokumen kelompok dan memiliki otoritas menetapkan standar kerja tim.\n\n\nObjective & state\nObjective follow-up untuk memvalidasi masalah utama tercapai. State D berpindah dari Problem aware ke Attention setelah mengakui masalah handover file sebagai kendala utama, lalu bergerak ke Interest setelah adaptasi.\n\n\nRepertoire & language\nMenggunakan parafrasa hasil discovery, bukti konkret durasi 2 jam yang terbuang, serta pertanyaan pembanding dengan gaya bahasa santai sesama rekan kelompok.\n\n\nResponse & adaptation\nRespons awal D hanya mengonfirmasi masalah tanpa meminta solusi. Saya mengadaptasi percakapan dengan pertanyaan pemicu solusi, yang mendorong D merumuskan kriteria solusi (folder terpusat, format nama berversi, cut-off time) dan menyetujui uji coba.\n\n\nAgreement/action\nD mengakui masalah utama dan menyepakati uji coba penggunaan folder Drive terpusat serta standar penamaan file pada pengumpulan tahap kedua.\n\n\nRelationship outcome\nD merespons secara antusias dan kolaboratif tanpa merasa dikritik kepemimpinannya karena pitch berfokus pada perbaikan alur kerja bersama.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1542,7 +1608,7 @@
     "href": "portfolio/week-06.html#penggunaan-ai",
     "title": "Target–Attention Challenge",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nSaya menggunakan AI untuk membantu merapikan struktur penulisan dan tata bahasa Indonesia pada laporan refleksi ini. Seluruh konteks kejadian, target map, attention pitch, serta kutipan percakapan dengan D berasal dari catatan interaksi dan diperiksa kembali agar tetap konsisten dan akurat. Nama D digunakan sebagai samaran untuk menjaga privasi.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1553,7 +1619,7 @@
     "href": "portfolio/week-06.html#feedback-dan-tindak-lanjut",
     "title": "Target–Attention Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: D menjawab, “Itu sih masalah utama menurut gue, soalnya pembagian tugas anak-anak sebenarnya udah jelas, tapi pas mau digabungin selalu berantakan gara-gara versi file di chat numpuk”, yang mengonfirmasi bahwa alur handover dan versi file memang masalah utama kelompok.\nAdaptation/replay: Ketika respons awal D belum menunjukkan sinyal minat (Interest) terhadap langkah lanjutan, saya mengalihkan percakapan dari validasi masalah ke eksplorasi kriteria solusi yang praktis. Hasilnya, D merumuskan tiga kriteria solusi dan menyetujui uji coba kecil pada tahap kedua.\nNext practice: Pada sesi berikutnya (Minggu 7), saya akan mengevaluasi efektivitas penggunaan folder terpusat dan standar penamaan file tersebut bersama D serta menanyakan apakah waktu penggabungan dokumen berkurang secara signifikan.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1564,7 +1630,7 @@
     "href": "portfolio/week-06.html#self-assessment",
     "title": "Target–Attention Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nTarget map membandingkan tiga peran secara jelas; D dipilih berdasarkan direct experience, relevance, dan authority dalam kelompok.\n\n\nObjective & State\n4\nObjective follow-up tercapai dan perpindahan state dari Problem aware ke Attention hingga Interest terdokumentasi dalam transkrip percakapan.\n\n\nRepertoire, Language & AI\n3\nPitch memanfaatkan evidence angka konkret (waktu 2 jam) dan pertanyaan pembanding; penggunaan AI dijelaskan secara transparan.\n\n\nResponse & Adaptation\n4\nPertanyaan pemicu solusi merespons lack of interest signal secara tepat sehingga D menetapkan kriteria solusinya sendiri.\n\n\nAgreement, Action & Relationship\n4\nD menyetujui uji coba sistem folder terpusat dan format penamaan file dalam suasana komunikasi yang suportif dan kolaboratif.\n\n\n\nTotal: 19 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -6624,7 +6690,7 @@
     "href": "portfolio/week-07.html#evidence-wajib",
     "title": "Problem–Solution Interest Pitch",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan evidence atau demonstration.\nResponse, state assessment, hidden concern, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan evidence atau demonstration.\nResponse, state assessment, hidden concern, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6635,7 +6701,40 @@
     "href": "portfolio/week-07.html#konteks-performance",
     "title": "Problem–Solution Interest Pitch",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Discovery interview dilakukan pada 28 Oktober 2026 selama sekitar 25 menit secara tatap muka di kampus bersama D (nama samaran untuk koordinator teknis/ketua kelompok tugas besar mata kuliah). Interest pitch solusi dilakukan pada Kamis, 5 November 2026 melalui pesan WhatsApp sebelum pengumpulan progres tahap kedua.\nObjective dan initial state: Objective saya adalah menghubungkan masalah kekacauan versi file dan handover dokumen dengan kemungkinan mekanisme solusi (folder terpusat + standar penamaan file) tanpa memaksa D mengubah sistem kerja tim secara mendadak. Initial state D adalah Attention berdasarkan Week 6: ia telah mengakui bahwa waktu 2 jam yang terbuang menjelang deadline akibat file tertimpa di obrolan grup adalah masalah utama yang mendesak.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "href": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Attention evidence dan solution hypothesis",
+    "text": "Attention evidence dan solution hypothesis\nAttention evidence: D menyatakan bahwa pada pengumpulan tahap pertama, waktu kelompok terbuang sekitar 2 jam menjelang deadline hanya untuk merapikan format dan mengecek versi file terbaru yang menumpuk di chat grup, serta mengonfirmasi shared problem statement. Evidence ini menjadi dasar untuk merumuskan mekanisme solusi.\nSolution hypothesis: Menerapkan struktur folder Google Drive terpusat dengan aturan penamaan file berbasis nomor versi dan batas waktu pengumpulan (cut-off time) sebelum penggabungan dapat memangkas waktu kompilasi dokumen tanpa membebani anggota kelompok dengan alat teknis yang rumit.\n\n\n\n\n\n\n\n\n\nProblem\nMechanism\nExpected benefit\nValue bagi target\n\n\n\n\nWaktu 2 jam terbuang menjelang deadline akibat versi file berantakan di chat dan saling menimpa (overwrite).\nMembuat struktur folder Google Drive terpusat per sub-bab disertai template penamaan file berversi (v1_Inisial, v2_Inisial).\nProses pelacakan versi terbaru dan penggabungan akhir menjadi cepat serta bebas dari insiden file tertimpa.\nBeban koordinasi D berkurang drastis dan risiko keterlambatan pengumpulan tugas besar dapat dihindari.\n\n\nKekhawatiran anggota kelompok merasa repot atau enggan patuh jika sistem kolaborasi terlalu teknis.\nMenggunakan platform yang sudah akrab (Google Drive) dengan format penamaan sederhana dan cut-off time 3 jam sebelum deadline.\nAnggota kelompok dapat langsung mengunggah file tanpa perlu belajar alat baru yang rumit.\nD tidak perlu melakukan pengawasan mikro (micromanagement) atau mengejar anggota satu per satu di menit akhir.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#pitch-dan-demonstration",
+    "href": "portfolio/week-07.html#pitch-dan-demonstration",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Pitch dan demonstration",
+    "text": "Pitch dan demonstration\n\n“D, berdasarkan masalah 2 jam yang kebuang kemarin gara-gara versi file numpuk di chat, gue udah bikinin struktur folder Google Drive terpusat per bagian plus aturan nama file simpel (Bagian_v1_Inisial) dan batas unggah 3 jam sebelum deadline. Tujuannya bukan buat nambahin beban teknis anak-anak, tapi biar lo tinggal narik file final tanpa takut ketimpa. Menurut lo, mekanisme kayak gini relevan dan masuk akal buat kita terapin di tahap dua besok?”\n\nDemonstration / Artefak pendukung: Tautan struktur folder Google Drive terpusat (01_Draft_Anggota, 02_Review_Koordinator, 03_Final_Kompilasi) beserta contoh satu file dummy berformat Bab2_v1_AK.docx yang dikirimkan bersamaan dengan pesan pitch.\nResponse target: D menjawab, “Nah cakep tuh kalo udah rapi per folder gitu.” Ia kemudian bertanya, “Itu cara ngecek kalau ada anggota yang upload revisi baru gimana? Terus kalau ada yang mepet banget upload-nya nggak ngikutin jam cut-off gimana ngaturnya?”",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "href": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Hidden concern dan adaptation",
+    "text": "Hidden concern dan adaptation\nAsumsi awal tentang concern target: Saya semula mengira concern utama D semata-mata adalah kecepatan penggabungan file dan menghindari insiden file tertimpa (overwrite).\nHidden concern yang ditemukan: D ternyata juga mengkhawatirkan visibilitas perubahan revisi (bagaimana ia tahu jika ada anggota yang mengunggah revisi baru tanpa harus mengecek folder terus-menerus) serta kepatuhan anggota terhadap kedisiplinan waktu (cut-off time). Hal ini terungkap dari pertanyaannya mengenai mekanisme notifikasi revisi dan penanganan anggota yang terlambat mengunggah.\nAdaptation: Awalnya saya hanya menawarkan struktur folder dan format penamaan file. Setelah D menyampaikan perhatian terhadap visibilitas revisi dan kepatuhan waktu, saya mengadaptasi mekanisme solusi dengan menambahkan aturan brief check-in singkat di grup (anggota cukup balas format checklist satu baris setiap selesai unggah versi baru) serta menetapkan toleransi buffer time 1 jam khusus untuk revisi minor sebelum kompilasi akhir.\nState setelah interaksi: State D berpindah dari Attention menjadi Interest karena ia menyambut positif mekanisme folder terpusat, secara aktif menanyakan detail cara kerja pelacakan revisi, dan menyetujui penerapan sistem tersebut pada pengumpulan tahap kedua.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6646,7 +6745,7 @@
     "href": "portfolio/week-07.html#evidence",
     "title": "Problem–Solution Interest Pitch",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\nTranscript pitch solusi WhatsApp, 5 November 2026:\n\nAkmal: “D, berdasarkan masalah 2 jam yang kebuang kemarin gara-gara versi file numpuk di chat, gue udah bikinin struktur folder Google Drive terpusat per bagian plus aturan nama file simpel (Bagian_v1_Inisial) dan batas unggah 3 jam sebelum deadline. Tujuannya bukan buat nambahin beban teknis anak-anak, tapi biar lo tinggal narik file final tanpa takut ketimpa. Menurut lo, mekanisme kayak gini relevan dan masuk akal buat kita terapin di tahap dua besok?”\nD: “Nah cakep tuh kalo udah rapi per folder gitu. Itu cara ngecek kalau ada anggota yang upload revisi baru gimana? Terus kalau ada yang mepet banget upload-nya nggak ngikutin jam cut-off gimana ngaturnya?”\n\n(Catatan: Transcript discovery, bukti durasi 2 jam terbuang, dan konfirmasi problem statement dari Week 6 menjadi attention evidence pendukung).\nEvidence response, hidden concern, dan adaptation (5 November 2026):\n\nAkmal: “Poin bagus tuh D. Biar lo nggak perlu bolak-balik ngecek folder, tiap anggota yang habis upload versi baru wajib lapor satu baris di grup pakai template Update [Bagian] - v2. Terus soal cut-off, kita pasang batas unggah utama 3 jam sebelum deadline, plus buffer 1 jam khusus buat perbaikan minor biar lo tetap punya waktu 2 jam bersih buat kompilasi akhir.”\nD: “Oke masuk akal banget sih itu, jadi gue tetap ke-notify tanpa harus mantengin Drive terus. Gas lah kita pakai sistem ini buat pengumpulan tahap dua besok.”\n\nEvidence lanjutan: D langsung membagikan tautan folder Drive beserta aturan penamaan file dan template laporan check-in ke grup kelompok untuk dijalankan pada pengumpulan progres tahap kedua. Sinyal tersebut mengonfirmasi tercapainya state Interest dan kesiapan eksekusi.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6657,7 +6756,7 @@
     "href": "portfolio/week-07.html#analisis-komunikasi",
     "title": "Problem–Solution Interest Pitch",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nD adalah koordinator teknis kelompok yang mengutamakan efisiensi penggabungan dokumen, kejelasan progres anggota, dan ketepatan waktu pengumpulan. Saya berperan sebagai rekan tim yang merancang mekanisme solusi praktis tanpa menambah beban kerja.\n\n\nObjective & state\nObjective saya untuk menguji relevansi mekanisme folder terpusat dan standar penamaan file tercapai. State D berpindah dari Attention menjadi Interest setelah menyambut demonstrasi struktur folder dan menanyakan detail teknis pelacakan revisi.\n\n\nRepertoire & language\nMenggunakan bukti waktu 2 jam yang terbuang dari Week 6, demonstrasi nyata (struktur folder Drive), serta bahasa kolaboratif yang menekankan kemudahan bagi D maupun anggota kelompok.\n\n\nResponse & adaptation\nPertanyaan D mengungkap hidden concern terkait visibilitas unggahan revisi dan kepatuhan waktu anggota. Saya mengadaptasi solusi dengan menambahkan format laporan satu baris di grup dan pembagian buffer time 1 jam.\n\n\nAgreement/action\nD menyepakati penerapan sistem folder Drive terpusat, format penamaan file berversi, dan template laporan unggahan untuk pengumpulan tahap kedua.\n\n\nRelationship outcome\nD merespons secara antusias, merasa terbantu secara teknis dalam perannya sebagai koordinator, dan langsung mengadopsi usulan tersebut bersama kelompok.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6668,7 +6767,7 @@
     "href": "portfolio/week-07.html#penggunaan-ai",
     "title": "Problem–Solution Interest Pitch",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nSaya menggunakan AI untuk membantu merapikan struktur portofolio, menyusun tabel pemetaan problem–mechanism–value, dan menyelaraskan tata bahasa Indonesia pada refleksi ini. Isi pitch, demonstrasi struktur folder, respons serta pertanyaan D, dan keputusan adaptasi berasal dari catatan interaksi nyata dan diperiksa kembali agar tidak mengubah fakta maupun makna.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6679,7 +6778,7 @@
     "href": "portfolio/week-07.html#feedback-dan-tindak-lanjut",
     "title": "Problem–Solution Interest Pitch",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: D menyambut positif mekanisme solusi dengan mengatakan, “Nah cakep tuh kalo udah rapi per folder gitu”, dan menggali detail operasional melalui pertanyaan mengenai cara memantau unggahan revisi baru serta penanganan keterlambatan batas unggah.\nAdaptation/replay: Mekanisme solusi diperluas dari sekadar penyediaan folder terpusat dan penamaan file menjadi sistem handover utuh yang mencakup template notifikasi satu baris di grup serta pembagian buffer time 1 jam untuk menjaga kepatuhan waktu.\nNext practice: Pada Minggu 8, saya akan mengevaluasi hasil penerapan sistem ini setelah pengumpulan tahap kedua selesai, mengukur apakah waktu kompilasi akhir D benar-benar berkurang dari 2 jam, dan mengumpulkan feedback lanjutan dari D maupun anggota kelompok.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6690,7 +6789,7 @@
     "href": "portfolio/week-07.html#self-assessment",
     "title": "Problem–Solution Interest Pitch",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nValue dan concern D terhadap efisiensi kompilasi, kemudahan anggota, dan kepatuhan jadwal dipetakan secara jelas.\n\n\nObjective & State\n4\nObjective pitch tercapai dan perpindahan state D dari Attention menjadi Interest terverifikasi melalui respons dan pertanyaan lanjutannya.\n\n\nRepertoire, Language & AI\n4\nPitch dilengkapi attention evidence dan demonstrasi nyata struktur folder Drive; penggunaan AI dijelaskan secara proporsional.\n\n\nResponse & Adaptation\n4\nPertanyaan D mengungkap hidden concern (visibilitas revisi & disiplin cut-off), lalu mekanisme solusi langsung diadaptasi secara tepat.\n\n\nAgreement, Action & Relationship\n3\nD merespons antusias dan menyepakati penerapan sistem folder terpusat beserta aturan check-in pada tahap kedua.\n\n\n\nTotal: 18 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6723,7 +6822,7 @@
     "href": "portfolio/week-09.html#evidence-wajib",
     "title": "Desire-State Communication",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6734,7 +6833,40 @@
     "href": "portfolio/week-09.html#konteks-performance",
     "title": "Desire-State Communication",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Percakapan desire-state communication dilakukan pada Rabu, 11 November 2026 melalui pesan WhatsApp dan diskusi singkat seusai kelas bersama D (koordinator teknis/ketua kelompok tugas besar), setelah kelompok menjalani uji coba awal sistem folder Google Drive terpusat pada pengumpulan tahap kedua.\nObjective dan initial state: Objective saya adalah membantu D merumuskan desired state yang spesifik dan terukur untuk penyelesaian proyek tahap akhir (final), menghubungkan fitur mekanisme solusi dengan value yang D inginkan, serta mengidentifikasi risiko dan evidence threshold sebelum berkomitmen mengadopsi sistem tersebut secara penuh. Initial state D adalah Interest berdasarkan Week 7: ia sudah menyambut baik struktur folder terpusat beserta template laporan satu baris di grup dan telah mencobanya pada skala kecil di tahap kedua.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#current-state-vs.-desired-state",
+    "href": "portfolio/week-09.html#current-state-vs.-desired-state",
+    "title": "Desire-State Communication",
+    "section": "Current state vs. desired state",
+    "text": "Current state vs. desired state\n\n\n\n\n\n\n\n\n\nAspek\nCurrent state (Kondisi saat ini)\nDesired state (Kondisi yang diinginkan bersama)\nGap / Perubahan yang dituju\n\n\n\n\nAlur pengumpulan & versi file\nSebagian anggota sudah mulai mengunggah ke folder Drive terpusat, tetapi saat revisi cepat mendekati deadline masih ada 1–2 anggota yang mengirim file lewat obrolan grup sehingga D tetap harus mengecek dua tempat.\n100% file progres dan revisi final terkumpul satu pintu di folder Drive terpusat dengan penamaan berversi baku (Bab_vX_Inisial) tanpa ada file tercecer di obrolan grup.\nMenghilangkan duplikasi saluran pengiriman file (single source of truth).\n\n\nWaktu & beban kompilasi akhir\nWaktu kompilasi dan pengecekan versi dokumen berkurang dari 2 jam menjadi sekitar 45 menit, tetapi D masih perlu menanyakan status revisi secara manual kepada anggota yang belum lapor.\nWaktu kompilasi dokumen final maksimal 15–20 menit karena seluruh file sudah rapi sesuai format dan statusnya terlapor otomatis lewat template satu baris.\nMenghemat 25–30 menit waktu koordinasi menjelang deadline final.\n\n\nKepatuhan & ketenangan kerja koordinator\nD masih merasa cemas menjelang cut-off time karena khawatir ada anggota yang mengunggah revisi di menit terakhir tanpa pemberitahuan.\nD memiliki visibilitas penuh atas progres tiap sub-bab minimal 3 jam sebelum deadline sehingga proses review akhir berjalan tenang tanpa panik (last-minute rush).\nMengubah peran D dari “pengejar file” menjadi reviewer kualitas dokumen.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "title": "Desire-State Communication",
+    "section": "Feature–benefit–value–outcome chain",
+    "text": "Feature–benefit–value–outcome chain\nUntuk memastikan mekanisme solusi terhubung secara kredibel dengan desired state D, berikut adalah rantai nilai (value chain) yang dibahas dan disepakati bersama:\n\n\n\n\n\n\n\n\n\nFeature (Fitur mekanisme)\nBenefit (Manfaat langsung)\nValue bagi target (D)\nMeasurable outcome (Hasil terukur)\n\n\n\n\nStruktur folder Drive terpusat + kunci akses edit per tahap\nSeluruh anggota mengunggah dan menyunting pada satu direktori baku sehingga tidak ada lagi file versi ganda di chat grup.\nMenghemat energi mental D karena tidak perlu melacak riwayat pesan atau takut salah menggabungkan versi dokumen lama.\n0 file tugas yang dikirim melalui chat grup pada pengumpulan tahap final; 100% berada di folder Drive.\n\n\nTemplate notifikasi satu baris (Update [Bagian] - v2)\nD langsung mendapat pemberitahuan setiap kali ada unggahan revisi baru tanpa harus membuka folder berulang kali.\nMemberikan rasa aman (peace of mind) dan kendali penuh atas progres kelompok tanpa terkesan melakukan micromanagement.\n100% unggahan revisi disertai laporan satu baris maksimal 10 menit setelah file diunggah.\n\n\nAturan cut-off time 3 jam + buffer 1 jam revisi minor\nMemberikan jeda waktu khusus bagi D untuk menggabungkan dokumen dan mengecek konsistensi format sebelum tenggat dosen.\nD dapat fokus meningkatkan kualitas isi laporan akhir dan beristirahat lebih awal alih-alih begadang memperbaiki format.\nWaktu kompilasi akhir turun menjadi kurang dari 20 menit, dan dokumen terkumpul minimal 1 jam sebelum deadline.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#risk-evidence-threshold-response-dan-adaptation",
+    "href": "portfolio/week-09.html#risk-evidence-threshold-response-dan-adaptation",
+    "title": "Desire-State Communication",
+    "section": "Risk, evidence threshold, response, dan adaptation",
+    "text": "Risk, evidence threshold, response, dan adaptation\nRisiko yang diidentifikasi bersama target: 1. Risiko kebiasaan lama (revert to habit): Saat tekanan deadline final tinggi, anggota kelompok berisiko kembali mengirim file cepat lewat WhatsApp karena dianggap lebih praktis daripada membuka Google Drive di ponsel. 2. Risiko lupa mengisi laporan satu baris: Anggota sudah mengunggah file ke Drive, tetapi lupa mengirim template update di grup sehingga D tidak menyadari adanya revisi baru.\nEvidence threshold (Batas bukti kelayakan sebelum komitmen penuh): D menetapkan syarat bukti konkret bahwa sistem ini layak dijadikan standar wajib kelompok hingga presentasi akhir: - Pada simulasi pengumpulan draf pra-final (H-2 sebelum deadline akhir), minimal 4 dari 5 anggota kelompok mampu mengunggah file sesuai format penamaan versi dan mengirimkan laporan satu baris di grup tanpa perlu diingatkan secara personal oleh D. - Waktu yang dibutuhkan D untuk menggabungkan draf pra-final tersebut tidak lebih dari 20 menit.\nResponse target: Ketika saya memaparkan feature–benefit–value–outcome chain dan menanyakan komitmennya menuju desired state tersebut, D merespons positif namun menyampaikan kekhawatiran terkait risiko anggota yang lupa melapor: “Kalau soal folder terpusat gue yakin banget bisa bikin kompilasi jadi 15 menit aja sih Mal, dan itu ngebantu gue banget biar nggak stres pas hari-H. Cuma gue masih agak sangsi anak-anak bakal disiplin ngisi laporan satu baris pas lagi panik ngerjain revisi akhir.”\nAdaptation: Merespons keraguan D pada risiko lupa melapor, saya tidak memaksakan komitmen permanen saat itu juga. Saya mengadaptasi kesepakatan dengan mengusulkan uji coba berbatas (time-boxed trial) pada H-2 sebelum deadline final dengan menambahkan satu pinned message berisi tautan folder dan format laporan satu baris di puncak obrolan grup agar anggota tidak perlu mengetik ulang format dari nol. Saya juga menyepakati bahwa jika pada H-2 nanti waktu kompilasi D masih di atas 20 menit atau lebih dari satu anggota mengirim file via chat, sistem akan dievaluasi ulang.\nState setelah interaksi: State D berpindah dari Interest menjadi Desire karena ia secara eksplisit menginginkan hasil akhir berupa waktu kompilasi di bawah 20 menit dan ketenangan menjelang deadline, menyepakati evidence threshold pada H-2, serta siap menjalankan uji coba penuh bersama kelompok.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6745,7 +6877,7 @@
     "href": "portfolio/week-09.html#evidence",
     "title": "Desire-State Communication",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\nTranscript percakapan membangun desired state & value chain (WhatsApp, 11 November 2026):\n\nAkmal: “D, setelah kemarin kita coba folder Drive terpusat di tahap dua, waktu kompilasi lo udah turun dari 2 jam ke 45 menit ya. Nah buat tahap final nanti, kondisi ideal yang paling lo pengenin kayak gimana biar nggak keteteran sama sekali?”\nD: “Jujur gue pengen pas tahap final nanti semua file udah ngumpul satu pintu di Drive tanpa ada yang nyasar di chat lagi, jadi gue cuma butuh waktu sekitar 15–20 menitan buat gabungin dan cek kerapihan format, nggak perlu begadang ngejar-ngejar versi file kayak tahap satu.”\nAkmal: “Berarti kalau folder Drive satu pintu, format nama berversi, sama laporan satu baris di grup jalan konsisten, manfaat langsungnya lo nggak perlu bolak-balik ngecek folder dan punya waktu bersih 2 jam sebelum deadline buat review kualitas isi laporan, ya. Menurut lo hasil kayak gitu udah sesuai sama yang lo butuhin?”\nD: “Iya pas banget Mal. Kalau soal folder terpusat gue yakin banget bisa bikin kompilasi jadi 15 menit aja sih, dan itu ngebantu gue banget biar nggak stres pas hari-H. Cuma gue masih agak sangsi anak-anak bakal disiplin ngisi laporan satu baris pas lagi panik ngerjain revisi akhir.”\n\nTranscript pembahasan risk, evidence threshold, dan adaptation (11 November 2026):\n\nAkmal: “Wajar sih D kalau khawatir anak-anak lupa pas lagi mepet. Gimana kalau format laporan satu baris sama link Drive-nya kita pin di atas grup biar tinggal copy-paste, terus kita pasang standar uji coba di pengumpulan draf H-2 besok: kalau minimal 4 dari 5 anggota upload rapi tanpa lo ingetin dan kompilasi lo beres di bawah 20 menit, sistem ini kita patenin sampai pengumpulan akhir. Kalau gagal, kita cari cara lain. Gimana menurut lo?”\nD: “Setuju banget tuh kalau ada patokan H-2 gitu. Jadi kelihatan buktinya dulu sebelum hari-H. Oke gas, gue pin formatnya di grup sekarang buat persiapan H-2.”\n\n(Catatan: Transcript attention pitch Week 6 dan demonstrasi struktur folder serta hidden concern dari Week 7 menjadi evidence pendukung kesinambungan perpindahan state target).",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6756,7 +6888,7 @@
     "href": "portfolio/week-09.html#analisis-komunikasi",
     "title": "Desire-State Communication",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & target\nD adalah koordinator teknis yang menghargai efisiensi waktu, kepastian alur kerja, dan ketenangan menjelang tenggat akhir. Saya berperan sebagai mitra diskusi yang membantu memetakan kondisi idealnya secara realistis.\n\n\nObjective & state\nObjective merumuskan desired state bersama dan menghubungkannya dengan solusi tercapai. State D berpindah dari Interest ke Desire karena ia menginginkan penghematan waktu kompilasi menjadi 15–20 menit dan siap menguji kelayakannya pada H-2.\n\n\nRepertoire & language\nMenggunakan pertanyaan eksplorasi desired state, pemetaan feature–benefit–value–outcome dengan angka waktu konkret (2 jam → 45 menit → kurang dari 20 menit), serta penawaran evidence threshold yang objektif.\n\n\nResponse & adaptation\nD menyampaikan risiko ketidakpatuhan anggota saat panik menjelang deadline. Saya mengadaptasi solusi dengan menambahkan pinned message untuk mempermudah copy-paste dan menetapkan ambang batas evaluasi pada H-2.\n\n\nAgreement/action\nD menyepakati uji coba penuh dengan pinned message pada pengumpulan draf H-2 dan menetapkan kriteria keberhasilan (minimal 4/5 anggota patuh, kompilasi kurang dari 20 menit).\n\n\nRelationship outcome\nKepercayaan D terhadap usulan solusi semakin kuat karena risiko kegagalan diakui secara jujur dan diantisipasi bersama tanpa paksaan.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6767,7 +6899,7 @@
     "href": "portfolio/week-09.html#penggunaan-ai",
     "title": "Desire-State Communication",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nSaya menggunakan AI untuk membantu menyusun kerangka tabel perbandingan current vs. desired state serta tabel feature–benefit–value–outcome chain agar alurnya sistematis dan mudah dipindai. Seluruh konteks proyek kelompok, angka waktu kompilasi (2 jam, 45 menit, 20 menit), risiko yang diungkapkan D, serta transkrip percakapan berasal dari interaksi nyata dan diperiksa kembali agar tetap akurat tanpa merekayasa respons target.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6778,7 +6910,7 @@
     "href": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
     "title": "Desire-State Communication",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: D menyatakan bahwa target waktu kompilasi 15–20 menit dan sistem satu pintu sangat sesuai dengan kebutuhannya (“Iya pas banget Mal… itu ngebantu gue banget biar nggak stres pas hari-H”), sekaligus memberikan masukan kritis mengenai risiko anggota yang lupa mengirim laporan satu baris saat terburu-buru.\nAdaptation/replay: Saya merespons kekhawatiran D dengan menyederhanakan langkah pelaporan melalui pinned message di grup dan mengubah komitmen langsung menjadi uji coba terukur berbasis evidence threshold pada H-2 sebelum tenggat akhir.\nNext practice: Pada tahap Action (Minggu 10), saya akan mencatat hasil aktual uji coba H-2 bersama D untuk memverifikasi apakah evidence threshold (waktu kompilasi di bawah 20 menit dan kepatuhan minimal 4 dari 5 anggota) benar-benar terpenuhi.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6789,7 +6921,7 @@
     "href": "portfolio/week-09.html#self-assessment",
     "title": "Desire-State Communication",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMemetakan current state, desired state, dan kekhawatiran spesifik D secara empatik dan realistis.\n\n\nObjective & State\n4\nDesired state terumuskan bersama secara terukur dan perpindahan state D dari Interest ke Desire terverifikasi lewat transkrip.\n\n\nRepertoire, Language & AI\n4\nRantai feature–benefit–value–outcome tersusun kredibel dengan bukti angka konkret; penggunaan AI dijelaskan secara transparan.\n\n\nResponse & Adaptation\n4\nRisiko lupa melapor direspons dengan pinned message dan penetapan evidence threshold pada H-2 sebelum komitmen penuh.\n\n\nAgreement, Action & Relationship\n3\nD menyepakati kriteria evidence threshold H-2 dan langsung mem-pin format laporan di grup kelompok.\n\n\n\nTotal: 19 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6822,7 +6954,7 @@
     "href": "portfolio/week-11.html#evidence-wajib",
     "title": "Multi-Person Negotiation Challenge",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nStakeholder person map dan multi-state TAIDA.\nPosition–interest analysis, common ground, dan options.\nNegotiation evidence, agreement/dissent, dan relationship review.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 11 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nStakeholder person map dan multi-state TAIDA.\nPosition–interest analysis, common ground, dan options.\nNegotiation evidence, agreement/dissent, dan relationship review.",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
@@ -6833,18 +6965,40 @@
     "href": "portfolio/week-11.html#konteks-performance",
     "title": "Multi-Person Negotiation Challenge",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Sesi negosiasi multi-pihak berlangsung pada Sabtu, 21 November 2026 pukul 19.30–20.20 WIB melalui panggilan suara daring (Google Meet) dan dilanjutkan konfirmasi tertulis di grup koordinasi panitia, membahas pembagian slot durasi rundown serta alokasi anggaran sisa untuk kegiatan gelar karya dan malam puncak acara mahasiswa.\nPeran dan situasi awal: Saya berperan sebagai Penanggung Jawab (PJ) Acara yang memfasilitasi perbedaan pandangan antara tiga koordinator sub-divisi utama: R. (Koordinator Acara/Konten), K. (Koordinator Humas & Media Partner), dan F. (Koordinator Lapangan & Logistik). Ketegangan muncul karena total durasi yang diajukan masing-masing divisi melebihi batas izin gedung sebesar 35 menit, serta terdapat selisih usulan penggunaan sisa dana operasional sebesar Rp450.000.",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-11.html#evidence",
-    "href": "portfolio/week-11.html#evidence",
+    "objectID": "portfolio/week-11.html#stakeholder-person-map-dan-multi-state-taida",
+    "href": "portfolio/week-11.html#stakeholder-person-map-dan-multi-state-taida",
     "title": "Multi-Person Negotiation Challenge",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Stakeholder person map dan multi-state TAIDA",
+    "text": "Stakeholder person map dan multi-state TAIDA\n\n\n\n\n\n\n\n\n\n\n\nStakeholder (Person)\nObjective\nConstraint (Batasan)\nAuthority (Wewenang)\nInitial TAIDA State\nTarget / Final TAIDA State\n\n\n\n\nR. (Koordinator Acara / Konten)\nMempertahankan durasi penuh sesi diskusi panel dan penampilan utama agar kualitas konten acara maksimal.\nMateri pengisi acara sudah dikunci sejak H-7; pemangkasan mendadak berisiko membuat pengisi acara kecewa.\nMengatur urutan segmen konten dan berkomunikasi langsung dengan pengisi acara.\nDesire (ingin mempertahankan rundown ideal versi divisi Acara)\nAction (menyepakati pemadatan segmen 15 menit dan menjalankan rundown revisi)\n\n\nK. (Koordinator Humas & Media Partner)\nMendapatkan slot khusus 20 menit di prime time untuk ad-libs sponsor serta alokasi dana cetak backdrop tambahan.\nTerikat perjanjian tertulis (MoU) dengan 3 sponsor dan 5 media partner yang wajib disebut saat acara berlangsung.\nMenentukan bentuk eksposur sponsor dan menandatangani berita acara kewajiban media partner.\nAttention (sadar ada bentrok jadwal, tetapi bertahan pada kewajiban kontrak sponsor)\nAction (setuju menggabungkan ad-libs ke transisi MC dan memakai digital display)\n\n\nF. (Koordinator Lapangan & Logistik)\nMenyisakan jeda teknis minimal 20 menit untuk changeover alat dan memastikan acara selesai tepat pukul 21.30 WIB tanpa denda lembur gedung.\nAturan pengelola gedung sangat ketat (denda Rp300.000/30 menit jika lewat jam 21.30 WIB) dan kru teknis terbatas.\nMengatur akses panggung, soundcheck, serta menghentikan segmen jika melewati batas waktu gedung.\nInterest (tertarik mencari solusi aman, tetapi khawatir kru kewalahan jika jeda dipangkas)\nAction (menyepakati jeda 15 menit dengan pembagian zona kru dan alokasi dana baterai/kabel)\n\n\nAkmal (PJ Acara / Fasilitator)\nMenghasilkan kesepakatan rundown yang pas batas waktu 21.30 WIB dan alokasi dana Rp450.000 yang adil tanpa merusak relasi antar-divisi.\nTidak bisa memaksakan keputusan sepihak tanpa persetujuan teknis lapangan dan kepatuhan kontrak sponsor.\nMemutuskan rundown final tingkat panitia dan mengesahkan pencairan anggaran operasional.\nAction (memfasilitasi negosiasi berbasis kepentingan)\nAction (mengunci agreement tertulis dan memantau eksekusi)",
+    "crumbs": [
+      "Beranda",
+      "Multi-Person Negotiation Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-11.html#positioninterest-analysis-common-ground-dan-options",
+    "href": "portfolio/week-11.html#positioninterest-analysis-common-ground-dan-options",
+    "title": "Multi-Person Negotiation Challenge",
+    "section": "Position–interest analysis, common ground, dan options",
+    "text": "Position–interest analysis, common ground, dan options\n\nAnalisis Position vs. Interest\n\n\n\n\n\n\n\n\nStakeholder\nPosition (Tuntutan permukaan)\nUnderlying Interest (Kepentingan mendasar)\n\n\n\n\nR. (Acara)\n“Segmen panel dan penampilan utama tidak boleh dipotong durasinya sama sekali.”\nMenjaga reputasi kualitas acara dan mencegah komplain dari pembicara maupun penampil yang sudah latihan.\n\n\nK. (Humas)\n“Harus ada slot khusus 20 menit di tengah acara untuk sponsor dan dana Rp450.000 dipakai cetak banner tambahan.”\nMemenuhi kewajiban kontrak sponsor agar tidak terjadi penalti dan menjaga hubungan baik untuk acara tahun berikutnya.\n\n\nF. (Lapangan)\n“Acara wajib selesai jam 21.30 WIB dan jeda ganti alat panggung harus tetap 20 menit.”\nMencegah denda keterlambatan gedung dan memastikan keselamatan serta kelancaran teknis di atas panggung.\n\n\n\nCommon ground (Titik temu bersama): 1. Seluruh divisi sepakat bahwa acara harus selesai tepat waktu maksimal pukul 21.30 WIB agar anggaran panitia tidak terpotong denda sewa gedung. 2. Seluruh pihak mengakui bahwa kepuasan audiens, terpenuhinya hak sponsor, dan kelancaran teknis panggung sama-sama menentukan keberhasilan acara secara keseluruhan.\n\n\nOptions dan Trade-off yang Dibahas\n\n\n\n\n\n\n\n\n\n\nOpsi negosiasi\nMekanisme & pembagian sumber daya\nKeuntungan (Benefit)\nTrade-off / Konsekuensi\nKeputusan\n\n\n\n\nOpsi 1: Pemotongan proporsional rata (Potong 12 menit tiap divisi)\nDurasi konten Acara, slot sponsor Humas, dan jeda teknis Lapangan masing-masing dipotong 12 menit; dana Rp450.000 dibagi tiga rata.\nTerlihat adil secara matematis dan cepat diputuskan.\nJeda teknis tersisa 8 menit (berisiko chaotic di panggung) dan slot sponsor tidak memenuhi durasi minimal MoU.\nDitolak (mengorbankan keamanan teknis dan melanggar kontrak).\n\n\nOpsi 2: Integrasi ad-libs sponsor + pemadatan transisi konten + alokasi dana berbasis prioritas teknis\nSlot 20 menit Humas dipecah menjadi 4 segmen ad-libs MC berdurasi 3 menit di sela changeover alat (hemat 20 menit); sesi tanya-jawab panel Acara dipadatkan 10 menit (hemat 10 menit); jeda Lapangan disesuaikan menjadi 15 menit (hemat 5 menit). Dana Rp450.000 dialokasikan Rp250.000 untuk perlengkapan teknis Lapangan dan Rp200.000 untuk materi publikasi digital Humas.\nTotal durasi berkurang tepat 35 menit sesuai batas 21.30 WIB, kewajiban kontrak sponsor tetap terpenuhi 100%, dan kualitas penampilan utama tidak terpotong.\nMC dan tim Humas harus menyiapkan naskah transisi yang sangat padat; kru Lapangan harus bekerja dengan skema paralel saat pergantian alat.\nDisepakati bersama\n\n\nOpsi 3: Mengajukan perpanjangan jam gedung 30 menit menggunakan sisa dana\nMenggunakan Rp300.000 dari sisa dana untuk membayar biaya lembur gedung hingga pukul 22.00 WIB.\nTidak ada durasi segmen yang perlu dipangkas.\nSisa dana Rp150.000 tidak cukup menutup kebutuhan teknis Lapangan dan media Humas, serta izin gedung berisiko ditolak pengelola.\nDitolak (risiko penolakan izin terlalu tinggi).",
+    "crumbs": [
+      "Beranda",
+      "Multi-Person Negotiation Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-11.html#negotiation-evidence-agreementdissent-dan-relationship-review",
+    "href": "portfolio/week-11.html#negotiation-evidence-agreementdissent-dan-relationship-review",
+    "title": "Multi-Person Negotiation Challenge",
+    "section": "Negotiation evidence, agreement/dissent, dan relationship review",
+    "text": "Negotiation evidence, agreement/dissent, dan relationship review\n\nTranskrip Negosiasi Multi-Pihak (Google Meet, 21 November 2026)\n\nAkmal (Fasilitator - Framing Common Ground): “Teman-teman, makasih udah hadir. Kita punya tujuan yang sama: acara selesai jam 21.30 WIB tanpa denda gedung, konten tetap keren, sponsor aman, dan kru lapangan nggak kewalahan. Saat ini total jadwal kita kelebihan 35 menit dan ada sisa dana Rp450.000. Biar nggak tarik-menarik posisi, coba kita bedah kebutuhan paling mendasar dari tiap divisi dulu ya.”\nR. (Acara): “Dari Acara, yang paling krusial itu durasi penampilan utama jangan sampai dipotong karena mereka udah fix setlist. Kalau tanya-jawab panel dipadatkan 10 menit dari 30 ke 20 menit masih aman asal pertanyaan dikurasi.”\nK. (Humas): “Kalau dari Humas, yang wajib secara kontrak itu penyebutan nama 3 sponsor dan 5 medpar minimal 4 kali selama acara, plus logo tampil. Sebenarnya nggak harus berdiri sendiri 20 menit kalau memang bisa disisipin di transisi MC, asal durasi total penyebutannya tetap sekitar 12 menit dan ada tampilan visual di layar.”\nF. (Lapangan): “Nah kalau sponsor masuk pas transisi MC sambil kru ganti alat, itu malah ngebantu nutup waktu kosong di panggung! Jadi jeda ganti alat bisa gue padatin dari 20 menit ke 15 menit, asal gue dapet tambahan dana Rp250.000 buat sewa kabel cadangan dan baterai mic biar nggak ada kendala teknis pas changeover.”\nK. (Humas - Dissent / Catatan Keberatan Awal): “Gue setuju konsep transisi MC, tapi kalau dana teknis ambil Rp250.000, sisa Rp200.000 nggak cukup buat cetak standing banner sponsor yang baru konfirmasi kemarin.”\nAkmal (Facilitating Trade-off): “Bagaimana kalau standing banner fisik diganti tampilan loop di LED/proyektor panggung yang nggak butuh biaya cetak, jadi Rp200.000-nya fokus dipakai Humas untuk keperluan publikasi medpar dan voucher konsumsi tamu sponsor? Dengan begitu Lapangan dapat Rp250.000 untuk keamanan teknis, dan kewajiban visual sponsor tetap tayang lebih besar di layar utama.”\nK. (Humas): “Oh iya bener juga, tampil di layar panggung malah lebih kelihatan audiens daripada banner di pojok. Oke, Humas setuju Rp200.000 dengan skema layar utama.”\nR. (Acara) & F. (Lapangan): “Setuju, pas banget pembagiannya.”\n\n\n\nAgreement Eksplisit & Dokumentasi Dissent\n\n\n\n\n\n\n\n\n\nPoin Kesepakatan (Agreement)\nOwner\nDeadline\nStatus & Indikator\n\n\n\n\n1. Revisi Rundown (-35 menit): Pemadatan Q&A panel (-10 menit), integrasi slot sponsor ke 4 transisi MC (-20 menit), dan penyesuaian jeda teknis menjadi 15 menit (-5 menit).\nR. (Koordinator Acara)\nMinggu, 22 Nov 2026, pukul 18.00 WIB\nDokumen rundown final terkunci selesai tepat pukul 21.30 WIB.\n\n\n2. Naskah Ad-libs Transisi & Aset Visual Sponsor: Menyusun 4 skrip transisi MC (3 menit/segmen) dan file visual looping sponsor untuk layar utama panggung.\nK. (Koordinator Humas)\nSenin, 23 Nov 2026, pukul 20.00 WIB\nSeluruh kewajiban MoU sponsor dan media partner terakomodasi tanpa segmen terpisah.\n\n\n3. Skema Changeover Paralel & Pengadaan Teknis: Alokasi dana Rp250.000 untuk baterai/kabel cadangan dan pembagian zona kru panggung selama 15 menit jeda.\nF. (Koordinator Lapangan)\nSelasa, 24 Nov 2026, pukul 15.00 WIB\nPeralatan cadangan siap dan simulasi changeover berjalan di bawah 15 menit.\n\n\n4. Pengesahan Alokasi Dana Sisa Rp450.000: Rp250.000 untuk Lapangan dan Rp200.000 untuk Humas.\nAkmal (PJ Acara)\nMinggu, 22 Nov 2026, pukul 12.00 WIB\nNota pencairan dana disetujui bendahara dan dikirim ke grup panitia.\n\n\n\nCatatan Dissent (Keberatan yang Dicatat & Batasannya): - Keberatan K. (Humas): K. mencatat bahwa penghapusan standing banner fisik berisiko mengurangi eksposur di area lobi luar ruangan. Sebagai batas pengaman (boundary), disepakati bahwa jika salah satu sponsor meminta bukti foto lobi secara spesifik sebelum H-1, Humas berhak mengajukan relokasi 1 standing banner pinjaman dari sekretariat himpunan tanpa biaya cetak baru. - Keberatan F. (Lapangan): F menegaskan bahwa jeda 15 menit adalah batas minimum mutlak; jika pengisi acara utama molor lebih dari 3 menit, MC wajib langsung memotong sesi interaksi audiens agar jam 21.30 WIB tidak terlampaui.\n\n\nRelationship Review Pasca-Negosiasi\nSetelah sesi negosiasi selesai, saya melakukan pengecekan singkat terhadap dinamika hubungan antar-koordinator di grup panitia: - Suasana kolaborasi: Ketegangan awal antara Humas dan Lapangan mereda sepenuhnya setelah solusi layar utama dan pembagian dana disepakati. Ketiga koordinator langsung saling berkoordinasi di grup untuk menyelaraskan cue MC dan pergantian alat. - Persepsi keadilan (fairness): Tidak ada divisi yang merasa dikalahkan karena keputusan diambil berdasarkan kepentingan mendasar (underlying interest) masing-masing, bukan tekanan hierarki.",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
@@ -6855,7 +7009,7 @@
     "href": "portfolio/week-11.html#analisis-komunikasi",
     "title": "Multi-Person Negotiation Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & target\nMemetakan 3 koordinator divisi dengan objective, constraint, authority, dan TAIDA state berbeda (Desire, Attention, Interest) serta memfasilitasi pergerakan semuanya menuju Action.\n\n\nObjective & state\nObjective memangkas kelebihan durasi 35 menit dan membagi dana Rp450.000 tercapai. Ketiga stakeholder berpindah ke state Action dengan komitmen tugas spesifik.\n\n\nRepertoire & language\nMenggunakan framing common ground di awal, memisahkan position dari interest, menawarkan trade-off kreatif (layar utama menggantikan banner cetak), serta merangkum keputusan berbasis owner dan deadline.\n\n\nResponse & adaptation\nSaat K. menyampaikan keberatan terkait kurangnya dana cetak banner, saya tidak memaksakan pemotongan, melainkan mengalihkan media eksposur ke layar LED panggung yang justru memberi nilai visual lebih tinggi.\n\n\nAgreement/action\nAgreement tercatat eksplisit dengan 4 poin tindakan, owner, deadline, serta dokumentasi dissent dan batas pengaman (boundary) yang jelas.\n\n\nRelationship outcome\nHubungan kerja lintas divisi tetap solid dan saling mendukung; koordinasi teknis lanjutan berjalan lancar tanpa residu konflik.",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
@@ -6866,7 +7020,7 @@
     "href": "portfolio/week-11.html#penggunaan-ai",
     "title": "Multi-Person Negotiation Challenge",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\nSaya menggunakan AI untuk membantu menyusun kerangka tabel stakeholder person map dan matriks perbandingan position–interest serta merapikan tata bahasa Indonesia pada laporan refleksi ini. Seluruh skenario negosiasi panitia, angka durasi (35 menit, batas 21.30 WIB), nominal anggaran (Rp450.000), transkrip percakapan antar-koordinator, serta rincian agreement dan dissent berasal dari pengalaman koordinasi nyata dan diperiksa kembali agar tetap akurat.",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
@@ -6877,7 +7031,7 @@
     "href": "portfolio/week-11.html#feedback-dan-tindak-lanjut",
     "title": "Multi-Person Negotiation Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Seusai rapat negosiasi, K. (Humas) dan F. (Lapangan) menyampaikan tanggapan positif di grup panitia bahwa alur diskusi terasa adil dan solutif (“Mantap Mal, pembagian waktunya jadi masuk akal banget dan nggak ada yang ngerasa dikorbanin”).\nAdaptation/replay: Menggali underlying interest di balik tuntutan durasi 20 menit Humas membuka ruang solusi integrasi ad-libs transisi MC yang sekaligus memecahkan masalah jeda kosong Lapangan.\nNext practice: Pada fasilitasi negosiasi multi-pihak berikutnya, saya akan selalu memulai dengan menyepakati common ground dan batasan objektif (hard constraints) di 5 menit pertama sebelum membahas pembagian sumber daya agar diskusi tidak terjebak pada perdebatan posisi.",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
@@ -6888,7 +7042,7 @@
     "href": "portfolio/week-11.html#self-assessment",
     "title": "Multi-Person Negotiation Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMemetakan objective, constraint, authority, dan multi-state TAIDA dari tiga stakeholder secara akurat dan proporsional.\n\n\nObjective & State\n4\nBerhasil memfasilitasi perpindahan state seluruh stakeholder dari Attention/Interest/Desire menuju Action yang selaras.\n\n\nRepertoire, Language & AI\n3\nMenggunakan analisis position–interest, common ground, dan bahasa fasilitasi yang netral; penggunaan AI dijelaskan secara transparan.\n\n\nResponse & Adaptation\n4\nMerespons keberatan (dissent) anggaran cetak banner dengan alternatif layar panggung tanpa mengurangi nilai eksposur sponsor.\n\n\nAgreement, Action & Relationship\n4\nMenghasilkan agreement eksplisit dengan owner dan deadline, mencatat dissent secara jujur, serta menjaga harmoni hubungan lintas divisi.\n\n\n\nTotal: 19 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Multi-Person Negotiation Challenge"
